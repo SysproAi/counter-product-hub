@@ -7831,5 +7831,1988 @@
   ],
   "source": "Sherlotronics Relay Boards datasheet.",
   "onepager": "products/14SHRELAY/onepager.pdf"
+ },
+ {
+  "code": "41AKC-0001",
+  "name": "Texecom PetWise Quad PIR (White)",
+  "brand": "Texecom",
+  "category": "Intrusion › Motion detectors",
+  "subtitle": "20 m quad-element PIR with optional PetWise mode · Grade 2",
+  "tagline": "Long-range quad PIR with a switchable pet-tolerant mode — for homes with pets or larger rooms.",
+  "image": null,
+  "imageNote": "No product photo in the datasheet",
+  "note": "The datasheet on file is a short web summary. Pet weight limits and electrical specs aren't stated — check before quoting.",
+  "keywords": [
+   "PetWise",
+   "AKC-0001",
+   "AKC-0006",
+   "pet",
+   "quad",
+   "PIR",
+   "Texecom",
+   "motion detector",
+   "20m"
+  ],
+  "kpis": [
+   {
+    "v": "20 m",
+    "l": "range"
+   },
+   {
+    "v": "90°",
+    "l": "coverage"
+   },
+   {
+    "v": "Quad",
+    "l": "element pyro"
+   },
+   {
+    "v": "Grade 2",
+    "l": "EN50131"
+   }
+  ],
+  "bestFor": [
+   "Homes with pets (PetWise mode)",
+   "Larger rooms and open-plan areas (20 m)",
+   "Texecom Premier / Premier Elite systems"
+  ],
+  "notFor": [
+   "Outdoor use",
+   "Very large dogs without checking the pet limits"
+  ],
+  "features": [
+   "<b>Quad element</b> pyro for stability",
+   "<b>Optional PetWise mode</b>",
+   "20 m / 90° volumetric coverage",
+   "EN50131-2-2 & PD6662:2017 Grade 2"
+  ],
+  "specs": [
+   [
+    "Coverage",
+    "20 m / 90° volumetric"
+   ],
+   [
+    "Sensor",
+    "Quad element pyro"
+   ],
+   [
+    "Approvals",
+    "EN50131-2-2 Grade 2, PD6662:2017"
+   ]
+  ],
+  "models": [
+   [
+    "AKC-0001",
+    "White — <b>this unit</b>",
+    true
+   ],
+   [
+    "AKC-0006",
+    "Black"
+   ]
+  ],
+  "qa": [
+   [
+    "Pets?",
+    "Switch on PetWise mode — confirm the pet weight limit with Texecom."
+   ],
+   [
+    "Colours?",
+    "White (AKC-0001) or black (AKC-0006)."
+   ],
+   [
+    "Range?",
+    "Up to 20 m."
+   ]
+  ],
+  "source": "Texecom PetWise product summary.",
+  "onepager": "products/41AKC-0001/onepager.pdf"
+ },
+ {
+  "code": "41ACH-0001",
+  "name": "Texecom Premier Compact PIR",
+  "brand": "Texecom",
+  "category": "Intrusion › Motion detectors",
+  "subtitle": "Compact Grade 2 residential PIR range (IR / XT / QD / PW)",
+  "tagline": "Small, reliable home detectors — choose IR, digital XT, quad QD or pet-immune PW to suit the room.",
+  "image": "products/41ACH-0001/image.png",
+  "note": "Datasheet covers the whole Premier Compact range (IR, XT, QD, PW). Confirm which model this stock code is.",
+  "keywords": [
+   "Premier Compact",
+   "Compact IR",
+   "Compact XT",
+   "Compact QD",
+   "Compact PW",
+   "ACH-0001",
+   "Texecom",
+   "PIR",
+   "pet"
+  ],
+  "kpis": [
+   {
+    "v": "12–15 m",
+    "l": "range"
+   },
+   {
+    "v": "35 kg",
+    "l": "pet immune (PW)"
+   },
+   {
+    "v": "Grade 2",
+    "l": "EN50131"
+   },
+   {
+    "v": "12 V",
+    "l": "9–15 VDC"
+   }
+  ],
+  "bestFor": [
+   "Homes and small offices",
+   "Texecom Premier systems",
+   "Pet owners (PW model)",
+   "Hot rooms (XT/QD temperature compensation)"
+  ],
+  "notFor": [
+   "Outdoor use",
+   "Commercial Grade 3 sites"
+  ],
+  "features": [
+   "<b>Sealed optics</b> — no dust or insects",
+   "<b>Mounting-height alignment</b> 1.5–3.1 m",
+   "Selectable pulse count",
+   "Interchangeable curtain/long-range lenses",
+   "EOL resistors built in"
+  ],
+  "specs": [
+   [
+    "Range",
+    "IR & PW 12 m · XT & QD 15 m"
+   ],
+   [
+    "Power",
+    "9 – 15 VDC, max 10.6 mA"
+   ],
+   [
+    "Start-up",
+    "60 seconds"
+   ],
+   [
+    "Mount height",
+    "1.5 – 3.1 m (PW: 1.5 – 2.3 m)"
+   ],
+   [
+    "Approvals",
+    "EN 50131-2-2 Grade 2"
+   ]
+  ],
+  "models": [
+   [
+    "Compact IR",
+    "Dual element, 12 m"
+   ],
+   [
+    "Compact XT",
+    "Digital, 15 m"
+   ],
+   [
+    "Compact QD",
+    "Digital quad, 15 m"
+   ],
+   [
+    "Compact PW",
+    "Pet immune to 35 kg, 12 m"
+   ]
+  ],
+  "qa": [
+   [
+    "Pets?",
+    "Sell the Compact PW — immune to 35 kg."
+   ],
+   [
+    "Hot rooms?",
+    "XT or QD have digital temperature compensation."
+   ],
+   [
+    "Brackets?",
+    "Wall/ceiling brackets sold separately (packs of 10)."
+   ]
+  ],
+  "source": "Texecom Premier Compact Series datasheet.",
+  "onepager": "products/41ACH-0001/onepager.pdf"
+ },
+ {
+  "code": "41AFE-0001",
+  "name": "Texecom Premier Elite Detector",
+  "brand": "Texecom",
+  "category": "Intrusion › Motion detectors",
+  "subtitle": "Grade 2 interchangeable detector range (IR / TD / QD / DT) · 15 m",
+  "tagline": "Commercial-grade detectors with swappable electronics — upgrade technology without changing the housing.",
+  "image": "products/41AFE-0001/image.png",
+  "note": "Datasheet covers the Premier Elite range (IR, TD, QD, DT). Confirm which model this stock code is.",
+  "keywords": [
+   "Premier Elite",
+   "Elite IR",
+   "Elite QD",
+   "Elite TD",
+   "Elite DT",
+   "AFE-0001",
+   "Texecom",
+   "PIR",
+   "dual tech"
+  ],
+  "kpis": [
+   {
+    "v": "15 m",
+    "l": "range"
+   },
+   {
+    "v": "Grade 2",
+    "l": "EN50131"
+   },
+   {
+    "v": "Swap",
+    "l": "PCB modules"
+   },
+   {
+    "v": "DT",
+    "l": "option"
+   }
+  ],
+  "bestFor": [
+   "Offices, shops and commercial sites",
+   "Upgrading detection without new housings",
+   "Difficult areas (DT dual technology)"
+  ],
+  "notFor": [
+   "Grade 3 sites (see Premier Elite AM)",
+   "Outdoor use"
+  ],
+  "features": [
+   "<b>Interchangeable PCB</b> — swap IR, TD, QD or DT modules",
+   "<b>ICC™</b> ignores RF, lightning, phones (IR)",
+   "Sealed optics, digital temperature compensation",
+   "DT: X-band microwave + PIR, fluorescent light protection"
+  ],
+  "specs": [
+   [
+    "Range",
+    "15 m volumetric"
+   ],
+   [
+    "Approvals",
+    "EN 50131-2-2 / 2-4 Grade 2"
+   ],
+   [
+    "Technologies",
+    "IR, twin dual (TD), quad (QD), dual-tech (DT)"
+   ]
+  ],
+  "models": [
+   [
+    "Elite IR",
+    "High-immunity PIR"
+   ],
+   [
+    "Elite TD",
+    "Twin dual element"
+   ],
+   [
+    "Elite QD",
+    "Genuine quad"
+   ],
+   [
+    "Elite DT",
+    "PIR + microwave"
+   ]
+  ],
+  "qa": [
+   [
+    "Which for a warehouse?",
+    "DT (dual technology) for tough environments."
+   ],
+   [
+    "Grade 3?",
+    "No — see Premier Elite AM series."
+   ],
+   [
+    "Upgrade later?",
+    "Yes — swap the PCB module."
+   ]
+  ],
+  "source": "Texecom Premier Elite Series Detectors datasheet.",
+  "onepager": "products/41AFE-0001/onepager.pdf"
+ },
+ {
+  "code": "41CEL-0001",
+  "name": "Texecom Connect SmartCom",
+  "brand": "Texecom",
+  "category": "Intrusion › Communicators",
+  "subtitle": "Ethernet + WiFi communicator for Premier Elite panels · app control",
+  "tagline": "Connects a Premier Elite panel to the internet for the Texecom Connect app — no router ports to open.",
+  "image": "products/41CEL-0001/image.png",
+  "keywords": [
+   "SmartCom",
+   "Texecom Connect",
+   "CEL-0001",
+   "app",
+   "WiFi",
+   "ethernet",
+   "communicator",
+   "Premier Elite",
+   "Texecom"
+  ],
+  "kpis": [
+   {
+    "v": "LAN",
+    "l": "10/100"
+   },
+   {
+    "v": "WiFi",
+    "l": "2.4 GHz"
+   },
+   {
+    "v": "App",
+    "l": "Texecom Connect"
+   },
+   {
+    "v": "150 mA",
+    "l": "typical"
+   }
+  ],
+  "bestFor": [
+   "Premier Elite customers wanting app arming & alerts",
+   "Homes with reliable internet",
+   "Smart-home recipes (lights, plugs)"
+  ],
+  "notFor": [
+   "Non-Premier Elite panels",
+   "Sites without internet"
+  ],
+  "features": [
+   "<b>App control</b> — arm, disarm, notifications, timeline",
+   "<b>Outbound-only</b> — no router ports to open",
+   "Ethernet or WiFi",
+   "Recipes & rooms for home automation"
+  ],
+  "specs": [
+   [
+    "Ethernet",
+    "10/100 Base-T"
+   ],
+   [
+    "WiFi",
+    "2.4 GHz 802.11 b/g/n"
+   ],
+   [
+    "Voltage",
+    "8 – 15 VDC · 150 mA typical"
+   ],
+   [
+    "Size / weight",
+    "145 × 105 × 28 mm · 165 g"
+   ],
+   [
+    "Operating temp",
+    "0 to +40 °C"
+   ]
+  ],
+  "qa": [
+   [
+    "Port forwarding?",
+    "Not needed."
+   ],
+   [
+    "Which panels?",
+    "Premier Elite series."
+   ],
+   [
+    "WiFi or cable?",
+    "Either."
+   ]
+  ],
+  "source": "Texecom Connect SmartCom datasheet (LIT-0275-2).",
+  "onepager": "products/41CEL-0001/onepager.pdf"
+ },
+ {
+  "code": "39KT-400-EU",
+  "name": "Kantech KT-400 Four-Door Controller",
+  "brand": "Kantech",
+  "category": "Access Control › Door controllers",
+  "subtitle": "Ethernet 4-door / 8-reader controller · standalone or EntraPass",
+  "tagline": "Four doors in one cabinet — web-based standalone setup, or full EntraPass for larger systems.",
+  "image": "products/39KT-400-EU/image.png",
+  "keywords": [
+   "KT-400",
+   "KT400",
+   "Kantech",
+   "door controller",
+   "4 door",
+   "EntraPass",
+   "access control",
+   "ethernet"
+  ],
+  "kpis": [
+   {
+    "v": "4",
+    "l": "doors"
+   },
+   {
+    "v": "8",
+    "l": "readers"
+   },
+   {
+    "v": "100k",
+    "l": "cards offline"
+   },
+   {
+    "v": "5 yr",
+    "l": "warranty"
+   }
+  ],
+  "bestFor": [
+   "Offices with 2–4 controlled doors",
+   "Growing to larger EntraPass systems",
+   "Integration with DSC alarm panels"
+  ],
+  "notFor": [
+   "Single door only (KT-1 is cheaper)",
+   "Outdoor mounting"
+  ],
+  "features": [
+   "<b>Standalone mode</b> — browser setup, 2,000 cardholders",
+   "<b>EntraPass mode</b> — 8 readers, advanced features",
+   "4 supervised lock outputs (12 V internal)",
+   "Expand to 256 inputs / 256 outputs",
+   "Double/triple-swipe to arm alarm"
+  ],
+  "specs": [
+   [
+    "Power",
+    "16.5 or 24 VAC, 75 VA transformer"
+   ],
+   [
+    "Battery",
+    "12 V 7 or 12 Ah · up to 12 h"
+   ],
+   [
+    "Lock power",
+    "12 VDC, 2 A max total"
+   ],
+   [
+    "Relays",
+    "4 × Form C, 30 VDC 3 A"
+   ],
+   [
+    "Cabinet",
+    "376 × 305 × 126 mm · 4 kg"
+   ],
+   [
+    "Operating temp",
+    "2 to 49 °C, indoor"
+   ]
+  ],
+  "models": [
+   [
+    "KT-1",
+    "1 door, PoE"
+   ],
+   [
+    "KT-400",
+    "4 doors / 8 readers — <b>this unit</b>",
+    true
+   ]
+  ],
+  "qa": [
+   [
+    "Readers?",
+    "Kantech ioProx XSF or ioSmart readers."
+   ],
+   [
+    "Software needed?",
+    "Not for standalone — up to 2,000 cardholders in a browser."
+   ],
+   [
+    "Battery?",
+    "12 V 7 or 12 Ah."
+   ]
+  ],
+  "source": "Kantech KT-400 datasheet.",
+  "onepager": "products/39KT-400-EU/onepager.pdf"
+ },
+ {
+  "code": "39P225XSF",
+  "name": "Kantech ioProx P225XSF Mullion Reader",
+  "brand": "Kantech",
+  "category": "Access Control › Readers",
+  "subtitle": "125 kHz proximity reader · mullion · XSF / 26-bit",
+  "tagline": "Slim proximity reader for door frames — reads Kantech ioProx cards and tags.",
+  "image": "products/39P225XSF/image.png",
+  "keywords": [
+   "P225XSF",
+   "P225",
+   "ioProx",
+   "reader",
+   "proximity",
+   "mullion",
+   "Kantech",
+   "125kHz",
+   "XSF"
+  ],
+  "kpis": [
+   {
+    "v": "16.5 cm",
+    "l": "read range"
+   },
+   {
+    "v": "125 kHz",
+    "l": "proximity"
+   },
+   {
+    "v": "300 m",
+    "l": "from controller"
+   },
+   {
+    "v": "−35–65 °C",
+    "l": "operating"
+   }
+  ],
+  "bestFor": [
+   "Door frames and narrow mullions",
+   "Kantech KT-1 / KT-400 systems",
+   "Indoor or outdoor doors"
+  ],
+  "notFor": [
+   "Smart-card (13.56 MHz) systems — use ioSmart",
+   "Non-Kantech systems needing XSF format"
+  ],
+  "features": [
+   "<b>Mullion size</b> — fits door frames",
+   "Bicolour LED + buzzer",
+   "Reads XSF and 26-bit Wiegand",
+   "Optional tamper (P-TAMP)"
+  ],
+  "specs": [
+   [
+    "Read range",
+    "Up to 16.5 cm"
+   ],
+   [
+    "Voltage",
+    "4.5 – 14 VDC, 45 mA max"
+   ],
+   [
+    "Size / weight",
+    "114 × 44.5 × 21 mm · 90 g"
+   ],
+   [
+    "Cable",
+    "3 twisted pairs #22 AWG, up to 300 m"
+   ],
+   [
+    "Colour",
+    "Black"
+   ]
+  ],
+  "models": [
+   [
+    "P225XSF",
+    "Mullion — <b>this unit</b>",
+    true
+   ],
+   [
+    "P225KPXSF",
+    "Mullion with keypad"
+   ],
+   [
+    "P325XSF",
+    "Single-gang, 20.5 cm range"
+   ],
+   [
+    "P325KPXSF",
+    "Single-gang with keypad"
+   ]
+  ],
+  "qa": [
+   [
+    "Which cards?",
+    "Kantech ioProx (e.g. P30DMG, P40KEY)."
+   ],
+   [
+    "Keypad?",
+    "Sell the P225KPXSF."
+   ],
+   [
+    "Outdoor?",
+    "Rated −35 to 65 °C."
+   ]
+  ],
+  "source": "Kantech P225XSF/P325XSF datasheet (DN1495-1909).",
+  "onepager": "products/39P225XSF/onepager.pdf"
+ },
+ {
+  "code": "39P30DMG",
+  "name": "Kantech ioProx P30DMG Card",
+  "brand": "Kantech",
+  "category": "Access Control › Cards & tags",
+  "subtitle": "ISO-thin proximity card with magnetic stripe · printable",
+  "tagline": "Printable ISO proximity card for Kantech ioProx readers — with a blank magstripe for other uses.",
+  "image": "products/39P30DMG/image.png",
+  "keywords": [
+   "P30DMG",
+   "ioProx",
+   "card",
+   "proximity card",
+   "magstripe",
+   "Kantech",
+   "XSF",
+   "badge"
+  ],
+  "kpis": [
+   {
+    "v": "ISO",
+    "l": "credit-card size"
+   },
+   {
+    "v": "XSF",
+    "l": "+26-bit"
+   },
+   {
+    "v": "4 bn+",
+    "l": "unique codes"
+   },
+   {
+    "v": "Printable",
+    "l": "both sides"
+   }
+  ],
+  "bestFor": [
+   "Staff ID badges (dye-sub printing)",
+   "Sites also using magstripe (canteen, etc.)",
+   "Kantech ioProx readers"
+  ],
+  "notFor": [
+   "ioSmart (13.56 MHz) readers",
+   "Key-ring use — sell P40KEY"
+  ],
+  "features": [
+   "<b>Dual format</b> — XSF + 26-bit Wiegand",
+   "<b>Unencoded magnetic stripe</b>",
+   "Printable both sides",
+   "Over 4 billion unique codes"
+  ],
+  "specs": [
+   [
+    "Size",
+    "85 × 54 × 0.7 mm"
+   ],
+   [
+    "Printable",
+    "Both sides"
+   ],
+   [
+    "Slot punch",
+    "No"
+   ]
+  ],
+  "models": [
+   [
+    "P10SHL",
+    "Clamshell card"
+   ],
+   [
+    "P20DYE",
+    "ISO-thin printable"
+   ],
+   [
+    "P30DMG",
+    "ISO + magstripe — <b>this card</b>",
+    true
+   ],
+   [
+    "P40KEY",
+    "Key tag"
+   ],
+   [
+    "P50TAG",
+    "Stick-on round tag"
+   ]
+  ],
+  "qa": [
+   [
+    "Print photos on it?",
+    "Yes, both sides (dye-sub printer)."
+   ],
+   [
+    "Key-ring version?",
+    "P40KEY."
+   ],
+   [
+    "Readers?",
+    "Any Kantech ioProx reader."
+   ]
+  ],
+  "source": "Kantech ioProx Proximity Cards and Tags datasheet.",
+  "onepager": "products/39P30DMG/onepager.pdf"
+ },
+ {
+  "code": "42ZKMB600",
+  "name": "ZKTeco MultiBio 600 Terminal",
+  "brand": "ZKTeco",
+  "category": "Access Control › Biometric readers",
+  "subtitle": "Face + fingerprint access control & time attendance · WiFi",
+  "tagline": "Face and fingerprint clock-in terminal that also opens a door — great for small offices.",
+  "image": "products/42ZKMB600/image.png",
+  "keywords": [
+   "MultiBio 600",
+   "MB600",
+   "ZKTeco",
+   "face",
+   "fingerprint",
+   "biometric",
+   "time attendance",
+   "clock",
+   "WiFi"
+  ],
+  "kpis": [
+   {
+    "v": "800",
+    "l": "faces"
+   },
+   {
+    "v": "3,000",
+    "l": "fingerprints"
+   },
+   {
+    "v": "100k",
+    "l": "records"
+   },
+   {
+    "v": "WiFi",
+    "l": "+ TCP/IP"
+   }
+  ],
+  "bestFor": [
+   "Small offices and shops clocking staff in",
+   "Single-door access with face or finger",
+   "Sites without network cabling (WiFi)"
+  ],
+  "notFor": [
+   "Outdoor mounting",
+   "Large staff counts (>800 faces)"
+  ],
+  "features": [
+   "<b>Face + fingerprint</b> + PIN (card optional)",
+   "2.8\" colour screen",
+   "TCP/IP, WiFi and USB",
+   "Lock, exit button and door sensor inputs",
+   "ZKBioAccess software"
+  ],
+  "specs": [
+   [
+    "Capacity",
+    "800 face · 3,000 finger · 5,000 card (opt.)"
+   ],
+   [
+    "Records",
+    "100,000"
+   ],
+   [
+    "Power",
+    "12 VDC 1.5 A"
+   ],
+   [
+    "Size",
+    "141.7 × 101 × 130.5 mm"
+   ],
+   [
+    "Operating temp",
+    "0 to 45 °C · 20–80% RH"
+   ]
+  ],
+  "qa": [
+   [
+    "Cards?",
+    "Optional ID or Mifare module."
+   ],
+   [
+    "Software?",
+    "ZKBioAccess."
+   ],
+   [
+    "Outdoor?",
+    "No — indoor use."
+   ]
+  ],
+  "source": "ZKTeco MultiBio 600 datasheet (V1.0 05/10/2023).",
+  "onepager": "products/42ZKMB600/onepager.pdf"
+ },
+ {
+  "code": "42ZKSENSEFACE-2A",
+  "name": "ZKTeco SenseFace 2A",
+  "brand": "ZKTeco",
+  "category": "Access Control › Biometric readers",
+  "subtitle": "Face / fingerprint / card / PIN terminal with SIP video intercom",
+  "tagline": "Slim door terminal with face, fingerprint, card and keypad — plus video intercom to a ZKTeco indoor monitor.",
+  "image": "products/42ZKSENSEFACE-2A/image.png",
+  "keywords": [
+   "SenseFace 2A",
+   "SenseFace",
+   "ZKTeco",
+   "face",
+   "fingerprint",
+   "intercom",
+   "SIP",
+   "biometric",
+   "access"
+  ],
+  "kpis": [
+   {
+    "v": "1,500",
+    "l": "faces"
+   },
+   {
+    "v": "3,000",
+    "l": "fingerprints"
+   },
+   {
+    "v": "SIP",
+    "l": "video intercom"
+   },
+   {
+    "v": "150k",
+    "l": "transactions"
+   }
+  ],
+  "bestFor": [
+   "Office and apartment entrances",
+   "Doors needing access + intercom in one unit",
+   "Single-gang box mounting"
+  ],
+  "notFor": [
+   "Outdoor exposed mounting (−5 to 45 °C)",
+   "Very large user databases"
+  ],
+  "features": [
+   "<b>Face (30–200 cm)</b>, fingerprint, card, PIN",
+   "<b>SIP video intercom</b> to VT07 indoor monitors",
+   "Anti-spoofing face algorithm",
+   "Lock, door sensor and exit button I/O",
+   "ZKBio CVSecurity / ZKBio Time"
+  ],
+  "specs": [
+   [
+    "Display",
+    "2.4\" TFT colour"
+   ],
+   [
+    "Cards",
+    "125 kHz ID (13.56 MHz IC optional)"
+   ],
+   [
+    "Users",
+    "3,000"
+   ],
+   [
+    "Comms",
+    "TCP/IP, WiFi (optional), USB"
+   ],
+   [
+    "Power",
+    "12 VDC 1.5 A"
+   ],
+   [
+    "Size / weight",
+    "205 × 74 × 33 mm · 258 g"
+   ]
+  ],
+  "qa": [
+   [
+    "Intercom?",
+    "Yes — SIP to ZKTeco VT07 indoor monitors."
+   ],
+   [
+    "WiFi?",
+    "Optional."
+   ],
+   [
+    "Mounting?",
+    "Wall, single-gang box."
+   ]
+  ],
+  "source": "ZKTeco SenseFace 2A datasheet.",
+  "onepager": "products/42ZKSENSEFACE-2A/onepager.pdf"
+ },
+ {
+  "code": "51HAC-HFW1200TP-0280B",
+  "name": "Dahua 2MP HDCVI Metal Bullet 2.8 mm",
+  "brand": "Dahua",
+  "category": "Surveillance › Analogue cameras",
+  "subtitle": "DH-HAC-HFW1200T Lite · 1080p bullet · IR 30 m · IP67 metal",
+  "tagline": "Sturdy metal 1080p bullet for analogue systems — better build and night range than the entry Cooper models.",
+  "image": "products/51HAC-HFW1200TP-0280B/image.png",
+  "keywords": [
+   "HAC-HFW1200T",
+   "HFW1200T",
+   "bullet",
+   "2MP",
+   "1080p",
+   "HDCVI",
+   "Dahua",
+   "metal",
+   "Lite"
+  ],
+  "kpis": [
+   {
+    "v": "2 MP",
+    "l": "1080p"
+   },
+   {
+    "v": "102°",
+    "l": "wide view"
+   },
+   {
+    "v": "30 m",
+    "l": "Smart IR"
+   },
+   {
+    "v": "IP67",
+    "l": "metal"
+   }
+  ],
+  "bestFor": [
+   "Outdoor walls, driveways, yards",
+   "Upgrading old analogue cameras",
+   "Dahua XVRs"
+  ],
+  "notFor": [
+   "IP / NVR systems",
+   "Long-distance identification"
+  ],
+  "features": [
+   "<b>Metal housing</b>, IP67",
+   "<b>Smart IR</b> to 30 m",
+   "4-in-1 output (CVI/TVI/AHD/CVBS)",
+   "Wide-voltage 12 V ±30%"
+  ],
+  "specs": [
+   [
+    "Sensor",
+    "2MP CMOS, 1920 × 1080"
+   ],
+   [
+    "Lens",
+    "2.8 mm fixed, F2.0"
+   ],
+   [
+    "Power",
+    "12 VDC ±30%, max 3.2 W"
+   ],
+   [
+    "Size / weight",
+    "174.5 × 70.6 × 72.3 mm · 0.34 kg"
+   ],
+   [
+    "Operating temp",
+    "−40 to +60 °C"
+   ]
+  ],
+  "qa": [
+   [
+    "Works with old DVRs?",
+    "Usually — switchable to AHD/TVI/CVBS."
+   ],
+   [
+    "Power?",
+    "12 V adapter or central PSU."
+   ],
+   [
+    "Night range?",
+    "About 30 m."
+   ]
+  ],
+  "source": "Dahua DH-HAC-HFW1200T datasheet (Lite Series).",
+  "onepager": "products/51HAC-HFW1200TP-0280B/onepager.pdf"
+ },
+ {
+  "code": "51HAC-HDW1209TLQP-LED-0280B",
+  "name": "Dahua 2MP Full-Colour HDCVI Eyeball",
+  "brand": "Dahua",
+  "category": "Surveillance › Analogue cameras",
+  "subtitle": "DH-HAC-HDW1209TLQ-LED · colour at night · warm light 20 m",
+  "tagline": "Colour pictures 24/7 — a warm white light lets it show colour at night instead of black and white.",
+  "image": "products/51HAC-HDW1209TLQP-LED-0280B/image.png",
+  "keywords": [
+   "HDW1209TLQ",
+   "1209",
+   "full colour",
+   "full color",
+   "eyeball",
+   "dome",
+   "HDCVI",
+   "Dahua",
+   "warm light",
+   "2MP"
+  ],
+  "kpis": [
+   {
+    "v": "2 MP",
+    "l": "1080p"
+   },
+   {
+    "v": "24/7",
+    "l": "colour"
+   },
+   {
+    "v": "20 m",
+    "l": "warm light"
+   },
+   {
+    "v": "IP67",
+    "l": "rated"
+   }
+  ],
+  "bestFor": [
+   "Customers who want colour at night",
+   "Entrances, driveways, shopfronts",
+   "Quick-install eyeball mounting"
+  ],
+  "notFor": [
+   "Places where a visible light at night is unwanted",
+   "IP systems"
+  ],
+  "features": [
+   "<b>Full-colour night vision</b> with warm LED",
+   "Quick-to-install eyeball design",
+   "4-in-1 output",
+   "Built-in mic on -A model"
+  ],
+  "specs": [
+   [
+    "Sensor",
+    "1/2.8\" CMOS, 1080p @ 30 fps"
+   ],
+   [
+    "Lens",
+    "2.8 mm fixed"
+   ],
+   [
+    "Light",
+    "Warm LED, up to 20 m"
+   ],
+   [
+    "Power",
+    "12 VDC ±30%, max 3.1 W"
+   ],
+   [
+    "Size / weight",
+    "Ø97.1 × 91.4 mm · 0.21 kg"
+   ]
+  ],
+  "models": [
+   [
+    "HDW1209TLQ-LED",
+    "No mic — <b>this unit</b>",
+    true
+   ],
+   [
+    "HDW1209TLQ-A-LED",
+    "With built-in mic"
+   ]
+  ],
+  "qa": [
+   [
+    "Does it light up at night?",
+    "Yes — a warm white light comes on."
+   ],
+   [
+    "Audio?",
+    "Only the -A version has a mic."
+   ],
+   [
+    "Outdoor?",
+    "Yes, IP67."
+   ]
+  ],
+  "source": "Dahua DH-HAC-HDW1209TLQ(-A)-LED datasheet.",
+  "onepager": "products/51HAC-HDW1209TLQP-LED-0280B/onepager.pdf"
+ },
+ {
+  "code": "51IPC-HDW2449TP-S-IL-0280B",
+  "name": "Dahua 4MP Smart Dual Light IP Eyeball",
+  "brand": "Dahua",
+  "category": "Surveillance › IP cameras",
+  "subtitle": "DH-IPC-HDW2449T-S-IL WizSense · IR or warm light 30 m · mic",
+  "tagline": "Smart dual-light IP camera — stays in IR at night, switches to colour when a person or car is detected.",
+  "image": "products/51IPC-HDW2449TP-S-IL-0280B/image.png",
+  "keywords": [
+   "HDW2449T",
+   "2449",
+   "smart dual light",
+   "eyeball",
+   "IP camera",
+   "4MP",
+   "WizSense",
+   "Dahua",
+   "warm light"
+  ],
+  "kpis": [
+   {
+    "v": "4 MP",
+    "l": "2688×1520"
+   },
+   {
+    "v": "95°",
+    "l": "wide view"
+   },
+   {
+    "v": "30 m",
+    "l": "IR / warm light"
+   },
+   {
+    "v": "IP67",
+    "l": "rated"
+   }
+  ],
+  "bestFor": [
+   "Homes and shops on Dahua NVRs",
+   "Colour evidence at night without lights on all the time",
+   "Intrusion & tripwire alerts"
+  ],
+  "notFor": [
+   "Analogue systems",
+   "Long-range identification"
+  ],
+  "features": [
+   "<b>Smart dual light</b> — IR, switching to warm light on detection",
+   "<b>Human/vehicle</b> intrusion & tripwire",
+   "Built-in mic · microSD up to 256 GB",
+   "PoE or 12 V"
+  ],
+  "specs": [
+   [
+    "Sensor",
+    "1/2.9\" CMOS, 4MP @ 20 fps"
+   ],
+   [
+    "Lens",
+    "2.8 mm · 95° H"
+   ],
+   [
+    "Power",
+    "12 VDC / PoE 802.3af · max 4.4 W"
+   ],
+   [
+    "Size / weight",
+    "Ø109.9 × 100.9 mm · 0.37 kg"
+   ],
+   [
+    "Operating temp",
+    "−40 to +60 °C"
+   ]
+  ],
+  "qa": [
+   [
+    "Colour at night?",
+    "Yes — it switches to warm light when it detects a person or vehicle."
+   ],
+   [
+    "Records sound?",
+    "Yes, built-in mic."
+   ],
+   [
+    "SD card?",
+    "Up to 256 GB."
+   ]
+  ],
+  "source": "Dahua DH-IPC-HDW2449T-S-IL datasheet.",
+  "onepager": "products/51IPC-HDW2449TP-S-IL-0280B/onepager.pdf"
+ },
+ {
+  "code": "51XVR1B04-I",
+  "name": "Dahua 4-Ch Cooper-I XVR",
+  "brand": "Dahua",
+  "category": "Surveillance › Recorders (XVR)",
+  "subtitle": "DH-XVR1B04-I · 4-channel Penta-brid 1080N recorder · 1 HDD",
+  "tagline": "Entry-level 4-camera recorder with AI human/vehicle alarms — ideal for small home kits.",
+  "image": "products/51XVR1B04-I/image.png",
+  "keywords": [
+   "XVR1B04",
+   "XVR",
+   "DVR",
+   "recorder",
+   "4 channel",
+   "Dahua",
+   "Cooper",
+   "WizSense",
+   "HDCVI",
+   "kit"
+  ],
+  "kpis": [
+   {
+    "v": "4 + 1",
+    "l": "analogue + IP ch"
+   },
+   {
+    "v": "1080N",
+    "l": "recording"
+   },
+   {
+    "v": "6 TB",
+    "l": "1 × HDD max"
+   },
+   {
+    "v": "SMD+",
+    "l": "4 ch AI"
+   }
+  ],
+  "bestFor": [
+   "Small homes with up to 4 cameras",
+   "Budget 4-camera kits",
+   "Reducing false alarms (human/vehicle)"
+  ],
+  "notFor": [
+   "Full 1080p recording",
+   "More than 4 analogue cameras",
+   "Large hard drives (6 TB max)"
+  ],
+  "features": [
+   "<b>Penta-brid</b> — HDCVI, AHD, TVI, CVBS, IP",
+   "<b>SMD Plus</b> on all 4 channels",
+   "AI Coding saves storage",
+   "Audio over coax · two-way talk"
+  ],
+  "specs": [
+   [
+    "Recording",
+    "1080N / 720p, 1–25/30 fps"
+   ],
+   [
+    "IP channels",
+    "Up to 5 (1 + 4 converted)"
+   ],
+   [
+    "Storage",
+    "1 × SATA, up to 6 TB"
+   ],
+   [
+    "Power",
+    "12 VDC 1.5 A · <7 W"
+   ],
+   [
+    "Weight",
+    "0.55 kg"
+   ]
+  ],
+  "models": [
+   [
+    "XVR1B04-I",
+    "4 channels — <b>this unit</b>",
+    true
+   ],
+   [
+    "XVR4108HS-I",
+    "8 channels"
+   ],
+   [
+    "XVR4116HS-I",
+    "16 channels"
+   ]
+  ],
+  "qa": [
+   [
+    "Hard drive?",
+    "Not included — up to 6 TB."
+   ],
+   [
+    "Full 1080p?",
+    "No — 1080N."
+   ],
+   [
+    "AI on every channel?",
+    "Yes — SMD Plus on all 4 analogue channels."
+   ]
+  ],
+  "source": "Dahua DH-XVR1B04-I datasheet (hardware v2.0).",
+  "onepager": "products/51XVR1B04-I/onepager.pdf"
+ },
+ {
+  "code": "51PFS3009-8ET-96",
+  "name": "Dahua 8-Port PoE Switch (96 W)",
+  "brand": "Dahua",
+  "category": "Consumables › Network switches",
+  "subtitle": "DH-PFS3009-8ET-96 · 8 × PoE + 1 uplink · unmanaged",
+  "tagline": "Plug-and-play PoE switch for up to 8 IP cameras — with 250 m extend mode for long cable runs.",
+  "image": "products/51PFS3009-8ET-96/image.png",
+  "keywords": [
+   "PFS3009",
+   "PoE switch",
+   "switch",
+   "8 port",
+   "Dahua",
+   "unmanaged",
+   "96W",
+   "network"
+  ],
+  "kpis": [
+   {
+    "v": "8",
+    "l": "PoE ports"
+   },
+   {
+    "v": "96 W",
+    "l": "PoE budget"
+   },
+   {
+    "v": "250 m",
+    "l": "extend mode"
+   },
+   {
+    "v": "90 W",
+    "l": "red port (bt)"
+   }
+  ],
+  "bestFor": [
+   "Adding PoE to an NVR without PoE ports",
+   "Up to 8 IP cameras",
+   "Long cable runs (extend mode)"
+  ],
+  "notFor": [
+   "Gigabit networks (10/100 only)",
+   "High-power cameras on every port (96 W total)"
+  ],
+  "features": [
+   "<b>Intelligent PoE</b> — priority on important ports",
+   "<b>Extend mode</b> to 250 m",
+   "Red port: 802.3bt Hi-PoE up to 90 W",
+   "PoE watchdog restarts frozen cameras"
+  ],
+  "specs": [
+   [
+    "Ports",
+    "8 × 10/100 PoE + 1 × 10/100 uplink"
+   ],
+   [
+    "PoE budget",
+    "96 W total"
+   ],
+   [
+    "Switching capacity",
+    "1.8 Gbps"
+   ],
+   [
+    "Power",
+    "External 48–57 VDC adapter"
+   ]
+  ],
+  "qa": [
+   [
+    "How many cameras?",
+    "8, within 96 W total."
+   ],
+   [
+    "Gigabit?",
+    "No — 10/100 Mbps."
+   ],
+   [
+    "Long runs?",
+    "Turn on extend mode for up to 250 m."
+   ]
+  ],
+  "source": "Dahua DH-PFS3009-8ET-96 datasheet (V2.0).",
+  "onepager": "products/51PFS3009-8ET-96/onepager.pdf"
+ },
+ {
+  "code": "78BEL600LED",
+  "name": "Ebelco 600 lb Maglock with LED",
+  "brand": "Ebelco",
+  "category": "Access Control › Locks",
+  "subtitle": "Electromagnetic lock · 272 kg · 12/24 V · door status sensor",
+  "tagline": "Full-size 600 lb maglock for main doors and gates — with status LED and lock-monitoring output.",
+  "image": "products/78BEL600LED/image.png",
+  "keywords": [
+   "maglock",
+   "mag lock",
+   "electromagnetic lock",
+   "600",
+   "BEL600",
+   "Ebelco",
+   "600lb",
+   "door lock"
+  ],
+  "kpis": [
+   {
+    "v": "600 lb",
+    "l": "272 kg hold"
+   },
+   {
+    "v": "12/24 V",
+    "l": "selectable"
+   },
+   {
+    "v": "LED",
+    "l": "status"
+   },
+   {
+    "v": "Hall",
+    "l": "lock sensor"
+   }
+  ],
+  "bestFor": [
+   "Main entrance and office doors",
+   "Access control with readers/keypads",
+   "Pedestrian gates (with bracket)"
+  ],
+  "notFor": [
+   "Small cabinets (use the 300 series)",
+   "Fail-secure needs (maglocks release on power loss)"
+  ],
+  "features": [
+   "<b>600 lb</b> holding force",
+   "<b>Hall-effect sensor</b> output — confirms the door is locked",
+   "Green/red LED status",
+   "Surge protection · anti-residual magnetism",
+   "Full range of optional brackets"
+  ],
+  "specs": [
+   [
+    "Voltage",
+    "12 or 24 VDC (jumper)"
+   ],
+   [
+    "Current",
+    "510 mA @ 12 V · 285 mA @ 24 V"
+   ],
+   [
+    "Sensor contact",
+    "SPDT 1 A @ 24 VDC"
+   ],
+   [
+    "Magnet size",
+    "250 × 42 × 25 mm"
+   ],
+   [
+    "Weight",
+    "1.9 kg"
+   ],
+   [
+    "Operating temp",
+    "0 to 55 °C"
+   ]
+  ],
+  "models": [
+   [
+    "BEL300LED",
+    "300 lb, compact"
+   ],
+   [
+    "BEL600LED",
+    "600 lb — <b>this unit</b>",
+    true
+   ]
+  ],
+  "qa": [
+   [
+    "Power cut?",
+    "Maglocks release — pair with a battery-backed PSU."
+   ],
+   [
+    "12 or 24 V?",
+    "Either — set the jumper first."
+   ],
+   [
+    "Brackets?",
+    "Sold separately."
+   ]
+  ],
+  "source": "Ebelco 600 Series Electromagnetic Lock datasheet.",
+  "onepager": "products/78BEL600LED/onepager.pdf"
+ },
+ {
+  "code": "78BEL300LED",
+  "name": "Ebelco 300 lb Maglock with LED",
+  "brand": "Ebelco",
+  "category": "Access Control › Locks",
+  "subtitle": "Compact electromagnetic lock · 136 kg · 12/24 V",
+  "tagline": "Compact maglock for internal doors, cabinets and small gates.",
+  "image": "products/78BEL300LED/image.png",
+  "keywords": [
+   "maglock",
+   "mag lock",
+   "electromagnetic lock",
+   "300",
+   "BEL300",
+   "Ebelco",
+   "300lb",
+   "cabinet lock"
+  ],
+  "kpis": [
+   {
+    "v": "300 lb",
+    "l": "136 kg hold"
+   },
+   {
+    "v": "12/24 V",
+    "l": "selectable"
+   },
+   {
+    "v": "LED",
+    "l": "status"
+   },
+   {
+    "v": "Hall",
+    "l": "lock sensor"
+   }
+  ],
+  "bestFor": [
+   "Internal office doors",
+   "Cabinets and small doors",
+   "Light pedestrian gates"
+  ],
+  "notFor": [
+   "Main entrance doors (use 600 lb)",
+   "Fail-secure needs"
+  ],
+  "features": [
+   "<b>Compact</b> size for small doors",
+   "Hall-effect lock-status output",
+   "Green/red LED",
+   "Zero residual magnetism design"
+  ],
+  "specs": [
+   [
+    "Voltage",
+    "12 or 24 VDC"
+   ],
+   [
+    "Current",
+    "330 mA @ 12 V · 185 mA @ 24 V"
+   ],
+   [
+    "Sensor contact",
+    "SPDT 1 A @ 24 VDC"
+   ],
+   [
+    "Magnet size",
+    "210 × 35 × 22 mm"
+   ],
+   [
+    "Weight",
+    "1.2 kg"
+   ],
+   [
+    "Operating temp",
+    "0 to 55 °C"
+   ]
+  ],
+  "models": [
+   [
+    "BEL300LED",
+    "300 lb — <b>this unit</b>",
+    true
+   ],
+   [
+    "BEL600LED",
+    "600 lb, full size"
+   ]
+  ],
+  "qa": [
+   [
+    "Front door?",
+    "Use the 600 lb model."
+   ],
+   [
+    "12 or 24 V?",
+    "Either — set the jumper."
+   ],
+   [
+    "Power cut?",
+    "Releases — add battery backup."
+   ]
+  ],
+  "source": "Ebelco 300-LED Electromagnetic Lock datasheet.",
+  "onepager": "products/78BEL300LED/onepager.pdf"
+ },
+ {
+  "code": "77CAMPOWER-5AMPGF",
+  "name": "12 V 5 A Power Adapter (60 W)",
+  "brand": "FSP",
+  "category": "Power & Energy › Power supplies",
+  "subtitle": "Desktop AC-DC adapter · 12 VDC 5 A",
+  "tagline": "Plug-in 12 V supply for cameras, recorders and small access devices.",
+  "image": "products/77CAMPOWER-5AMPGF/image.png",
+  "keywords": [
+   "adapter",
+   "power adapter",
+   "12V",
+   "5A",
+   "60W",
+   "PSU",
+   "CCTV power",
+   "plug pack",
+   "FSP"
+  ],
+  "kpis": [
+   {
+    "v": "12 V",
+    "l": "DC out"
+   },
+   {
+    "v": "5 A",
+    "l": "60 W"
+   },
+   {
+    "v": "90–264 V",
+    "l": "AC in"
+   },
+   {
+    "v": "Class B",
+    "l": "EMC"
+   }
+  ],
+  "bestFor": [
+   "Powering XVRs/NVRs or several 12 V cameras",
+   "Access controllers and readers",
+   "Bench and temporary power"
+  ],
+  "notFor": [
+   "Battery backup (no charging)",
+   "Outdoor use"
+  ],
+  "features": [
+   "<b>Wide 90–264 VAC</b> input",
+   "Meets EN55032 / FCC Class B",
+   "Desktop brick style"
+  ],
+  "specs": [
+   [
+    "Input",
+    "90 – 264 VAC, 47–63 Hz"
+   ],
+   [
+    "Output",
+    "12 VDC, 5 A (60 W)"
+   ],
+   [
+    "Input current",
+    "≤ 1.0 A full load"
+   ]
+  ],
+  "qa": [
+   [
+    "Battery backup?",
+    "No — use a backup PSU for that."
+   ],
+   [
+    "How many cameras?",
+    "Add up each camera's current; stay under 5 A."
+   ],
+   [
+    "Plug type?",
+    "Check stock for the lead/plug supplied."
+   ]
+  ],
+  "source": "DC 12V 5A Adapter (FSP) datasheet.",
+  "onepager": "products/77CAMPOWER-5AMPGF/onepager.pdf"
+ },
+ {
+  "code": "12BG1217",
+  "name": "CSB GP12170 Battery 12 V 17 Ah",
+  "brand": "CSB",
+  "category": "Power & Energy › Batteries",
+  "subtitle": "Sealed lead-acid (AGM) standby battery · GP series",
+  "tagline": "Premium 17 Ah battery for longer backup — gate motors, UPS, fire panels and access control.",
+  "image": "products/12BG1217/image.png",
+  "keywords": [
+   "GP12170",
+   "17Ah",
+   "CSB",
+   "battery",
+   "12V",
+   "SLA",
+   "AGM",
+   "UPS",
+   "gate battery"
+  ],
+  "kpis": [
+   {
+    "v": "12 V",
+    "l": "nominal"
+   },
+   {
+    "v": "17 Ah",
+    "l": "20 h rate"
+   },
+   {
+    "v": "5.5 kg",
+    "l": "weight"
+   },
+   {
+    "v": "M5",
+    "l": "bolt terminals"
+   }
+  ],
+  "bestFor": [
+   "Gate motors and access control",
+   "UPS and fire panel standby",
+   "Long backup runtimes"
+  ],
+  "notFor": [
+   "Standard 7 Ah alarm boxes — too big",
+   "Daily deep cycling (consider lithium)"
+  ],
+  "features": [
+   "<b>17 Ah</b> AGM, maintenance free",
+   "Low internal resistance (14 mΩ)",
+   "Up to 5-year design life (standby)",
+   "UL recognised"
+  ],
+  "specs": [
+   [
+    "Capacity",
+    "17 Ah @ 20 h"
+   ],
+   [
+    "Max charge current",
+    "5.1 A"
+   ],
+   [
+    "Terminals",
+    "B1/B3 — M5 bolt"
+   ],
+   [
+    "Size",
+    "181 × 76 × 167 mm"
+   ],
+   [
+    "Weight",
+    "5.5 kg"
+   ]
+  ],
+  "models": [
+   [
+    "GP1272",
+    "7 Ah size"
+   ],
+   [
+    "GP12170",
+    "17 Ah — <b>this unit</b>",
+    true
+   ]
+  ],
+  "qa": [
+   [
+    "Terminals?",
+    "Bolt (M5) — not Faston spade."
+   ],
+   [
+    "Fits an alarm box?",
+    "No — much larger than 7 Ah."
+   ],
+   [
+    "Float voltage?",
+    "13.5–13.8 V."
+   ]
+  ],
+  "source": "CSB GP12170 datasheet.",
+  "onepager": "products/12BG1217/onepager.pdf"
+ },
+ {
+  "code": "51ST8000VX009",
+  "name": "Seagate SkyHawk 8 TB Surveillance HDD",
+  "brand": "Seagate",
+  "category": "Consumables › Hard drives",
+  "subtitle": "3.5\" SATA surveillance drive · up to 64 cameras",
+  "tagline": "High-capacity 24/7 surveillance drive — for NVRs and DVRs recording many cameras.",
+  "image": "products/51ST8000VX009/image.png",
+  "note": "The datasheet lists 8 TB models ST8000VX010 and ST8000VX004, not VX009. Confirm exact specs before quoting.",
+  "keywords": [
+   "SkyHawk",
+   "8TB",
+   "hard drive",
+   "HDD",
+   "Seagate",
+   "surveillance drive",
+   "ST8000",
+   "storage"
+  ],
+  "kpis": [
+   {
+    "v": "8 TB",
+    "l": "capacity"
+   },
+   {
+    "v": "64",
+    "l": "cameras"
+   },
+   {
+    "v": "16",
+    "l": "drive bays"
+   },
+   {
+    "v": "3 yr",
+    "l": "warranty"
+   }
+  ],
+  "bestFor": [
+   "NVRs/XVRs with many cameras",
+   "Long retention periods",
+   "Multi-drive recorders (RV sensors)"
+  ],
+  "notFor": [
+   "PCs and laptops",
+   "Recorders limited to smaller drives — check max HDD size"
+  ],
+  "features": [
+   "<b>ImagePerfect</b> firmware — no dropped frames",
+   "<b>Up to 64 HD cameras</b>",
+   "RV sensors for multi-bay systems",
+   "3-year Rescue data recovery (selected regions)",
+   "1M hours MTBF"
+  ],
+  "specs": [
+   [
+    "Interface",
+    "SATA 6 Gb/s"
+   ],
+   [
+    "Cache",
+    "256 MB"
+   ],
+   [
+    "Workload",
+    "180 TB/year · 24×7"
+   ],
+   [
+    "Size",
+    "147 × 101.6 × 26.1 mm"
+   ],
+   [
+    "Weight",
+    "~630–716 g (model dependent)"
+   ]
+  ],
+  "qa": [
+   [
+    "Fits my recorder?",
+    "Check the recorder's max HDD size (e.g. XVR1B04 is 6 TB max)."
+   ],
+   [
+    "Warranty?",
+    "3 years limited."
+   ],
+   [
+    "Data recovery?",
+    "Rescue service included in selected regions."
+   ]
+  ],
+  "source": "Seagate SkyHawk data sheet.",
+  "onepager": "products/51ST8000VX009/onepager.pdf"
+ },
+ {
+  "code": "72HCD901-0-0-GB-00",
+  "name": "Impro Distributed Controller (Metal + PSU)",
+  "brand": "Impro",
+  "category": "Access Control › Door controllers",
+  "subtitle": "2-door controller in steel housing with PSU · OSDP / Wiegand",
+  "tagline": "Flexible Impro controller — a door controller, Lite system or full system controller, in a metal box with power supply.",
+  "image": null,
+  "imageNote": "No product photo in the datasheet",
+  "keywords": [
+   "HCD901",
+   "Impro",
+   "distributed controller",
+   "door controller",
+   "OSDP",
+   "Wiegand",
+   "Primo",
+   "access control"
+  ],
+  "kpis": [
+   {
+    "v": "2",
+    "l": "doors"
+   },
+   {
+    "v": "10,000",
+    "l": "credentials"
+   },
+   {
+    "v": "64",
+    "l": "devices (system mode)"
+   },
+   {
+    "v": "OSDP",
+    "l": "+ Wiegand"
+   }
+  ],
+  "bestFor": [
+   "Impro Primo / Access Portal systems",
+   "1–2 doors with readers in and out",
+   "Sites needing offline anti-passback"
+  ],
+  "notFor": [
+   "Non-Impro software",
+   "Customers wanting a cheap standalone keypad"
+  ],
+  "features": [
+   "<b>3 modes</b> — door, Lite (built-in software) or system controller",
+   "<b>Offline</b>: 10,000 credentials, 100,000 transactions",
+   "OSDP (1000 m) or Wiegand (150 m) readers",
+   "AES encryption · dual tamper",
+   "Aperio wireless lock support"
+  ],
+  "specs": [
+   [
+    "I/O",
+    "2 readers, 4 inputs, 2 relays + aux relay"
+   ],
+   [
+    "Housing",
+    "Mild steel, with legacy/intelligent PSU"
+   ],
+   [
+    "Size / weight",
+    "82 × 383 × 313 mm · 3.6 kg"
+   ],
+   [
+    "Operating temp",
+    "−25 to +60 °C"
+   ]
+  ],
+  "models": [
+   [
+    "HCD900",
+    "Standalone module, no PSU"
+   ],
+   [
+    "HCD901/2",
+    "Steel housing + PSU — <b>this unit</b>",
+    true
+   ],
+   [
+    "HCD903",
+    "Steel housing + PoE++ PSU"
+   ],
+   [
+    "HCD905",
+    "Plastic enclosure, no PSU"
+   ]
+  ],
+  "qa": [
+   [
+    "Software?",
+    "Impro Primo or Access Portal."
+   ],
+   [
+    "Readers?",
+    "OSDP or Wiegand (Impro MDR, Idemia, etc.)."
+   ],
+   [
+    "Power?",
+    "PSU built into this metal version."
+   ]
+  ],
+  "source": "Impro Distributed Controller datasheet.",
+  "onepager": "products/72HCD901-0-0-GB-00/onepager.pdf"
  }
 ]
