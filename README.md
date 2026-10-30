@@ -1,4 +1,4 @@
-# Counter Product Hub
+# Elvey Counter Helper
 
 A searchable product hub for counter sales staff. Search by stock code, name, brand or use ("pet PIR"), open the product page, and print or download the one-page sheet.
 

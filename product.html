@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en"><head>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Product · Counter Hub</title>
+<title>Elvey Counter Helper</title>
 <link rel="stylesheet" href="assets/style.css">
 </head><body>
 <div class="bar">
@@ -19,7 +19,7 @@
   const p = (await loadProducts()).find(x => x.code.toLowerCase() === (code || '').toLowerCase());
   const sheet = document.getElementById('sheet');
   if (!p) { sheet.innerHTML = `<div style="padding:40px;text-align:center">Product “${esc(code)}” not found. <a href="index.html">Back to search</a></div>`; return; }
-  document.title = `${p.code} · ${p.name}`;
+  document.title = `${p.code} · ${p.name} · Elvey Counter Helper`;
 
   // Content fields are trusted, curated HTML (only <b> is used) from data/products.json
   const li = (arr, cls) => `<ul class="${cls}">${(arr||[]).map(x => `<li>${x}</li>`).join('')}</ul>`;
@@ -48,7 +48,7 @@
     ${sec('Family — pick the right one', p.models?.length && `<table class="models">${rows(p.models)}</table>`)}
     ${sec('Counter quick answers', p.qa?.length && `<div class="qa">${p.qa.map(([q, a]) => `<p><b>${q}</b> ${a}</p>`).join('')}</div>`)}
   </div>
-  <div class="foot"><span>Source: ${esc(p.source || '')}</span><span>Internal counter reference</span></div>`;
+  <div class="foot"><span>Source: ${esc(p.source || '')}</span><span>Elvey Counter Helper · internal reference</span></div>`;
 
   const pdf = document.getElementById('pdf');
   if (p.onepager) pdf.href = p.onepager; else pdf.style.display = 'none';
