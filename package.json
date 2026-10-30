@@ -1,0 +1,9 @@
+{
+  "name": "counter-product-hub",
+  "private": true,
+  "scripts": {
+    "pdfs": "node tools/build-pdfs.js",
+    "serve": "npx --yes http-server -c-1 -p 8080 ."
+  },
+  "devDependencies": { "playwright": "^1.45.0" }
+}

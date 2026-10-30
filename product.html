@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="en"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Product · Counter Hub</title>
+<link rel="stylesheet" href="assets/style.css">
+</head><body>
+<div class="bar">
+  <a class="btn back" href="index.html">← All products</a><span class="sp"></span>
+  <a class="btn primary" id="pdf" download>⬇ One-pager PDF</a>
+  <button class="btn print" onclick="window.print()">🖨 Print</button>
+  <button class="btn" id="copy">⧉ Copy code</button>
+</div>
+<article class="sheet" id="sheet"></article>
+<div class="toast" id="toast"></div>
+<script src="assets/hub.js"></script>
+<script>
+(async () => {
+  const code = new URLSearchParams(location.search).get('code');
+  const p = (await loadProducts()).find(x => x.code.toLowerCase() === (code || '').toLowerCase());
+  const sheet = document.getElementById('sheet');
+  if (!p) { sheet.innerHTML = `<div style="padding:40px;text-align:center">Product “${esc(code)}” not found. <a href="index.html">Back to search</a></div>`; return; }
+  document.title = `${p.code} · ${p.name}`;
+
+  // Content fields are trusted, curated HTML (only <b> is used) from data/products.json
+  const li = (arr, cls) => `<ul class="${cls}">${(arr||[]).map(x => `<li>${x}</li>`).join('')}</ul>`;
+  const rows = arr => (arr||[]).map(([k, v, h]) => `<tr${h?' class="hl"':''}><td>${k}</td><td>${v}</td></tr>`).join('');
+  const sec = (title, body) => body ? `<div class="box"><h2>${title}</h2>${body}</div>` : '';
+
+  sheet.innerHTML = `
+  <div class="hdr"><div><h1>${esc(p.name)}</h1><div class="sub">${esc(p.subtitle)}</div></div>
+    <div><div class="lbl">Stock code</div><div class="v${p.code.length > 11 ? ' long' : ''}" title="Click to copy" id="codebox">${esc(p.code)}</div></div></div>
+  ${p.tagline ? `<div class="strip">${esc(p.tagline)}</div>` : ''}
+  ${p.note ? `<div class="note">⚠ ${esc(p.note)}</div>` : ''}
+  <div class="wrap">
+    <div>
+      <div class="img box">${p.image ? `<img src="${p.image}" alt="${esc(p.name)}">` : noImage()}${p.imageNote ? `<p>${esc(p.imageNote)}</p>` : ''}</div>
+      ${sec('Best for', p.bestFor?.length && li(p.bestFor, 'good'))}
+      ${sec('Not for', p.notFor?.length && li(p.notFor, 'bad'))}
+    </div>
+    <div>
+      ${p.kpis?.length ? `<div class="kpis">${p.kpis.map(k => `<div class="k"><b>${esc(k.v)}</b><span>${esc(k.l)}</span></div>`).join('')}</div>` : ''}
+      ${sec('Why customers choose it', p.features?.length && li(p.features, 'dot'))}
+      ${p.coverage ? sec(esc(p.coverage.title || 'Coverage'), `<div class="cov">${p.coverage.image ? `<img src="${p.coverage.image}" alt="">` : ''}<table>${rows(p.coverage.rows)}</table></div>`) : ''}
+      ${sec('Key specs', p.specs?.length && `<table>${rows(p.specs)}</table>`)}
+    </div>
+  </div>
+  <div class="lower">
+    ${sec('Family — pick the right one', p.models?.length && `<table class="models">${rows(p.models)}</table>`)}
+    ${sec('Counter quick answers', p.qa?.length && `<div class="qa">${p.qa.map(([q, a]) => `<p><b>${q}</b> ${a}</p>`).join('')}</div>`)}
+  </div>
+  <div class="foot"><span>Source: ${esc(p.source || '')}</span><span>Internal counter reference</span></div>`;
+
+  const pdf = document.getElementById('pdf');
+  if (p.onepager) pdf.href = p.onepager; else pdf.style.display = 'none';
+
+  const toast = msg => { const t = document.getElementById('toast'); t.textContent = msg; t.classList.add('show'); setTimeout(() => t.classList.remove('show'), 1400); };
+  const copy = () => navigator.clipboard.writeText(p.code).then(() => toast(`Copied ${p.code}`), () => toast(p.code));
+  document.getElementById('copy').onclick = copy;
+  document.getElementById('codebox').onclick = copy;
+})();
+</script>
+</body></html>

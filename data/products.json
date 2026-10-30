@@ -1,0 +1,1809 @@
+[
+ {
+  "code": "22BV601",
+  "name": "DSC Bravo 6",
+  "brand": "DSC",
+  "category": "Intrusion › Motion detectors",
+  "subtitle": "Dual PIR Pet-Immune Motion Detector · Indoor",
+  "tagline": "The go-to indoor PIR for homes with pets — ignores dogs & cats up to 38 kg, still catches people.",
+  "image": "products/22BV601/image.svg",
+  "imageNote": "Illustration — compact white case with white lens",
+  "keywords": [
+   "PIR",
+   "pet immune",
+   "motion",
+   "detector",
+   "BV-601",
+   "BV601",
+   "Bravo",
+   "indoor",
+   "alarm",
+   "sensor"
+  ],
+  "kpis": [
+   {
+    "v": "38 kg",
+    "l": "pet immunity"
+   },
+   {
+    "v": "12 m",
+    "l": "max range"
+   },
+   {
+    "v": "100°",
+    "l": "coverage angle"
+   },
+   {
+    "v": "12 V",
+    "l": "DC powered"
+   }
+  ],
+  "bestFor": [
+   "Homes with pets up to <b>38 kg / 85 lbs</b> (under 0.75 m tall)",
+   "Lounges, passages, bedrooms, kitchens",
+   "Small offices & shops (indoor)",
+   "Rooms up to <b>12 m deep × 15 m wide</b>",
+   "Wall or corner mounting"
+  ],
+  "notFor": [
+   "Outdoors, garages open to weather",
+   "Near heaters, fireplaces, aircon / duct outlets",
+   "Facing windows, mirrors or direct sun",
+   "Stairways pets can climb",
+   "Steamy / oily areas (laundry, braai areas)"
+  ],
+  "features": [
+   "<b>Twin dual-element sensors</b> + Multi-Level Signal processing — fewer false alarms",
+   "<b>Temperature compensation</b> — still detects on hot summer days",
+   "Strong immunity to RF, static, power spikes & white light",
+   "<b>Harsh/Normal jumper</b> for multi-pet homes · LED on/off jumper",
+   "<b>Tamper switch</b> built in (BV-601) · 12-month warranty"
+  ],
+  "coverage": {
+   "title": "Coverage (top view)",
+   "image": "products/22BV601/coverage.png",
+   "rows": [
+    [
+     "Range",
+     "12 m / 40 ft",
+     true
+    ],
+    [
+     "Width",
+     "15.2 m / 50 ft",
+     true
+    ],
+    [
+     "Mount height",
+     "2.1–3.2 m (ideal 2.3 m)"
+    ],
+    [
+     "Vertical adjust",
+     "+2° to −5°"
+    ],
+    [
+     "Walk speed",
+     "0.15–3 m/s"
+    ]
+   ]
+  },
+  "specs": [
+   [
+    "Operating voltage",
+    "9.5 – 14.5 VDC"
+   ],
+   [
+    "Current draw",
+    "16.5 mA standby / 17.5 mA alarm"
+   ],
+   [
+    "Contacts",
+    "Form A alarm + tamper, 100 mA @ 24 VDC"
+   ],
+   [
+    "Operating temp / humidity",
+    "0 – 49 °C · 5–93% RH non-condensing"
+   ],
+   [
+    "Size",
+    "124.5 × 70 × 44.5 mm · white"
+   ]
+  ],
+  "models": [
+   [
+    "BV-601",
+    "Form A alarm + tamper — <b>this unit</b>",
+    true
+   ],
+   [
+    "BV-600",
+    "Form A alarm, no tamper"
+   ],
+   [
+    "BV-602",
+    "Form C alarm + tamper"
+   ]
+  ],
+  "qa": [
+   [
+    "Big dog?",
+    "OK to 38 kg — remove J2 jumper (harsh mode) for large or multiple pets."
+   ],
+   [
+    "Cat on the couch?",
+    "Keep furniture over 0.9 m at least 2.1 m from the detector."
+   ],
+   [
+    "Wireless?",
+    "No — wired, 12 V, to an alarm panel."
+   ]
+  ],
+  "onepager": "products/22BV601/onepager.pdf",
+  "source": "DSC Bravo 6 installation instructions (29034622 R001). Walk-test after install and weekly."
+ },
+ {
+  "code": "41PR832-LCD",
+  "name": "Texecom Premier 832 + LCD Keypad",
+  "brand": "Texecom",
+  "category": "Intrusion › Alarm panels",
+  "subtitle": "8–32 zone alarm control panel with built-in communicator",
+  "tagline": "A proven, expandable wired alarm panel — starts at 8 zones and grows to 32 for bigger homes and small businesses.",
+  "image": null,
+  "imageNote": "No product photo in the datasheet yet",
+  "keywords": [
+   "Premier",
+   "832",
+   "PR832",
+   "panel",
+   "control panel",
+   "alarm panel",
+   "LCD keypad",
+   "Texecom",
+   "wired"
+  ],
+  "kpis": [
+   {
+    "v": "8→32",
+    "l": "zones (expandable)"
+   },
+   {
+    "v": "4",
+    "l": "partitions"
+   },
+   {
+    "v": "64",
+    "l": "user codes"
+   },
+   {
+    "v": "1000",
+    "l": "event log"
+   }
+  ],
+  "bestFor": [
+   "Larger homes needing more than 16 zones",
+   "Small offices, shops & warehouses",
+   "Sites needing separate areas (up to 4 partitions)",
+   "Systems reporting to an armed-response control room",
+   "Upgrading to a wired, expandable system"
+  ],
+  "notFor": [
+   "Customers wanting a fully wireless DIY kit",
+   "Outdoor or damp locations (dry indoor use only)",
+   "Very small sites — a Premier 412/816 is cheaper"
+  ],
+  "features": [
+   "<b>8 zones on board</b>, expands to <b>32</b> with zone expanders",
+   "<b>Built-in communicator</b> — Contact ID, SIA and more to the control room",
+   "<b>LCD keypad</b> — 32-character display with full text",
+   "2 × 1 A supervised outputs + 6 × 100 mA outputs",
+   "PC upload/download via Wintex UDL software"
+  ],
+  "specs": [
+   [
+    "Mains power",
+    "16.5 VAC transformer (25/40 VA)"
+   ],
+   [
+    "Standby battery",
+    "Up to 7 Ah, 24 h recharge"
+   ],
+   [
+    "Current draw",
+    "< 50 mA quiet · < 150 mA alarm"
+   ],
+   [
+    "Zone EOL resistor",
+    "3K3"
+   ],
+   [
+    "Panel size",
+    "282 × 225 × 80 mm"
+   ],
+   [
+    "Operating temp",
+    "−10 to +55 °C, indoor"
+   ]
+  ],
+  "models": [
+   [
+    "Premier 412",
+    "4 zones → 12, 2 partitions, 32 users"
+   ],
+   [
+    "Premier 816",
+    "8 zones → 16, 4 partitions, 32 users"
+   ],
+   [
+    "Premier 832",
+    "8 zones → 32, 4 partitions, 64 users — <b>this panel</b>",
+    true
+   ]
+  ],
+  "qa": [
+   [
+    "Battery?",
+    "Takes up to a 12 V 7 Ah — e.g. Forbatt FB7.2-12 (06AS12-7)."
+   ],
+   [
+    "Can it grow?",
+    "Yes — add Premier 8X (remote) or 8XE (local) zone expanders up to 32 zones."
+   ],
+   [
+    "Grade?",
+    "Suitable for EN 50131 Grade 2 systems when programmed correctly."
+   ]
+  ],
+  "source": "Texecom Premier 412/816/832 Installation Manual (INS159).",
+  "onepager": "products/41PR832-LCD/onepager.pdf"
+ },
+ {
+  "code": "07LX402C",
+  "name": "Optex LX-402 Outdoor PIR",
+  "brand": "Optex",
+  "category": "Intrusion › Outdoor detectors",
+  "subtitle": "Wide-angle (120°) outdoor passive infrared detector · IP54",
+  "tagline": "Weatherproof outdoor PIR for yards, driveways and fence lines — great for triggering lights, sirens or cameras.",
+  "image": "products/07LX402C/image.png",
+  "imageNote": "Wall-mounted outdoors",
+  "keywords": [
+   "LX-402",
+   "LX402",
+   "outdoor PIR",
+   "external",
+   "garden",
+   "driveway",
+   "Optex",
+   "pet alley",
+   "weatherproof"
+  ],
+  "kpis": [
+   {
+    "v": "12×15 m",
+    "l": "coverage"
+   },
+   {
+    "v": "120°",
+    "l": "wide angle"
+   },
+   {
+    "v": "IP54",
+    "l": "weatherproof"
+   },
+   {
+    "v": "12 V",
+    "l": "DC powered"
+   }
+  ],
+  "bestFor": [
+   "Front & back yards, along fences",
+   "Driveways, parking & delivery doors",
+   "Switching on lights, sirens or CCTV",
+   "Homes with small pets (Pet Alley mode)",
+   "Wall mounting indoors or outdoors"
+  ],
+  "notFor": [
+   "Long narrow corridors — sell the LX-802N (24 m)",
+   "Aiming at roads, trees or bushes that move",
+   "Unprotected spots facing direct rain/sun all day"
+  ],
+  "features": [
+   "<b>Double conductive shielding</b> — ignores sunlight up to 50,000 lux",
+   "<b>Multi-level or Pet Alley</b> detection pattern, switchable",
+   "3-step sensitivity + day/night mode",
+   "Masking strips to blank out unwanted areas",
+   "Easy wiring with 2 entry holes + weather sponge"
+  ],
+  "coverage": {
+   "title": "Coverage",
+   "rows": [
+    [
+     "Area",
+     "12 m × 15 m (120°)",
+     true
+    ],
+    [
+     "Zones",
+     "40 multi-level / 18 pet alley"
+    ],
+    [
+     "Mount height",
+     "2.5 m"
+    ],
+    [
+     "Walk speed",
+     "0.3–1.0 m/s"
+    ]
+   ]
+  },
+  "specs": [
+   [
+    "Power input",
+    "10.8 – 13.2 VDC"
+   ],
+   [
+    "Current draw",
+    "25 mA max"
+   ],
+   [
+    "Alarm output",
+    "N.C./N.O. relay, 28 VDC 0.2 A"
+   ],
+   [
+    "Tamper",
+    "Opens when cover removed"
+   ],
+   [
+    "Operating temp",
+    "−20 to +50 °C · 95% RH"
+   ],
+   [
+    "Size / weight",
+    "141 × 74.8 × 53.5 mm · 170 g"
+   ]
+  ],
+  "models": [
+   [
+    "LX-402",
+    "120° wide, 12 × 15 m — <b>this unit</b>",
+    true
+   ],
+   [
+    "LX-802N",
+    "Long range narrow, 24 × 2 m"
+   ],
+   [
+    "CA-1W / CA-2C",
+    "Optional wall / ceiling brackets (±45°)"
+   ]
+  ],
+  "qa": [
+   [
+    "Will my dog set it off?",
+    "Use Pet Alley mode — it raises the lower beams so small pets pass under."
+   ],
+   [
+    "Wireless?",
+    "No — wired 12 V to an alarm panel or relay."
+   ],
+   [
+    "Can it switch a light?",
+    "Yes, via its relay output to a light/relay module."
+   ]
+  ],
+  "source": "Optex LX-402/802N datasheet (75064-00-5130-0105).",
+  "onepager": "products/07LX402C/onepager.pdf"
+ },
+ {
+  "code": "22PG8934",
+  "name": "DSC PowerG PIR with Camera",
+  "brand": "DSC",
+  "category": "Intrusion › Wireless detectors",
+  "subtitle": "PG8934P wireless pet-immune PIR with built-in day/night camera",
+  "tagline": "Wireless PIR that takes photos on alarm, so the control room can see what triggered it before sending a response.",
+  "image": "products/22PG8934/image.png",
+  "keywords": [
+   "PG8934",
+   "PG4934",
+   "PowerG",
+   "camera PIR",
+   "visual verification",
+   "wireless",
+   "Neo",
+   "DSC",
+   "pet immune"
+  ],
+  "kpis": [
+   {
+    "v": "38 kg",
+    "l": "pet immunity"
+   },
+   {
+    "v": "12 m",
+    "l": "camera range"
+   },
+   {
+    "v": "4–5 yrs",
+    "l": "battery life"
+   },
+   {
+    "v": "2 km",
+    "l": "radio (open air)"
+   }
+  ],
+  "bestFor": [
+   "Homes or businesses on armed response",
+   "Customers who want alarm photos / fewer false call-outs",
+   "Sites where running cable is hard",
+   "Homes with pets up to 38 kg",
+   "Existing DSC PowerSeries Neo systems"
+  ],
+  "notFor": [
+   "Non-DSC panels — needs PowerSeries Neo",
+   "Outdoor use",
+   "Customers expecting live video (photos only, 2 fps)"
+  ],
+  "features": [
+   "<b>Day/night camera</b> with IR — works in total darkness (10 m)",
+   "<b>Visual alarm verification</b> — photos sent to the control room",
+   "<b>PowerG</b> frequency-hopping wireless, 128-bit AES encrypted",
+   "Battery powered — lithium CR-123A pack included",
+   "Quick install, no wiring"
+  ],
+  "coverage": {
+   "title": "Coverage (top view)",
+   "image": "products/22PG8934/coverage.png",
+   "rows": [
+    [
+     "PIR range",
+     "12 m / 40 ft",
+     true
+    ],
+    [
+     "Camera angle",
+     "90° wide"
+    ],
+    [
+     "Camera range",
+     "12 m day / 10 m dark"
+    ],
+    [
+     "Mount height",
+     "1.8 – 2.1 m"
+    ]
+   ]
+  },
+  "specs": [
+   [
+    "Battery",
+    "6 V lithium pack (2 × CR-123A)"
+   ],
+   [
+    "Camera",
+    "CMOS colour/B&W, QVGA 320×240"
+   ],
+   [
+    "Frame rate",
+    "Up to 2 frames per second"
+   ],
+   [
+    "Operating temp",
+    "−10 to +50 °C"
+   ],
+   [
+    "Size / weight",
+    "125 × 63 × 60 mm · 200 g"
+   ],
+   [
+    "Compatibility",
+    "DSC PowerSeries Neo"
+   ]
+  ],
+  "models": [
+   [
+    "PG8934P",
+    "Africa/EU frequency — <b>this unit</b>",
+    true
+   ],
+   [
+    "PG4934P",
+    "433 MHz version"
+   ]
+  ],
+  "qa": [
+   [
+    "Does it record video?",
+    "No — it sends a burst of still photos when it triggers."
+   ],
+   [
+    "What does the control room need?",
+    "A SG-System 5 receiver to receive the images."
+   ],
+   [
+    "Battery change?",
+    "About every 4–5 years."
+   ]
+  ],
+  "source": "DSC PG8934P/PG4934P datasheet (PN 30002186).",
+  "onepager": "products/22PG8934/onepager.pdf"
+ },
+ {
+  "code": "39KT-1-EU-MET-POE",
+  "name": "Kantech KT-1 One-Door Controller",
+  "brand": "Kantech",
+  "category": "Access Control › Door controllers",
+  "subtitle": "Ethernet / PoE one-door IP access controller · standalone or EntraPass",
+  "tagline": "Single-door access control that runs off one network cable — set up in a web browser, or grow it into a full EntraPass system.",
+  "image": "products/39KT-1-EU-MET-POE/image.png",
+  "keywords": [
+   "KT-1",
+   "KT1",
+   "Kantech",
+   "door controller",
+   "PoE",
+   "EntraPass",
+   "access",
+   "one door",
+   "IP controller"
+  ],
+  "kpis": [
+   {
+    "v": "1",
+    "l": "door (IN/OUT)"
+   },
+   {
+    "v": "PoE",
+    "l": "powered by LAN"
+   },
+   {
+    "v": "32",
+    "l": "controllers per head"
+   },
+   {
+    "v": "AES",
+    "l": "128-bit secure"
+   }
+  ],
+  "bestFor": [
+   "Single door: office, server room, store room",
+   "Sites with network cabling but no mains at the door",
+   "Small businesses wanting browser-based setup",
+   "Starting small and expanding to EntraPass later",
+   "Linking access with an intruder alarm panel"
+  ],
+  "notFor": [
+   "Large multi-door sites from day one (use KT-400)",
+   "Sites without an Ethernet network",
+   "Customers wanting a keypad-only lock"
+  ],
+  "features": [
+   "<b>Standalone mode</b> — set up in a web browser, no software licence",
+   "<b>EntraPass mode</b> — one KT-1 can head up 31 more controllers",
+   "<b>PoE / PoE+</b> — one cable for power and data",
+   "One-touch enrolment button, plug & play",
+   "Arm/disarm intruder panels from the access system"
+  ],
+  "specs": [
+   [
+    "Doors",
+    "1 door, 2 readers (IN/OUT)"
+   ],
+   [
+    "Network",
+    "Ethernet, built-in web server"
+   ],
+   [
+    "Power",
+    "PoE / PoE+ (or local supply)"
+   ],
+   [
+    "Encryption",
+    "AES 128-bit with ioSmart readers & cards"
+   ],
+   [
+    "Software",
+    "Standalone web, or EntraPass v6.02+"
+   ],
+   [
+    "Mobile",
+    "EntraPass Web & EntraPass Go apps"
+   ]
+  ],
+  "qa": [
+   [
+    "Need a PC?",
+    "No — standalone mode runs in any browser, including phones."
+   ],
+   [
+    "Which readers?",
+    "Kantech ioSmart readers for full end-to-end encryption."
+   ],
+   [
+    "PoE switch needed?",
+    "Yes, or a PoE injector/midspan."
+   ]
+  ],
+  "source": "Kantech KT-1 Standalone brochure (KT1298-BR-202010-R03).",
+  "onepager": "products/39KT-1-EU-MET-POE/onepager.pdf"
+ },
+ {
+  "code": "94JP-4HD",
+  "name": "Aiphone JP-4HD Sub Master Station",
+  "brand": "Aiphone",
+  "category": "Access Control › Video intercom",
+  "subtitle": "7\" touchscreen video sub-station for the Aiphone JP series",
+  "tagline": "Adds an extra video answering point in another room for an Aiphone JP-series intercom system.",
+  "image": "products/94JP-4HD/image.png",
+  "imageNote": "Front view (product drawing)",
+  "keywords": [
+   "JP-4HD",
+   "JP4HD",
+   "Aiphone",
+   "intercom",
+   "video intercom",
+   "sub station",
+   "monitor",
+   "JP series",
+   "touchscreen"
+  ],
+  "kpis": [
+   {
+    "v": "7\"",
+    "l": "touchscreen"
+   },
+   {
+    "v": "24 V",
+    "l": "DC power"
+   },
+   {
+    "v": "CAT5e",
+    "l": "cabling"
+   },
+   {
+    "v": "4",
+    "l": "door stations"
+   }
+  ],
+  "bestFor": [
+   "Adding a second/third answering point in a home",
+   "Upstairs, kitchen or bedroom monitor",
+   "Existing Aiphone JP-4MED systems",
+   "Users who like a handset or hands-free option",
+   "Hearing-aid users (T-mode compatible)"
+  ],
+  "notFor": [
+   "Standalone use — needs a JP-4MED master",
+   "Non-Aiphone systems",
+   "Outdoor mounting"
+  ],
+  "features": [
+   "<b>7\" colour touchscreen</b> with handset + hands-free",
+   "Open doors (up to 4 door stations) from the screen",
+   "Zoom/wide and pan-tilt camera control",
+   "Room-to-room calling between stations",
+   "Option button for gate light / external device"
+  ],
+  "specs": [
+   [
+    "Power",
+    "24 VDC from PS-2420 supply · 200 mA max"
+   ],
+   [
+    "Display",
+    "7\" TFT colour, 1.15 MP"
+   ],
+   [
+    "Wiring",
+    "CAT5e straight (non-shielded) to master"
+   ],
+   [
+    "Mounting",
+    "Surface wall, 3-gang box"
+   ],
+   [
+    "Size / weight",
+    "255 × 145 × 18 mm · 780 g"
+   ],
+   [
+    "Operating temp",
+    "0 to +40 °C"
+   ]
+  ],
+  "models": [
+   [
+    "JP-4MED",
+    "Master station — required"
+   ],
+   [
+    "JP-4HD",
+    "Sub master station — <b>this unit</b>",
+    true
+   ],
+   [
+    "PS-2420",
+    "24 V power supply"
+   ]
+  ],
+  "qa": [
+   [
+    "How many can I add?",
+    "Up to 7 sub stations off a master (IDs 2–8)."
+   ],
+   [
+    "Cable?",
+    "CAT5e straight, non-shielded — not coax or twisted alarm cable."
+   ],
+   [
+    "Power?",
+    "Needs its own 24 V PS-2420 supply."
+   ]
+  ],
+  "source": "Aiphone JP-4HD product drawings & specifications (59626).",
+  "onepager": "products/94JP-4HD/onepager.pdf"
+ },
+ {
+  "code": "72APP910",
+  "name": "Impro Primo Software",
+  "brand": "Impro",
+  "category": "Access Control › Software",
+  "subtitle": "Web-based access control software for 1–100 doors",
+  "tagline": "Easy, web-based access control for small and medium businesses — start with one door, grow to 100.",
+  "image": "products/72APP910/image.png",
+  "keywords": [
+   "Primo",
+   "Impro",
+   "software",
+   "access software",
+   "web based",
+   "APP910",
+   "biometrics",
+   "mobile access"
+  ],
+  "kpis": [
+   {
+    "v": "1–100",
+    "l": "doors"
+   },
+   {
+    "v": "Web",
+    "l": "browser based"
+   },
+   {
+    "v": "Multi",
+    "l": "site management"
+   },
+   {
+    "v": "Offline",
+    "l": "door validation"
+   }
+  ],
+  "bestFor": [
+   "Small to medium businesses (< 100 doors)",
+   "New and existing Impro installations",
+   "Multi-site companies managing from one place",
+   "Customers wanting face/finger or mobile access",
+   "Sites that need HR-type reports (hours, absenteeism)"
+  ],
+  "notFor": [
+   "Large enterprise sites over 100 doors",
+   "Non-Impro controller hardware",
+   "Customers needing floor-plan views (coming later)"
+  ],
+  "features": [
+   "<b>Web-based</b>, wizard-driven and easy to learn",
+   "<b>Off-line validation</b> — doors keep working if the network drops",
+   "Works with <b>Idemia, Control iD, Hikvision</b> biometrics & HID Mobile",
+   "Free API for integrations",
+   "Custom views, dashboards and reports"
+  ],
+  "specs": [
+   [
+    "Version",
+    "Primo 2025.1"
+   ],
+   [
+    "Controllers",
+    "Distributed, Cluster & Enterprise"
+   ],
+   [
+    "Readers",
+    "Impro MDR / MDR-SE (OSDP & Wiegand)"
+   ],
+   [
+    "Mobile",
+    "HID Mobile Access, STiD Mobile"
+   ],
+   [
+    "Reports",
+    "Hours worked, absenteeism, zone occupancy"
+   ],
+   [
+    "Security",
+    "Operator security + audit log"
+   ]
+  ],
+  "models": [
+   [
+    "Primo",
+    "Multi-site, API, mass assignment — <b>this product</b>",
+    true
+   ],
+   [
+    "Access Portal Basic",
+    "Single site, Suprema support, no API"
+   ]
+  ],
+  "qa": [
+   [
+    "Does it work with existing Impro hardware?",
+    "Yes — distributed, cluster and enterprise controllers."
+   ],
+   [
+    "Face readers?",
+    "Idemia, Control iD and Hikvision facial readers are supported."
+   ],
+   [
+    "Multiple branches?",
+    "Yes, multi-site management is built in."
+   ]
+  ],
+  "source": "Impro Technologies Primo software brochure.",
+  "onepager": "products/72APP910/onepager.pdf"
+ },
+ {
+  "code": "51HAC-T1A21P-0280B",
+  "name": "Dahua 2MP HDCVI Eyeball 2.8 mm",
+  "brand": "Dahua",
+  "category": "Surveillance › Analogue cameras",
+  "subtitle": "DH-HAC-T1A21P · 2MP 1080p fixed-lens dome (eyeball) camera",
+  "tagline": "Budget-friendly 1080p indoor/outdoor dome — plugs into existing coax cabling and most DVRs.",
+  "image": "products/51HAC-T1A21P-0280B/image.png",
+  "keywords": [
+   "HAC-T1A21",
+   "T1A21",
+   "eyeball",
+   "dome",
+   "2MP",
+   "1080p",
+   "HDCVI",
+   "analogue",
+   "Cooper",
+   "Dahua",
+   "2.8mm"
+  ],
+  "kpis": [
+   {
+    "v": "2 MP",
+    "l": "1080p"
+   },
+   {
+    "v": "100°",
+    "l": "wide view (2.8 mm)"
+   },
+   {
+    "v": "20 m",
+    "l": "night vision"
+   },
+   {
+    "v": "12 V",
+    "l": "DC powered"
+   }
+  ],
+  "bestFor": [
+   "Homes, shops & small offices on a budget",
+   "Upgrading old analogue cameras on existing coax",
+   "Wide areas: rooms, entrances, patios",
+   "Ceiling or wall mounting",
+   "Pairing with Dahua XVR recorders"
+  ],
+  "notFor": [
+   "Reading number plates or faces far away",
+   "Network (IP/NVR) systems",
+   "Areas needing audio"
+  ],
+  "features": [
+   "<b>4-in-1 output</b> — CVI / TVI / AHD / CVBS switchable",
+   "<b>Smart IR</b> — 20 m night vision, no washed-out faces",
+   "Up to 700 m over coax (300 m over UTP)",
+   "Plastic housing, −40 to +60 °C",
+   "Plug-and-play, no network setup"
+  ],
+  "coverage": {
+   "title": "How far can it see? (2.8 mm)",
+   "rows": [
+    [
+     "Detect",
+     "44.7 m",
+     true
+    ],
+    [
+     "Observe",
+     "17.9 m"
+    ],
+    [
+     "Recognise",
+     "8.9 m"
+    ],
+    [
+     "Identify",
+     "4.5 m",
+     true
+    ]
+   ]
+  },
+  "specs": [
+   [
+    "Sensor",
+    "2 MP CMOS, 1920 × 1080"
+   ],
+   [
+    "Lens",
+    "2.8 mm fixed, F2.0"
+   ],
+   [
+    "Night",
+    "0 lux with IR, 20 m"
+   ],
+   [
+    "Power",
+    "12 VDC ±30%, max 2.3 W"
+   ],
+   [
+    "Size / weight",
+    "Ø85.4 × 68.8 mm · 90 g"
+   ],
+   [
+    "Mounting",
+    "Wall, ceiling, pole (with brackets)"
+   ]
+  ],
+  "models": [
+   [
+    "2.8 mm",
+    "100° wide — <b>this unit</b>",
+    true
+   ],
+   [
+    "3.6 mm",
+    "80° view, identify at 5.5 m"
+   ],
+   [
+    "6 mm",
+    "43° view, identify at 10.3 m"
+   ]
+  ],
+  "qa": [
+   [
+    "Works with my old DVR?",
+    "Likely — it can switch to AHD, TVI or CVBS."
+   ],
+   [
+    "Power?",
+    "12 V 1 A adapter (PFM321D) or central PSU."
+   ],
+   [
+    "Outdoor?",
+    "Yes, but mount under cover — basic weather protection."
+   ]
+  ],
+  "source": "Dahua DH-HAC-T1A21 datasheet (Cooper Series).",
+  "onepager": "products/51HAC-T1A21P-0280B/onepager.pdf"
+ },
+ {
+  "code": "51NVR4116HS-8P-EI",
+  "name": "Dahua 16-Ch 8-PoE WizSense NVR",
+  "brand": "Dahua",
+  "category": "Surveillance › Recorders (NVR)",
+  "subtitle": "DHI-NVR4116HS-8P-EI · compact 1U, 8 PoE ports, 1 HDD, AI",
+  "tagline": "Smart 16-camera recorder with 8 built-in PoE ports and AI that filters out false alarms from animals, leaves and lights.",
+  "image": "products/51NVR4116HS-8P-EI/image.png",
+  "keywords": [
+   "NVR4116",
+   "NVR",
+   "recorder",
+   "WizSense",
+   "PoE",
+   "16 channel",
+   "IP",
+   "face recognition",
+   "Dahua",
+   "4116HS"
+  ],
+  "kpis": [
+   {
+    "v": "16",
+    "l": "IP channels"
+   },
+   {
+    "v": "8",
+    "l": "PoE ports"
+   },
+   {
+    "v": "16 TB",
+    "l": "1 × HDD max"
+   },
+   {
+    "v": "4K",
+    "l": "HDMI out"
+   }
+  ],
+  "bestFor": [
+   "Small–medium business IP camera systems",
+   "Up to 8 cameras plug-and-play (PoE)",
+   "Sites with false-alarm problems (SMD Plus AI)",
+   "Face recognition at an entrance",
+   "Mixing Dahua & ONVIF third-party cameras"
+  ],
+  "notFor": [
+   "Analogue/coax cameras (use an XVR)",
+   "Large sites needing more than 1 hard drive / RAID",
+   "More than 8 PoE cameras without an extra switch"
+  ],
+  "features": [
+   "<b>8 × PoE ports</b> — cameras powered over one cable",
+   "<b>SMD Plus</b> — filters out animals, leaves and lights",
+   "<b>Face recognition</b> — 10 databases, 20,000 faces",
+   "AI search & Quick Pick for fast playback",
+   "Up to 16 MP cameras, H.265+ compression"
+  ],
+  "specs": [
+   [
+    "Bandwidth",
+    "256 Mbps (180 Mbps with AI on)"
+   ],
+   [
+    "Storage",
+    "1 × SATA, up to 16 TB"
+   ],
+   [
+    "Outputs",
+    "1 × HDMI (4K), 1 × VGA"
+   ],
+   [
+    "PoE budget",
+    "72 W total, 25.5 W per port"
+   ],
+   [
+    "Ports",
+    "2 × USB, 1 × gigabit LAN, audio in/out"
+   ],
+   [
+    "Size / weight",
+    "260 × 232.7 × 47.6 mm · 0.92 kg"
+   ]
+  ],
+  "qa": [
+   [
+    "Hard drive included?",
+    "Check stock — sell a surveillance HDD with it (e.g. 51ST4000VX015)."
+   ],
+   [
+    "More than 8 cameras?",
+    "Yes — add a network switch for channels 9–16."
+   ],
+   [
+    "Phone app?",
+    "Yes — iOS and Android."
+   ]
+  ],
+  "source": "Dahua DHI-NVR4116HS-8P-EI datasheet.",
+  "onepager": "products/51NVR4116HS-8P-EI/onepager.pdf"
+ },
+ {
+  "code": "51ST4000VX015",
+  "name": "Seagate Surveillance HDD 4 TB",
+  "brand": "Seagate",
+  "category": "Consumables › Hard drives",
+  "subtitle": "3.5\" SATA hard drive built for 24/7 CCTV recording",
+  "tagline": "Hard drive made for 24/7 CCTV recording — use it in DVRs, XVRs and NVRs instead of a desktop drive.",
+  "image": "products/51ST4000VX015/image.png",
+  "imageNote": "Representative image (6 TB label shown)",
+  "note": "The datasheet on file covers the Seagate Surveillance HDD range (ST4000VX000). Confirm ST4000VX015 specs before quoting detail.",
+  "keywords": [
+   "HDD",
+   "hard drive",
+   "hard disk",
+   "4TB",
+   "Seagate",
+   "SkyHawk",
+   "surveillance drive",
+   "storage",
+   "ST4000"
+  ],
+  "kpis": [
+   {
+    "v": "4 TB",
+    "l": "capacity"
+   },
+   {
+    "v": "24/7",
+    "l": "rated use"
+   },
+   {
+    "v": "32",
+    "l": "cameras per drive"
+   },
+   {
+    "v": "3 yr",
+    "l": "warranty"
+   }
+  ],
+  "bestFor": [
+   "DVRs, XVRs and NVRs",
+   "24/7 recording systems",
+   "Systems with up to 32 cameras",
+   "Multi-drive recorders (up to 16 bays)",
+   "Replacing a failed CCTV drive"
+  ],
+  "notFor": [
+   "Desktop PCs or laptops",
+   "Gaming / general storage",
+   "2.5\" slots (this is a 3.5\" drive)"
+  ],
+  "features": [
+   "<b>Tuned for surveillance</b> — heavy write workloads",
+   "<b>1 million hours</b> MTBF, 24×7 rated",
+   "Low power, quick time-to-ready",
+   "Supports multi-drive RAID systems",
+   "Optional data recovery service"
+  ],
+  "specs": [
+   [
+    "Interface",
+    "SATA 6 Gb/s"
+   ],
+   [
+    "Data rate",
+    "Up to 180 MB/s"
+   ],
+   [
+    "Power",
+    "5.6 W typical · 0.5 W standby"
+   ],
+   [
+    "Operating temp",
+    "0 to 70 °C (drive case)"
+   ],
+   [
+    "Size / weight",
+    "146.99 × 101.6 × 26.11 mm · 610 g"
+   ]
+  ],
+  "qa": [
+   [
+    "How long will it record?",
+    "Depends on camera count, resolution & settings — use a storage calculator."
+   ],
+   [
+    "Will it fit my NVR?",
+    "Any recorder with a 3.5\" SATA bay."
+   ],
+   [
+    "Warranty?",
+    "3 years limited."
+   ]
+  ],
+  "source": "Seagate Surveillance HDD data sheet.",
+  "onepager": "products/51ST4000VX015/onepager.pdf"
+ },
+ {
+  "code": "10LFP12-20",
+  "name": "Uniross LFP12-20 Lithium Battery",
+  "brand": "Uniross",
+  "category": "Power & Energy › Batteries",
+  "subtitle": "12.8 V 20 Ah LiFePO4 lithium battery with built-in BMS",
+  "tagline": "Lead-acid replacement that lasts far longer, weighs less and handles deep discharge — ideal for backup and solar.",
+  "image": "products/10LFP12-20/image.png",
+  "keywords": [
+   "LFP12-20",
+   "lithium",
+   "LiFePO4",
+   "20Ah",
+   "battery",
+   "12V",
+   "Uniross",
+   "solar",
+   "backup",
+   "load shedding"
+  ],
+  "kpis": [
+   {
+    "v": "20 Ah",
+    "l": "capacity"
+   },
+   {
+    "v": "2000+",
+    "l": "cycles"
+   },
+   {
+    "v": "2.8 kg",
+    "l": "weight"
+   },
+   {
+    "v": "256 Wh",
+    "l": "energy"
+   }
+  ],
+  "bestFor": [
+   "Load-shedding backup for gates, alarms & CCTV",
+   "Solar systems and small inverters",
+   "Replacing a 12 V lead-acid battery 1-for-1",
+   "Frequent deep discharge use",
+   "Weight-sensitive installs"
+  ],
+  "notFor": [
+   "Charging below 0 °C",
+   "Chargers without a lithium/14.4 V profile — check charger",
+   "Very cheap low-use jobs (lead-acid is cheaper)"
+  ],
+  "features": [
+   "<b>LiFePO4</b> — the safest lithium chemistry",
+   "<b>Built-in BMS</b> — protects against over-charge, over-discharge & short circuit",
+   "<b>2000+ cycles</b> at 100% discharge",
+   "Light — about half the weight of an equivalent lead-acid",
+   "Can be linked up to 4 in series / 20 in parallel"
+  ],
+  "specs": [
+   [
+    "Voltage",
+    "12.8 V nominal"
+   ],
+   [
+    "Max discharge",
+    "40 A continuous · 50 A pulse"
+   ],
+   [
+    "Charge voltage",
+    "14.4 – 14.8 V (float 13.8 V)"
+   ],
+   [
+    "Charge current",
+    "10 A recommended · 20 A max"
+   ],
+   [
+    "Size",
+    "181 × 77 × 167 mm · T3 terminals"
+   ],
+   [
+    "Temperatures",
+    "Discharge −30 to 60 °C · charge 0 to 45 °C"
+   ]
+  ],
+  "models": [
+   [
+    "LFP12-12",
+    "12 Ah"
+   ],
+   [
+    "LFP12-20",
+    "20 Ah — <b>this unit</b>",
+    true
+   ],
+   [
+    "LFP12-50",
+    "50 Ah"
+   ]
+  ],
+  "qa": [
+   [
+    "Can I swap out my lead-acid?",
+    "Yes — one-to-one, but check the charger suits lithium."
+   ],
+   [
+    "Self-discharge?",
+    "Only about 2% per month."
+   ],
+   [
+    "Shipping?",
+    "Class 9 dangerous goods (UN3480)."
+   ]
+  ],
+  "source": "Uniross / Landport LFP12-20 datasheet (11/08/2020).",
+  "onepager": "products/10LFP12-20/onepager.pdf"
+ },
+ {
+  "code": "06AS12-7",
+  "name": "Forbatt FB7.2-12 Battery 12 V 7.2 Ah",
+  "brand": "Forbatt",
+  "category": "Power & Energy › Batteries",
+  "subtitle": "Sealed lead-acid (AGM-VRLA) standby battery",
+  "tagline": "The standard alarm-panel battery — 12 V 7.2 Ah, maintenance-free, fits most panels and power supplies.",
+  "image": "products/06AS12-7/image.png",
+  "keywords": [
+   "7Ah",
+   "7.2Ah",
+   "FB7.2-12",
+   "battery",
+   "12V",
+   "SLA",
+   "lead acid",
+   "alarm battery",
+   "AGM",
+   "Forbatt"
+  ],
+  "kpis": [
+   {
+    "v": "12 V",
+    "l": "nominal"
+   },
+   {
+    "v": "7.2 Ah",
+    "l": "capacity"
+   },
+   {
+    "v": "2.05 kg",
+    "l": "weight"
+   },
+   {
+    "v": "AGM",
+    "l": "sealed VRLA"
+   }
+  ],
+  "bestFor": [
+   "Alarm panel backup (most panels take 7 Ah)",
+   "Electric fence energisers",
+   "Small gate motors & access control PSUs",
+   "CCTV power supply backup",
+   "UPS / standby use"
+  ],
+  "notFor": [
+   "Heavy daily deep cycling (consider lithium)",
+   "Hot spots above 40 °C",
+   "Applications needing more than 7 Ah runtime"
+  ],
+  "features": [
+   "<b>Maintenance-free</b> sealed AGM construction",
+   "Standard 151 × 65 × 94 mm size — fits most enclosures",
+   "Low self-discharge — 90% after 3 months",
+   "UL recognised, CE marked",
+   "Recyclable lead-acid"
+  ],
+  "specs": [
+   [
+    "Capacity (20 h)",
+    "7.2 Ah"
+   ],
+   [
+    "Standby charge",
+    "13.5 – 13.8 V"
+   ],
+   [
+    "Cycle charge",
+    "14.4 – 15.0 V"
+   ],
+   [
+    "Max initial current",
+    "2.16 A"
+   ],
+   [
+    "Size",
+    "151 × 65 × 94 mm (100 mm with terminal)"
+   ],
+   [
+    "Internal resistance",
+    "30 mΩ"
+   ]
+  ],
+  "qa": [
+   [
+    "Fits my alarm panel?",
+    "Yes, if it takes a standard 12 V 7 Ah — same size."
+   ],
+   [
+    "How long does it last?",
+    "Check it under load at every service and replace when it fails."
+   ],
+   [
+    "Cold weather?",
+    "Capacity drops to ~85% at 0 °C."
+   ]
+  ],
+  "source": "Forbatt FB7.2-12 datasheet.",
+  "onepager": "products/06AS12-7/onepager.pdf"
+ },
+ {
+  "code": "14SH6.4AMP (W)",
+  "slug": "14SH6.4AMP-W",
+  "name": "Sherlotronics 6.4 A Backup Power Supply",
+  "brand": "Sherlotronics",
+  "category": "Power & Energy › Power supplies",
+  "subtitle": "12 V 6.4 A battery-backup power supply / charger",
+  "tagline": "Keeps alarms, CCTV, maglocks and door controllers running when the power goes off.",
+  "image": "products/14SH6.4AMP-W/image.png",
+  "keywords": [
+   "6.4A",
+   "6.4AMP",
+   "PSU",
+   "power supply",
+   "battery backup",
+   "charger",
+   "Sherlotronics",
+   "12V",
+   "maglock",
+   "CCTV power"
+  ],
+  "kpis": [
+   {
+    "v": "6.4 A",
+    "l": "output"
+   },
+   {
+    "v": "70 W",
+    "l": "max power"
+   },
+   {
+    "v": "13–14.4 V",
+    "l": "adjustable"
+   },
+   {
+    "v": "12 mo",
+    "l": "warranty"
+   }
+  ],
+  "bestFor": [
+   "CCTV camera power with battery backup",
+   "Maglocks & access control doors",
+   "Alarm panel backup supply",
+   "Load-shedding protection for 12 V systems"
+  ],
+  "notFor": [
+   "Loads above 6.4 A / 70 W",
+   "Outdoor mounting without protection",
+   "24 V equipment"
+  ],
+  "features": [
+   "<b>Microprocessor-controlled</b> battery charging",
+   "<b>Low-battery cut-out</b> at 10 V protects the battery",
+   "Buzzer warns on low battery & mains failure",
+   "AC fail output to signal the alarm panel",
+   "Resettable fuse on output, fused mains input"
+  ],
+  "specs": [
+   [
+    "Input",
+    "110 – 230 VAC 50 Hz"
+   ],
+   [
+    "Output",
+    "13 – 14.4 VDC adjustable, 6.4 A"
+   ],
+   [
+    "Relay contact",
+    "10 A"
+   ],
+   [
+    "AC fail output",
+    "140 mA positive switching"
+   ],
+   [
+    "Size / weight",
+    "275 × 225 × 97 mm · 1.13 kg"
+   ],
+   [
+    "Operating temp",
+    "−3 to +60 °C"
+   ]
+  ],
+  "qa": [
+   [
+    "Battery included?",
+    "Check stock — add a 12 V 7 Ah (06AS12-7) or larger."
+   ],
+   [
+    "How many cameras?",
+    "Add up each device’s current — keep the total under 6.4 A."
+   ],
+   [
+    "Tells the alarm power failed?",
+    "Yes — via the AC fail output."
+   ]
+  ],
+  "source": "Sherlotronics 6.4A Battery Backup Power-Supply datasheet.",
+  "onepager": "products/14SH6.4AMP-W/onepager.pdf"
+ },
+ {
+  "code": "29CA416",
+  "name": "C-TEC CAST Optical Smoke Detector",
+  "brand": "C-TEC (Brigit)",
+  "category": "Fire › Addressable detectors",
+  "subtitle": "Addressable optical smoke detector — CAST protocol",
+  "tagline": "Addressable smoke detector for C-TEC XFP/ZFP CAST fire panels, with smart false-alarm filtering.",
+  "image": "products/29CA416/image.png",
+  "keywords": [
+   "CA416",
+   "smoke detector",
+   "optical",
+   "CAST",
+   "C-TEC",
+   "Brigit",
+   "addressable",
+   "fire detector",
+   "EN54"
+  ],
+  "kpis": [
+   {
+    "v": "EN54-7",
+    "l": "LPCB certified"
+   },
+   {
+    "v": "CAST",
+    "l": "addressable"
+   },
+   {
+    "v": "5 mA",
+    "l": "alarm current"
+   },
+   {
+    "v": "Built-in",
+    "l": "loop isolator"
+   }
+  ],
+  "bestFor": [
+   "Offices, corridors, bedrooms, stairwells",
+   "C-TEC XFP / ZFP CAST addressable systems",
+   "Sites needing EN54-certified detection"
+  ],
+  "notFor": [
+   "Kitchens / dusty or steamy areas (use heat or multi-sensor)",
+   "Conventional or other-brand panels",
+   "Outdoor use"
+  ],
+  "features": [
+   "<b>Smart algorithms</b> reduce false alarms",
+   "<b>Built-in short-circuit isolator</b> on every device",
+   "Drift compensation for dust build-up",
+   "Two ultra-bright red LED strips + programmable status LED"
+  ],
+  "specs": [
+   [
+    "Protocol",
+    "C-TEC CAST (XFP / ZFP panels)"
+   ],
+   [
+    "Supply",
+    "22 – 40 VDC"
+   ],
+   [
+    "Current",
+    "370 µA quiet · 5 mA alarm"
+   ],
+   [
+    "Sensitivity",
+    "0.16 dB/m"
+   ],
+   [
+    "Approvals",
+    "LPCB EN54-7/17, DBI EN54-13"
+   ]
+  ],
+  "models": [
+   [
+    "CA416",
+    "Optical smoke — <b>this unit</b>",
+    true
+   ],
+   [
+    "CA414",
+    "Multi-sensor (smoke + heat)"
+   ],
+   [
+    "CA408",
+    "CAST base — required, sold separately"
+   ]
+  ],
+  "qa": [
+   [
+    "Base included?",
+    "No — order the CA408 CAST base."
+   ],
+   [
+    "Works with my panel?",
+    "Only C-TEC XFP/ZFP CAST-protocol panels."
+   ],
+   [
+    "Kitchen?",
+    "No — sell a heat or multi-sensor detector."
+   ]
+  ],
+  "source": "C-TEC CAST Optical Smoke Detector product page (CA416).",
+  "onepager": "products/29CA416/onepager.pdf"
+ },
+ {
+  "code": "29XFP501E-CA",
+  "name": "C-TEC XFP 1-Loop 16-Zone Fire Panel",
+  "brand": "C-TEC (Brigit)",
+  "category": "Fire › Fire panels",
+  "subtitle": "XFP501E/CA single-loop addressable fire alarm panel · CAST",
+  "tagline": "Cost-effective addressable fire panel — up to 255 devices on one loop, networkable up to 8 panels.",
+  "image": "products/29XFP501E-CA/image.png",
+  "keywords": [
+   "XFP",
+   "XFP501",
+   "fire panel",
+   "addressable",
+   "CAST",
+   "C-TEC",
+   "Brigit",
+   "1 loop",
+   "16 zone",
+   "EN54"
+  ],
+  "kpis": [
+   {
+    "v": "255",
+    "l": "devices / loop"
+   },
+   {
+    "v": "16",
+    "l": "zones"
+   },
+   {
+    "v": "1 km",
+    "l": "loop length"
+   },
+   {
+    "v": "8",
+    "l": "panels networked"
+   }
+  ],
+  "bestFor": [
+   "Small to medium buildings: offices, schools, retail",
+   "Upgrades from conventional to addressable",
+   "Multi-building sites (network up to 8 panels)",
+   "Sites needing phased evacuation"
+  ],
+  "notFor": [
+   "Very large sites needing more than one loop",
+   "Non-CAST (other protocol) detectors",
+   "Outdoor or damp plant rooms (IP30)"
+  ],
+  "features": [
+   "<b>255 CAST devices</b> on one loop, auto or manual addressing",
+   "<b>Fault location</b> — shows where shorts/opens are",
+   "2 sounder circuits, 3 programmable relays + fault relay",
+   "Day/night mode, investigation delay, phased evacuation",
+   "PC upload/download software"
+  ],
+  "specs": [
+   [
+    "Mains",
+    "230 VAC, 350 mA max"
+   ],
+   [
+    "Batteries",
+    "2 × 12 V 3.2 Ah VRLA"
+   ],
+   [
+    "Loop",
+    "40 V, 500 mA, 1 km max"
+   ],
+   [
+    "Display",
+    "2 × 40 char backlit + 16 zone LEDs"
+   ],
+   [
+    "Size / weight",
+    "380 × 235 × 96 mm · 1.8 kg"
+   ],
+   [
+    "Approvals",
+    "LPCB EN54-2/4"
+   ]
+  ],
+  "qa": [
+   [
+    "Which detectors?",
+    "C-TEC CAST range, e.g. CA416 smoke, CA414 multi-sensor."
+   ],
+   [
+    "Batteries included?",
+    "Order 2 × 12 V 3.2 Ah VRLA."
+   ],
+   [
+    "Repeater?",
+    "Yes — up to 8 XFP repeaters via the XFP761 network card."
+   ]
+  ],
+  "source": "C-TEC XFP501E/CA datasheet.",
+  "onepager": "products/29XFP501E-CA/onepager.pdf"
+ },
+ {
+  "code": "1938204-19-NC1",
+  "name": "Ajax Relay (Jeweller)",
+  "brand": "Ajax",
+  "category": "Automation › Relays",
+  "subtitle": "Wireless dry-contact relay for Ajax systems",
+  "tagline": "Small wireless relay that lets the Ajax app switch gates, lights, locks and valves — on demand, on a schedule or on alarm.",
+  "image": "products/1938204-19-NC1/image.png",
+  "keywords": [
+   "Ajax relay",
+   "relay",
+   "Jeweller",
+   "dry contact",
+   "automation",
+   "gate",
+   "light",
+   "switch",
+   "smart home",
+   "Ajax"
+  ],
+  "kpis": [
+   {
+    "v": "1 km",
+    "l": "radio range"
+   },
+   {
+    "v": "7–24 V",
+    "l": "DC supply"
+   },
+   {
+    "v": "13 A",
+    "l": "@ 230 V~"
+   },
+   {
+    "v": "2 yr",
+    "l": "warranty"
+   }
+  ],
+  "bestFor": [
+   "Opening gates or garage doors from the Ajax app",
+   "Switching lights on when the alarm triggers",
+   "Controlling maglocks, valves, irrigation",
+   "Existing Ajax hub customers",
+   "Tight spaces (39 × 33 mm)"
+  ],
+  "notFor": [
+   "Non-Ajax alarm systems",
+   "Outdoor/wet mounting (IP20)",
+   "DIY mains wiring — installer only"
+  ],
+  "features": [
+   "<b>Dry (volt-free) contacts</b> — switch low-voltage or mains loads",
+   "<b>Pulse (0.5–255 s) or on/off</b> mode",
+   "Automation by alarm, schedule or button press",
+   "Voltage and temperature protection",
+   "Reports supply voltage to the app"
+  ],
+  "specs": [
+   [
+    "Supply",
+    "7 – 24 VDC (12 or 24 V recommended)"
+   ],
+   [
+    "Max load",
+    "5 A @ 24 VDC · 13 A @ 230 VAC"
+   ],
+   [
+    "Inductive load",
+    "3 A @ 24 VDC · 8 A @ 230 VAC"
+   ],
+   [
+    "Radio",
+    "Jeweller 868 MHz, up to 1,000 m"
+   ],
+   [
+    "Size / weight",
+    "39 × 33 × 18 mm · 25 g"
+   ],
+   [
+    "Operating temp",
+    "−20 to +64 °C · IP20"
+   ]
+  ],
+  "qa": [
+   [
+    "Needs a hub?",
+    "Yes — any Ajax hub or range extender."
+   ],
+   [
+    "Gate motor?",
+    "Yes — use pulse mode to simulate the gate button."
+   ],
+   [
+    "Power?",
+    "Needs a 7–24 V DC supply (not mains powered)."
+   ]
+  ],
+  "source": "Ajax Relay user manual (updated 12 June 2023).",
+  "onepager": "products/1938204-19-NC1/onepager.pdf"
+ }
+]

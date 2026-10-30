@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="en"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Counter Product Hub</title>
+<link rel="stylesheet" href="assets/style.css">
+</head><body>
+<header class="top"><div class="in">
+  <div class="brand"><h1>Counter <span>Product Hub</span></h1><small>Search by stock code, name, brand or what it's for</small></div>
+  <div class="search">
+    <svg viewBox="0 0 24 24" fill="none" stroke-width="2.2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+    <input id="q" type="search" placeholder="e.g. 22BV601, pet PIR, Bravo, motion detector…" autocomplete="off" autofocus>
+  </div>
+  <div class="chips" id="chips"></div>
+</div></header>
+<main>
+  <div class="count" id="count"></div>
+  <div class="grid" id="grid"></div>
+</main>
+<script src="assets/hub.js"></script>
+<script>
+(async () => {
+  const products = await loadProducts();
+  const q = document.getElementById('q'), grid = document.getElementById('grid'),
+        count = document.getElementById('count'), chips = document.getElementById('chips');
+  const cats = ['All', ...new Set(products.map(p => p.category.split('›')[0].trim()))];
+  let cat = 'All';
+  const params = new URLSearchParams(location.search);
+  if (params.get('q')) q.value = params.get('q');
+
+  chips.innerHTML = cats.map(c => `<button class="chip${c===cat?' on':''}" data-c="${esc(c)}">${esc(c)}</button>`).join('');
+  chips.onclick = e => { const b = e.target.closest('.chip'); if (!b) return; cat = b.dataset.c;
+    chips.querySelectorAll('.chip').forEach(x => x.classList.toggle('on', x === b)); render(); };
+
+  function render() {
+    const terms = q.value.trim().toLowerCase().split(/\s+/).filter(Boolean);
+    const list = products
+      .filter(p => cat === 'All' || p.category.startsWith(cat))
+      .map(p => ({ p, s: score(p, terms) }))
+      .filter(x => !terms.length || x.s > 0)
+      .sort((a, b) => b.s - a.s || a.p.name.localeCompare(b.p.name));
+    count.textContent = `${list.length} product${list.length === 1 ? '' : 's'}`;
+    grid.innerHTML = list.length ? list.map(({ p }) => `
+      <a class="card" href="product.html?code=${encodeURIComponent(p.code)}">
+        <div class="pic">${p.image ? `<img src="${p.image}" alt="">` : noImage()}</div>
+        <div><span class="code">${hi(p.code, terms)}</span>
+          <h3>${hi(p.name, terms)}</h3>
+          <div class="cat">${esc(p.category)}</div>
+          <p>${hi(strip(p.subtitle), terms)}</p></div>
+      </a>`).join('')
+      : `<div class="empty">Nothing found for “${esc(q.value)}”. Try the stock code or a simpler word.</div>`;
+    history.replaceState(null, '', q.value ? '?q=' + encodeURIComponent(q.value) : location.pathname);
+  }
+  q.addEventListener('input', render);
+  q.addEventListener('keydown', e => { if (e.key === 'Enter') { const a = grid.querySelector('a'); if (a) location.href = a.href; } });
+  document.addEventListener('keydown', e => { if (e.key === '/' && document.activeElement !== q) { e.preventDefault(); q.focus(); } });
+  render();
+})();
+</script>
+</body></html>
