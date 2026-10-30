@@ -1805,5 +1805,1862 @@
   ],
   "source": "Ajax Relay user manual (updated 12 June 2023).",
   "onepager": "products/1938204-19-NC1/onepager.pdf"
+ },
+ {
+  "code": "22HS2016-4HSLEDZAM0",
+  "name": "DSC PowerSeries Neo HS2016 Panel",
+  "brand": "DSC",
+  "category": "Intrusion › Alarm panels",
+  "subtitle": "Hybrid wired + PowerG wireless alarm panel · 6 to 16 zones",
+  "tagline": "Entry-level PowerSeries Neo panel — mix wired and PowerG wireless devices, and grow with the same keypads and modules.",
+  "image": "products/22HS2016-4HSLEDZAM0/image.png",
+  "imageNote": "Metal cabinet (panel board inside)",
+  "note": "Stock code suggests a kit (likely panel + LED keypad). Confirm exact kit contents before quoting.",
+  "keywords": [
+   "HS2016",
+   "Neo",
+   "PowerSeries",
+   "panel",
+   "control panel",
+   "alarm panel",
+   "DSC",
+   "hybrid",
+   "PowerG",
+   "kit"
+  ],
+  "kpis": [
+   {
+    "v": "6→16",
+    "l": "zones"
+   },
+   {
+    "v": "2",
+    "l": "partitions"
+   },
+   {
+    "v": "48",
+    "l": "user codes"
+   },
+   {
+    "v": "500",
+    "l": "event log"
+   }
+  ],
+  "bestFor": [
+   "Homes and small businesses up to 16 zones",
+   "Mixing wired zones with PowerG wireless detectors",
+   "Retrofits where some cabling is hard to run",
+   "Control-room monitoring via IP / cellular add-ons",
+   "Customers wanting app control (Alarm.com compatible)"
+  ],
+  "notFor": [
+   "Large sites over 16 zones — step up to HS2032/HS2064/HS2128",
+   "Outdoor or damp installs",
+   "Customers wanting a fully wireless, app-only DIY kit"
+  ],
+  "features": [
+   "<b>Hybrid</b> — wired zones plus PowerG wireless (up to 2 km line-of-sight)",
+   "<b>128-bit AES</b> encryption on wireless, communicator & bus",
+   "Visual and 2-way audio alarm verification (with add-ons)",
+   "Remote programming & firmware updates via DLS 5",
+   "Alarm.com compatible for app control & home automation"
+  ],
+  "specs": [
+   [
+    "Power supply",
+    "16.5 VAC / 40 VA transformer"
+   ],
+   [
+    "Panel current",
+    "85 mA nominal"
+   ],
+   [
+    "Aux / bell output",
+    "13.75 VDC, 700 mA each"
+   ],
+   [
+    "Keypads",
+    "Up to 8 wired + 8 wireless"
+   ],
+   [
+    "Outputs",
+    "2 on-board PGMs, expandable"
+   ],
+   [
+    "Operating temp",
+    "0 to 49 °C · 93% RH"
+   ]
+  ],
+  "models": [
+   [
+    "HS2016",
+    "6 → 16 zones, 2 partitions — <b>this panel</b>",
+    true
+   ],
+   [
+    "HS2032",
+    "8 → 32 zones, 4 partitions"
+   ],
+   [
+    "HS2064 E",
+    "8 → 64 zones, 8 partitions"
+   ],
+   [
+    "HS2128 E",
+    "8 → 128 zones, 8 partitions"
+   ]
+  ],
+  "qa": [
+   [
+    "Battery?",
+    "Yes — a 12 V standby battery is required (order separately unless in the kit)."
+   ],
+   [
+    "Wireless?",
+    "Add an HSM2HOST transceiver or an RF keypad for PowerG devices."
+   ],
+   [
+    "Internet reporting?",
+    "Add a TL280E (IP) or dual-path cellular communicator."
+   ]
+  ],
+  "source": "DSC PowerSeries Neo Control Panels datasheet (PN 330001878).",
+  "onepager": "products/22HS2016-4HSLEDZAM0/onepager.pdf"
+ },
+ {
+  "code": "22HS2LCDE1",
+  "name": "DSC Neo HS2LCD Full-Message Keypad",
+  "brand": "DSC",
+  "category": "Intrusion › Keypads",
+  "subtitle": "PowerSeries Neo wired keypad · 2×16 character LCD",
+  "tagline": "Slim full-text keypad for PowerSeries Neo — clear messages, backlit buttons and one-touch function keys.",
+  "image": "products/22HS2LCDE1/image.png",
+  "keywords": [
+   "HS2LCD",
+   "keypad",
+   "LCD keypad",
+   "Neo",
+   "PowerSeries",
+   "DSC",
+   "full message",
+   "HS2LCDE1"
+  ],
+  "kpis": [
+   {
+    "v": "2×16",
+    "l": "LCD text"
+   },
+   {
+    "v": "5",
+    "l": "function keys"
+   },
+   {
+    "v": "8",
+    "l": "partitions"
+   },
+   {
+    "v": "12 V",
+    "l": "DC powered"
+   }
+  ],
+  "bestFor": [
+   "Any PowerSeries Neo panel (HS2016–HS2128)",
+   "Users who want plain-text messages",
+   "Extra keypad at a back door or bedroom",
+   "Surface or single-gang box mounting"
+  ],
+  "notFor": [
+   "Non-Neo DSC panels (e.g. older PowerSeries PC1616)",
+   "Outdoor mounting",
+   "Wireless installs — choose an RF / wireless keypad"
+  ],
+  "features": [
+   "<b>Full-message LCD</b> — 32 programmable characters, 6 languages",
+   "Large white backlit keys · adjustable buzzer",
+   "<b>5 programmable keys</b> + 3 panic keys",
+   "Built-in zone/output terminal & low-temperature sensor",
+   "Front & rear tamper · remote firmware upgrade"
+  ],
+  "specs": [
+   [
+    "Voltage",
+    "12 VDC nominal"
+   ],
+   [
+    "Current draw",
+    "60 mA (125 mA max)"
+   ],
+   [
+    "Size",
+    "168 × 122 × 20 mm"
+   ],
+   [
+    "LCD area",
+    "99 × 24 mm"
+   ],
+   [
+    "Operating temp",
+    "−10 to +55 °C · 5–93% RH"
+   ]
+  ],
+  "models": [
+   [
+    "HS2LCD",
+    "Full-message LCD — <b>this unit</b>",
+    true
+   ],
+   [
+    "HS2LCDP",
+    "With prox tag reader"
+   ],
+   [
+    "HS2LCDRF",
+    "With built-in PowerG transceiver"
+   ],
+   [
+    "HS2ICN",
+    "ICON (symbol) display"
+   ]
+  ],
+  "qa": [
+   [
+    "Works with my Neo panel?",
+    "Yes — all PowerSeries Neo panels."
+   ],
+   [
+    "Prox tags?",
+    "Not this model — sell the HS2LCDP version."
+   ],
+   [
+    "Wireless devices?",
+    "Use the HS2LCDRF version or a separate HSM2HOST."
+   ]
+  ],
+  "source": "DSC PowerSeries Neo Hardwired Keypads HS2 Series datasheet (PN 30001547).",
+  "onepager": "products/22HS2LCDE1/onepager.pdf"
+ },
+ {
+  "code": "22PG4945",
+  "name": "DSC PowerG Door/Window Contact",
+  "brand": "DSC",
+  "category": "Intrusion › Wireless detectors",
+  "subtitle": "PG4945 wireless door/window contact with auxiliary input",
+  "tagline": "Wireless magnetic contact for doors and windows — with a spare input to connect a wired contact too.",
+  "image": "products/22PG4945/image.png",
+  "keywords": [
+   "PG4945",
+   "PG8945",
+   "door contact",
+   "window contact",
+   "magnetic contact",
+   "reed",
+   "PowerG",
+   "wireless",
+   "DSC"
+  ],
+  "kpis": [
+   {
+    "v": "8 yrs",
+    "l": "battery life"
+   },
+   {
+    "v": "2 km",
+    "l": "radio (open air)"
+   },
+   {
+    "v": "+1",
+    "l": "aux wired input"
+   },
+   {
+    "v": "AES",
+    "l": "128-bit"
+   }
+  ],
+  "bestFor": [
+   "Doors and windows on PowerSeries Neo systems",
+   "Places where cabling is hard",
+   "Adding a nearby wired contact via the aux input",
+   "Tight frames where the magnet gap is an issue"
+  ],
+  "notFor": [
+   "Non-Neo / non-PowerG panels",
+   "Outdoor gates (use PG8312 outdoor contact)",
+   "Metal frames without testing the gap"
+  ],
+  "features": [
+   "<b>Link-quality LED</b> on the device — find the best spot fast",
+   "<b>Aux input</b> — N/O, N/C or EOL wired contact",
+   "Configured from the keypad — no DIP switches",
+   "Fully supervised, frequency hopping, 128-bit AES"
+  ],
+  "specs": [
+   [
+    "Battery",
+    "3 V CR123A lithium"
+   ],
+   [
+    "Battery life",
+    "Up to 8 years (typical use)"
+   ],
+   [
+    "Size / weight",
+    "81 × 34 × 25 mm · 53 g"
+   ],
+   [
+    "Operating temp",
+    "−10 to +55 °C"
+   ],
+   [
+    "Compatibility",
+    "PowerSeries Neo"
+   ]
+  ],
+  "models": [
+   [
+    "PG4945",
+    "433 MHz — <b>this unit</b>",
+    true
+   ],
+   [
+    "PG8945",
+    "868 MHz version"
+   ]
+  ],
+  "qa": [
+   [
+    "Battery?",
+    "CR123A 3 V lithium — about 8 years."
+   ],
+   [
+    "Wired contact on the same door?",
+    "Yes, use the aux input."
+   ],
+   [
+    "Which panel?",
+    "PowerSeries Neo with a PowerG receiver."
+   ]
+  ],
+  "source": "DSC PG8945/PG4945 datasheet (PN 30002190).",
+  "onepager": "products/22PG4945/onepager.pdf"
+ },
+ {
+  "code": "22PG4994",
+  "name": "DSC PowerG Outdoor PIR",
+  "brand": "DSC",
+  "category": "Intrusion › Wireless detectors",
+  "subtitle": "PG4994 wireless outdoor mirror-optic PIR · anti-mask",
+  "tagline": "Wireless outdoor PIR that tells people apart from swaying trees and small animals — ideal for gardens and driveways.",
+  "image": "products/22PG4994/image.png",
+  "keywords": [
+   "PG4994",
+   "PG8994",
+   "outdoor PIR",
+   "external",
+   "wireless",
+   "PowerG",
+   "anti mask",
+   "Octa-Quad",
+   "DSC",
+   "garden"
+  ],
+  "kpis": [
+   {
+    "v": "12 × 12 m",
+    "l": "coverage (90°)"
+   },
+   {
+    "v": "18 kg",
+    "l": "pet immunity"
+   },
+   {
+    "v": "3 yrs",
+    "l": "battery life"
+   },
+   {
+    "v": "−40–70 °C",
+    "l": "operating"
+   }
+  ],
+  "bestFor": [
+   "Gardens, driveways and yards on Neo systems",
+   "Early warning before intruders reach the house",
+   "Homes with dogs up to 18 kg",
+   "Sites where outdoor cabling isn't practical"
+  ],
+  "notFor": [
+   "Non-Neo panels",
+   "Areas with dogs over 18 kg roaming",
+   "Facing busy roads or public walkways"
+  ],
+  "features": [
+   "<b>Octa-Quad</b> — 8 PIR sensors tell people from trees & animals",
+   "<b>Anti-masking</b> — alerts if it's covered or sprayed",
+   "Black mirror optics — ignores sunlight over 25,000 lux",
+   "Link-quality LED, set up from the keypad"
+  ],
+  "coverage": {
+   "title": "Coverage",
+   "image": "products/22PG4994/coverage.png",
+   "rows": [
+    [
+     "Area",
+     "12 m × 12 m / 90°",
+     true
+    ],
+    [
+     "Mount height",
+     "1.5 – 3 m"
+    ],
+    [
+     "Pet immunity",
+     "18 kg / 40 lb",
+     true
+    ]
+   ]
+  },
+  "specs": [
+   [
+    "Battery",
+    "2 × 3 V CR123A lithium"
+   ],
+   [
+    "Battery life",
+    "About 3 years (typical use)"
+   ],
+   [
+    "Size",
+    "157 × 147 × 124 mm"
+   ],
+   [
+    "Weight",
+    "600 g with batteries"
+   ],
+   [
+    "Operating temp",
+    "−40 to +70 °C"
+   ]
+  ],
+  "models": [
+   [
+    "PG4994",
+    "433 MHz — <b>this unit</b>",
+    true
+   ],
+   [
+    "PG8994",
+    "868 MHz version"
+   ],
+   [
+    "PG4944",
+    "Outdoor PIR with camera"
+   ]
+  ],
+  "qa": [
+   [
+    "Big dogs?",
+    "Pet immune to 18 kg only — keep larger dogs out of the area."
+   ],
+   [
+    "Batteries?",
+    "2 × CR123A, about 3 years."
+   ],
+   [
+    "Camera?",
+    "No — the PG4944 has a camera."
+   ]
+  ],
+  "source": "DSC PG8994/PG4994 datasheet (PN 30002196).",
+  "onepager": "products/22PG4994/onepager.pdf"
+ },
+ {
+  "code": "22TL280E",
+  "name": "DSC TL280E Internet Communicator",
+  "brand": "DSC",
+  "category": "Intrusion › Communicators",
+  "subtitle": "IP alarm communicator for PowerSeries Neo",
+  "tagline": "Sends alarms to the control room over the internet — no phone line needed.",
+  "image": "products/22TL280E/image.png",
+  "keywords": [
+   "TL280",
+   "TL280E",
+   "IP communicator",
+   "internet",
+   "ethernet",
+   "Neo",
+   "DSC",
+   "monitoring",
+   "LAN"
+  ],
+  "kpis": [
+   {
+    "v": "IP",
+    "l": "internet path"
+   },
+   {
+    "v": "AES",
+    "l": "128-bit"
+   },
+   {
+    "v": "SIA / CID",
+    "l": "protocols"
+   },
+   {
+    "v": "100 mA",
+    "l": "current draw"
+   }
+  ],
+  "bestFor": [
+   "Neo panels where the phone line is gone",
+   "Armed-response monitoring over the customer's internet",
+   "Remote programming with DLS 5",
+   "Visual verification (with PowerG cameras)"
+  ],
+  "notFor": [
+   "Sites without a reliable internet connection — use a dual-path / cellular model",
+   "Non-Neo panels (check older PC-series compatibility)"
+  ],
+  "features": [
+   "<b>Fully redundant</b> — report to primary and backup receivers",
+   "<b>128-bit AES</b> encrypted signalling",
+   "Supervision heartbeats, full event reporting",
+   "Remote upload/download via the internet",
+   "Plugs straight onto the panel's PC-Link"
+  ],
+  "specs": [
+   [
+    "Compatible panels",
+    "HS2016 / HS2032 / HS2064 / HS2128"
+   ],
+   [
+    "Receivers",
+    "Sur-Gard System I-IP to 5"
+   ],
+   [
+    "Current draw",
+    "100 mA"
+   ],
+   [
+    "Size / weight",
+    "150 × 115 mm · 310 g"
+   ],
+   [
+    "Operating temp",
+    "5 to 40 °C"
+   ]
+  ],
+  "models": [
+   [
+    "TL280E",
+    "Internet communicator — <b>this unit</b>",
+    true
+   ],
+   [
+    "TL280RE",
+    "Adds RS232 for 3rd-party integration"
+   ]
+  ],
+  "qa": [
+   [
+    "Need a phone line?",
+    "No — it uses the internet connection."
+   ],
+   [
+    "What if the internet goes down?",
+    "Use a dual-path model (IP + cellular) for backup."
+   ],
+   [
+    "Photos from camera PIRs?",
+    "Yes, with an SG-System 5 receiver."
+   ]
+  ],
+  "source": "DSC TL280(R)E datasheet (PN 30001623R001).",
+  "onepager": "products/22TL280E/onepager.pdf"
+ },
+ {
+  "code": "1938241-108-WH1",
+  "name": "Ajax Hub 2 (4G) Jeweller",
+  "brand": "Ajax",
+  "category": "Intrusion › Alarm panels",
+  "subtitle": "Wireless control panel · Ethernet + 2 × 4G SIM · photo verification",
+  "tagline": "The heart of an Ajax wireless system — app-controlled, with Ethernet and dual-SIM 4G backup and photo alarm verification.",
+  "image": "products/1938241-108-WH1/image.png",
+  "imageNote": "Shown in black — this stock code is white",
+  "keywords": [
+   "Hub 2",
+   "Hub2",
+   "Ajax",
+   "control panel",
+   "wireless alarm",
+   "4G",
+   "LTE",
+   "Jeweller",
+   "app",
+   "photo verification"
+  ],
+  "kpis": [
+   {
+    "v": "100",
+    "l": "devices"
+   },
+   {
+    "v": "50",
+    "l": "users"
+   },
+   {
+    "v": "2 km",
+    "l": "radio range"
+   },
+   {
+    "v": "15 h",
+    "l": "battery backup"
+   }
+  ],
+  "bestFor": [
+   "Fully wireless home & small business alarms",
+   "Customers who want app control and notifications",
+   "Sites with poor fixed internet (dual-SIM 4G)",
+   "Photo verification with MotionCam detectors",
+   "Linking Dahua/Hikvision cameras (up to 25)"
+  ],
+  "notFor": [
+   "Wired detectors (needs MultiTransmitter)",
+   "Outdoor mounting",
+   "Sites needing more than 100 devices"
+  ],
+  "features": [
+   "<b>Ethernet + 2 × SIM 4G</b> — automatic switching between paths",
+   "<b>Photo verification</b> — photos on alarm, on demand or on schedule",
+   "Up to 32 automation scenarios · 9 security groups",
+   "Reports to control rooms (SIA DC-09, Contact ID)",
+   "Built-in 3 Ah backup battery"
+  ],
+  "specs": [
+   [
+    "Power",
+    "110–240 VAC (≤10 W) · optional 6/12 V PSU"
+   ],
+   [
+    "Backup",
+    "Li-ion 3 Ah, up to 15 h"
+   ],
+   [
+    "Radio",
+    "Jeweller up to 2,000 m · Wings 1,700 m"
+   ],
+   [
+    "Cellular",
+    "2 × micro-SIM, 2G/3G/4G"
+   ],
+   [
+    "Cameras",
+    "Up to 25 IP cameras / DVRs (RTSP)"
+   ],
+   [
+    "Install",
+    "Indoor only"
+   ]
+  ],
+  "qa": [
+   [
+    "Needs internet?",
+    "Works on Ethernet or 4G SIMs — either is fine."
+   ],
+   [
+    "How many detectors?",
+    "Up to 100 Ajax devices (max 10 sirens/keypads)."
+   ],
+   [
+    "Monitoring?",
+    "Yes — sends SIA DC-09 / Contact ID to control rooms."
+   ]
+  ],
+  "source": "Ajax Hub 2 (4G) Jeweller tech specs.",
+  "onepager": "products/1938241-108-WH1/onepager.pdf"
+ },
+ {
+  "code": "06EAS-400A",
+  "name": "Alarm Supplies EAS-400A Strobe Siren",
+  "brand": "Alarm Supplies",
+  "category": "Intrusion › Sirens",
+  "subtitle": "12 V external siren with strobe · 115 dB",
+  "tagline": "Loud external siren with a flashing strobe — shows the system is armed and draws attention on alarm.",
+  "image": "products/06EAS-400A/image.png",
+  "keywords": [
+   "siren",
+   "strobe",
+   "bell box",
+   "external siren",
+   "EAS-400",
+   "warble",
+   "12V"
+  ],
+  "kpis": [
+   {
+    "v": "115 dB",
+    "l": "at 1 m"
+   },
+   {
+    "v": "12 V",
+    "l": "DC"
+   },
+   {
+    "v": "8 Ω",
+    "l": "impedance"
+   },
+   {
+    "v": "1.4 A",
+    "l": "max current"
+   }
+  ],
+  "bestFor": [
+   "Outside walls of homes and shops",
+   "Visible deterrent on alarm installs",
+   "Most 12 V alarm panels with a bell output"
+  ],
+  "notFor": [
+   "Panels that can't supply 1.4 A on the bell output",
+   "Self-powered siren needs (no built-in battery)",
+   "Indoor use — too loud"
+  ],
+  "features": [
+   "<b>115 dB warble</b> tone",
+   "<b>Strobe light</b> — about 115 flashes per minute",
+   "White ABS housing, acrylic lens",
+   "Operates from 6 to 15 VDC"
+  ],
+  "specs": [
+   [
+    "Input voltage",
+    "12 VDC (6 – 15 VDC)"
+   ],
+   [
+    "Max current",
+    "1,400 mA"
+   ],
+   [
+    "Sound",
+    "115 dB @ 12 V / 1 m · warble"
+   ],
+   [
+    "Impedance",
+    "8 Ω"
+   ],
+   [
+    "Size",
+    "277 × 165 × 103 mm"
+   ]
+  ],
+  "qa": [
+   [
+    "Built-in battery?",
+    "No — it's powered from the panel's bell/siren output."
+   ],
+   [
+    "Will my panel drive it?",
+    "Check the bell output can deliver 1.4 A."
+   ],
+   [
+    "Tone?",
+    "Warble, with flashing strobe."
+   ]
+  ],
+  "source": "Alarm Supplies EAS-400A strobe siren datasheet.",
+  "onepager": "products/06EAS-400A/onepager.pdf"
+ },
+ {
+  "code": "07BX80N",
+  "name": "Optex BX-80N Perimeter PIR",
+  "brand": "Optex",
+  "category": "Intrusion › Outdoor detectors",
+  "subtitle": "Outdoor dual-sided curtain PIR · 24 m (12 m each side)",
+  "tagline": "Invisible outdoor curtain along the wall of the building — catches intruders before they break a window or door.",
+  "image": "products/07BX80N/image.png",
+  "keywords": [
+   "BX-80N",
+   "BX80N",
+   "BX-80NR",
+   "curtain",
+   "perimeter",
+   "outdoor PIR",
+   "Optex",
+   "beam",
+   "wall"
+  ],
+  "kpis": [
+   {
+    "v": "24 m",
+    "l": "12 m each side"
+   },
+   {
+    "v": "IP55",
+    "l": "weatherproof"
+   },
+   {
+    "v": "12–24 V",
+    "l": "10–28 VDC"
+   },
+   {
+    "v": "0.8–1.2 m",
+    "l": "mount height"
+   }
+  ],
+  "bestFor": [
+   "Along walls, under windows, past back doors",
+   "Early warning before entry",
+   "Long narrow areas beside the house",
+   "Mounting on the building wall (low)"
+  ],
+  "notFor": [
+   "Open gardens or wide areas (use a wide-angle PIR)",
+   "Facing roads or moving foliage",
+   "Battery-only installs — sell the BX-80NR"
+  ],
+  "features": [
+   "<b>Narrow 24 m curtain</b>, 2 zones each side",
+   "<b>Size judging</b> — alarms only when upper and lower beams both see movement",
+   "Double conductive shielding vs. headlights & sunlight",
+   "Adjustable detection range limit",
+   "Temperature compensation"
+  ],
+  "specs": [
+   [
+    "Power",
+    "10 – 28 VDC, 38 mA max"
+   ],
+   [
+    "Outputs",
+    "2 relays N.O./N.C., 28 VDC 0.2 A"
+   ],
+   [
+    "Tamper",
+    "N.C., opens when cover removed"
+   ],
+   [
+    "Operating temp",
+    "−20 to +50 °C · 95% RH"
+   ],
+   [
+    "Weight",
+    "400 g · wall mount"
+   ]
+  ],
+  "models": [
+   [
+    "BX-80N",
+    "Wired 10–28 VDC — <b>this unit</b>",
+    true
+   ],
+   [
+    "BX-80NR",
+    "Battery operated, for wireless transmitters"
+   ]
+  ],
+  "qa": [
+   [
+    "Will cats set it off?",
+    "Size judging needs both upper & lower zones — small animals usually don't."
+   ],
+   [
+    "How high?",
+    "0.8 – 1.2 m on the wall."
+   ],
+   [
+    "Wireless?",
+    "Use the BX-80NR with a wireless transmitter."
+   ]
+  ],
+  "source": "Optex BX-80N/80NR brochure (Elvey).",
+  "onepager": "products/07BX80N/onepager.pdf"
+ },
+ {
+  "code": "07HX80N",
+  "name": "Optex HX-80N High-Mount PIR",
+  "brand": "Optex",
+  "category": "Intrusion › Outdoor detectors",
+  "subtitle": "24 m long & narrow outdoor PIR · mounts 2.5–3 m high",
+  "tagline": "High-mount outdoor curtain PIR that's out of reach of tampering — 24 m long, with adjustable range.",
+  "image": "products/07HX80N/image.png",
+  "keywords": [
+   "HX-80N",
+   "HX80N",
+   "HX-80NAM",
+   "HX-80NRAM",
+   "high mount",
+   "outdoor PIR",
+   "Optex",
+   "curtain",
+   "perimeter"
+  ],
+  "kpis": [
+   {
+    "v": "24 × 2 m",
+    "l": "narrow coverage"
+   },
+   {
+    "v": "2.5–3 m",
+    "l": "mount height"
+   },
+   {
+    "v": "IP55",
+    "l": "weatherproof"
+   },
+   {
+    "v": "12 V",
+    "l": "9.5–18 VDC"
+   }
+  ],
+  "bestFor": [
+   "Long walls, fence lines and driveways",
+   "High mounting out of reach of vandals",
+   "Commercial sites, storage yards, homes",
+   "Sloping ground (adjustable bracket)"
+  ],
+  "notFor": [
+   "Wide open areas — coverage is only 2 m wide",
+   "Battery installs — sell the HX-80NRAM",
+   "Areas where it can't see along the full 24 m"
+  ],
+  "features": [
+   "<b>Range limit</b> — 6.5, 10, 13 or 18 m to stop short of roads",
+   "<b>Bracket</b> ±20° vertical, ±95° horizontal",
+   "Double conductive shielding · temperature compensation",
+   "Masking plates & flaps to fine-tune coverage",
+   "Aux input for a second device"
+  ],
+  "coverage": {
+   "title": "Coverage",
+   "rows": [
+    [
+     "Area",
+     "24 m × 2 m · 20 zones",
+     true
+    ],
+    [
+     "Range limit",
+     "6.5 / 10 / 13 / 18 m"
+    ],
+    [
+     "Mount height",
+     "2.5 – 3.0 m",
+     true
+    ],
+    [
+     "Walk speed",
+     "0.3 – 1.5 m/s"
+    ]
+   ]
+  },
+  "specs": [
+   [
+    "Power",
+    "9.5 – 18 VDC · 35 mA max"
+   ],
+   [
+    "Alarm output",
+    "Form C, 28 VDC 0.2 A"
+   ],
+   [
+    "Tamper",
+    "N.C., 28 VDC 0.1 A"
+   ],
+   [
+    "Operating temp",
+    "−20 to +60 °C · 95% RH"
+   ],
+   [
+    "Weight",
+    "720 g with bracket"
+   ]
+  ],
+  "models": [
+   [
+    "HX-80N",
+    "Standard 2-PIR model — <b>this unit</b>",
+    true
+   ],
+   [
+    "HX-80NAM",
+    "Adds anti-masking + trouble output"
+   ],
+   [
+    "HX-80NRAM",
+    "Battery operated, anti-masking"
+   ]
+  ],
+  "qa": [
+   [
+    "Why high mount?",
+    "Harder to reach or tamper with, and sees over low obstacles."
+   ],
+   [
+    "Can I stop it at the boundary?",
+    "Yes — set the range limit (6.5–18 m)."
+   ],
+   [
+    "Anti-masking?",
+    "Not this model — sell the HX-80NAM."
+   ]
+  ],
+  "source": "Optex HX-80N series brochure.",
+  "onepager": "products/07HX80N/onepager.pdf"
+ },
+ {
+  "code": "24RX1NHV3433",
+  "name": "Centurion NOVA HELIX Receiver",
+  "brand": "Centurion",
+  "category": "Access Control › Remotes & receivers",
+  "subtitle": "NOVA HELIX code-hopping 433 MHz receiver (single channel)",
+  "tagline": "Ultra-secure code-hopping receiver for gates and garages — works with all NOVA remotes.",
+  "image": "products/24RX1NHV3433/image.png",
+  "note": "Stock code read as the single-channel NOVA HELIX receiver — confirm 1- vs multi-channel before quoting.",
+  "keywords": [
+   "NOVA",
+   "HELIX",
+   "receiver",
+   "Centurion",
+   "gate receiver",
+   "433",
+   "code hopping",
+   "remote",
+   "RX1"
+  ],
+  "kpis": [
+   {
+    "v": "433 MHz",
+    "l": "frequency"
+   },
+   {
+    "v": "62",
+    "l": "buttons (1-ch)"
+   },
+   {
+    "v": "12–24 V",
+    "l": "DC supply"
+   },
+   {
+    "v": "Hopping",
+    "l": "anti-clone code"
+   }
+  ],
+  "bestFor": [
+   "Gate motors, garage doors, booms",
+   "Upgrading to a more secure receiver",
+   "Sites using CENTURION NOVA remotes",
+   "Timed auto-learn for many remotes"
+  ],
+  "notFor": [
+   "Non-NOVA remotes",
+   "Controlling several devices — choose a multichannel receiver",
+   "AC-only supplies"
+  ],
+  "features": [
+   "<b>Code-hopping</b> — every press sends a new code, can't be cloned",
+   "<b>Timed Autolearn</b> — learns remotes for a set time",
+   "<b>Sticky latch</b> — outputs keep their state after a power cut",
+   "SmartSwitch II support — control up to 15 devices",
+   "Backward compatible with NOVA remotes"
+  ],
+  "specs": [
+   [
+    "Frequency",
+    "433.92 MHz"
+   ],
+   [
+    "Supply",
+    "12 – 24 VDC"
+   ],
+   [
+    "Current",
+    "11 mA quiet · 40 mA max @ 12 V"
+   ],
+   [
+    "Memory",
+    "62 buttons (1-ch) · 250 (multi-ch)"
+   ],
+   [
+    "Operating temp",
+    "−15 to +50 °C · UV-stable ABS"
+   ]
+  ],
+  "models": [
+   [
+    "1-channel",
+    "62-button memory — <b>this unit</b>",
+    true
+   ],
+   [
+    "2 / 4-channel",
+    "250-button memory"
+   ],
+   [
+    "NOVA remotes",
+    "1, 2, 3 or 4 button (GP23 12 V battery)"
+   ]
+  ],
+  "qa": [
+   [
+    "Which remotes?",
+    "CENTURION NOVA code-hopping remotes."
+   ],
+   [
+    "Remote battery?",
+    "GP23 12 V."
+   ],
+   [
+    "Power cut?",
+    "Sticky latch keeps outputs as they were."
+   ]
+  ],
+  "source": "Centurion NOVA HELIX transmitters & receivers brochure (0.07.A.0298).",
+  "onepager": "products/24RX1NHV3433/onepager.pdf"
+ },
+ {
+  "code": "24SK-1BLACK",
+  "name": "Centurion SMARTGUARD Keypad",
+  "brand": "Centurion",
+  "category": "Access Control › Keypads",
+  "subtitle": "Keyless access keypad · 1000 codes · IP55",
+  "tagline": "Outdoor PIN keypad for gates and doors — up to 1000 codes, with single-use codes for visitors.",
+  "image": "products/24SK-1BLACK/image.png",
+  "note": "Datasheet covers SMARTGUARD (wired) and SMARTGUARDair (wireless). Confirm which this stock code is.",
+  "keywords": [
+   "SMARTGUARD",
+   "keypad",
+   "Centurion",
+   "gate keypad",
+   "PIN",
+   "access",
+   "SMARTGUARDair",
+   "keyless",
+   "SK-1"
+  ],
+  "kpis": [
+   {
+    "v": "1000",
+    "l": "user codes"
+   },
+   {
+    "v": "IP55",
+    "l": "weather rated"
+   },
+   {
+    "v": "3",
+    "l": "outputs"
+   },
+   {
+    "v": "1–10",
+    "l": "digit codes"
+   }
+  ],
+  "bestFor": [
+   "Gate entrances and pedestrian gates",
+   "Giving armed response a one-time code",
+   "Opening gate, pedestrian mode and alarm from different codes",
+   "Outdoor mounting"
+  ],
+  "notFor": [
+   "Card or biometric access needs",
+   "Sites needing audit trails / software"
+  ],
+  "features": [
+   "<b>1000 PIN codes</b>, 1 to 10 digits",
+   "<b>Down-counter</b> — codes that delete after set uses",
+   "3 outputs, pulse (1–255 s) or latched",
+   "Optional SmartSwitch stops 'hot-wiring'",
+   "Memory backup module"
+  ],
+  "specs": [
+   [
+    "Supply",
+    "12 – 24 V AC/DC"
+   ],
+   [
+    "Current",
+    "32 mA standby · 180 mA max"
+   ],
+   [
+    "Outputs",
+    "1 relay + 2 open collector"
+   ],
+   [
+    "Size",
+    "132 × 80 × 38 mm · polycarbonate"
+   ],
+   [
+    "Operating temp",
+    "−20 to +60 °C"
+   ]
+  ],
+  "models": [
+   [
+    "SMARTGUARD",
+    "Wired, 12–24 V, 3 outputs"
+   ],
+   [
+    "SMARTGUARDair",
+    "Wireless 433 MHz, 2 × AA, up to 15 channels"
+   ]
+  ],
+  "qa": [
+   [
+    "Visitor code?",
+    "Yes — set a code with a limited number of uses."
+   ],
+   [
+    "Wireless version?",
+    "SMARTGUARDair — runs 2 years on AA batteries."
+   ],
+   [
+    "Gate + pedestrian?",
+    "Yes, different codes for different outputs."
+   ]
+  ],
+  "source": "Centurion SMARTGUARD / SMARTGUARDair brochure (0.07.A.0088).",
+  "onepager": "products/24SK-1BLACK/onepager.pdf"
+ },
+ {
+  "code": "14SHRX2-150",
+  "name": "Sherlotronics RX2-150 Receiver",
+  "brand": "Sherlotronics",
+  "category": "Access Control › Remotes & receivers",
+  "subtitle": "2-channel code-hopping receiver · 150 m",
+  "tagline": "Two-relay remote receiver for gates, garages and lights — 40 remotes per relay.",
+  "image": null,
+  "imageNote": "No product photo in the datasheet",
+  "keywords": [
+   "RX2-150",
+   "RX2",
+   "receiver",
+   "Sherlotronics",
+   "Sherlo",
+   "2 channel",
+   "gate receiver",
+   "code hopping",
+   "403"
+  ],
+  "kpis": [
+   {
+    "v": "2",
+    "l": "relay channels"
+   },
+   {
+    "v": "150 m",
+    "l": "line of sight"
+   },
+   {
+    "v": "40",
+    "l": "remotes / relay"
+   },
+   {
+    "v": "12 V",
+    "l": "10–16 VDC"
+   }
+  ],
+  "bestFor": [
+   "Gate motor + pedestrian or garage on one receiver",
+   "Switching lights or pumps (latch / on-off modes)",
+   "Sherlotronics code-hopping remotes"
+  ],
+  "notFor": [
+   "More than 40 remotes per channel",
+   "24 V-only supplies (10–16 VDC)",
+   "Other brands' remotes"
+  ],
+  "features": [
+   "<b>Code-hopping</b> encryption",
+   "<b>2 relays</b>, N/O or N/C, 3 A",
+   "Relay times: 0.5 s to 3 min, latch, or on/off",
+   "Erase single remotes without resetting"
+  ],
+  "specs": [
+   [
+    "Frequency",
+    "403 MHz (local) / 433 MHz (export)"
+   ],
+   [
+    "Voltage",
+    "10 – 16 VDC"
+   ],
+   [
+    "Current",
+    "~14 mA standby · ~65 mA all on"
+   ],
+   [
+    "Relay rating",
+    "3 A @ 24 VDC / 120 VAC"
+   ],
+   [
+    "Size",
+    "100 × 60 × 25 mm · 78 g"
+   ],
+   [
+    "Operating temp",
+    "−3 to +49 °C"
+   ]
+  ],
+  "qa": [
+   [
+    "How many remotes?",
+    "40 per relay."
+   ],
+   [
+    "Can it switch a light on/off?",
+    "Yes — on/off or latch mode."
+   ],
+   [
+    "Warranty?",
+    "2 years from manufacture."
+   ]
+  ],
+  "source": "Sherlotronics RX2-150 installation instructions.",
+  "onepager": "products/14SHRX2-150/onepager.pdf"
+ },
+ {
+  "code": "38TC-C32XN",
+  "name": "Tiandy 2MP IP Turret 2.8 mm",
+  "brand": "Tiandy",
+  "category": "Surveillance › IP cameras",
+  "subtitle": "TC-C32XN SuperLite · 2MP PoE turret with mic & warm light",
+  "tagline": "Affordable 1080p IP turret with built-in mic and dual light — colour at night with white light, or IR to 30 m.",
+  "image": "products/38TC-C32XN/image.png",
+  "keywords": [
+   "TC-C32XN",
+   "C32XN",
+   "Tiandy",
+   "turret",
+   "dome",
+   "IP camera",
+   "2MP",
+   "PoE",
+   "SuperLite",
+   "microphone"
+  ],
+  "kpis": [
+   {
+    "v": "2 MP",
+    "l": "1080p"
+   },
+   {
+    "v": "105°",
+    "l": "wide view"
+   },
+   {
+    "v": "30 m",
+    "l": "IR night"
+   },
+   {
+    "v": "PoE",
+    "l": "or 12 V"
+   }
+  ],
+  "bestFor": [
+   "Homes, shops and small offices on IP/NVR",
+   "Entrances, tills and rooms (with audio)",
+   "Colour night view with warm light",
+   "Tiandy NVRs (e.g. TC-R3108)"
+  ],
+  "notFor": [
+   "Long-distance identification",
+   "Analogue / coax systems",
+   "Harsh coastal sites (metal + plastic housing)"
+  ],
+  "features": [
+   "<b>Built-in mic</b> for audio recording",
+   "<b>Dual light</b> — IR 30 m or white light 15 m",
+   "S+265 compression saves storage",
+   "Tripwire & perimeter analytics",
+   "ONVIF · EasyLive Plus app"
+  ],
+  "coverage": {
+   "title": "How far can it see? (2.8 mm)",
+   "rows": [
+    [
+     "Detect",
+     "38.6 m",
+     true
+    ],
+    [
+     "Observe",
+     "15.3 m"
+    ],
+    [
+     "Recognise",
+     "7.7 m"
+    ],
+    [
+     "Identify",
+     "3.8 m",
+     true
+    ]
+   ]
+  },
+  "specs": [
+   [
+    "Sensor",
+    "1/2.8\" CMOS, 1920 × 1080"
+   ],
+   [
+    "Lens",
+    "2.8 mm fixed, F1.6"
+   ],
+   [
+    "Power",
+    "12 VDC (6.5 W) or PoE 802.3af (7 W)"
+   ],
+   [
+    "Network",
+    "RJ-45 10/100"
+   ],
+   [
+    "Size / weight",
+    "117 × 117 × 96 mm · 0.35 kg"
+   ],
+   [
+    "Operating temp",
+    "−30 to +60 °C"
+   ]
+  ],
+  "qa": [
+   [
+    "Works with Dahua/Hik NVRs?",
+    "Usually, via ONVIF — check features."
+   ],
+   [
+    "Records sound?",
+    "Yes, built-in mic."
+   ],
+   [
+    "Power?",
+    "PoE switch/NVR or 12 V adapter."
+   ]
+  ],
+  "source": "Tiandy TC-C32XN datasheet (2024-03-25).",
+  "onepager": "products/38TC-C32XN/onepager.pdf"
+ },
+ {
+  "code": "38TC-R3108",
+  "name": "Tiandy 8-Ch PoE NVR",
+  "brand": "Tiandy",
+  "category": "Surveillance › Recorders (NVR)",
+  "subtitle": "TC-R3108 AK Series · 8 channels, 8 PoE ports, 1 HDD",
+  "tagline": "Compact 8-camera recorder with built-in PoE — plug in cameras and go.",
+  "image": "products/38TC-R3108/image.png",
+  "keywords": [
+   "TC-R3108",
+   "R3108",
+   "NVR",
+   "recorder",
+   "Tiandy",
+   "8 channel",
+   "PoE",
+   "AK series"
+  ],
+  "kpis": [
+   {
+    "v": "8",
+    "l": "IP channels"
+   },
+   {
+    "v": "8",
+    "l": "PoE ports"
+   },
+   {
+    "v": "6 TB",
+    "l": "1 × HDD max"
+   },
+   {
+    "v": "4K",
+    "l": "HDMI out"
+   }
+  ],
+  "bestFor": [
+   "Small homes and shops with up to 8 IP cameras",
+   "Tiandy camera kits",
+   "Simple plug-and-play PoE installs"
+  ],
+  "notFor": [
+   "More than 8 cameras",
+   "Heavy PoE loads — 45 W total budget",
+   "Large storage needs (single HDD up to 6 TB)"
+  ],
+  "features": [
+   "<b>8 × PoE ports</b> — one cable per camera",
+   "<b>S+265</b> cuts storage by up to 75%",
+   "Up to 6MP cameras · 4-ch playback",
+   "4K HDMI output",
+   "ONVIF third-party cameras · mobile app"
+  ],
+  "specs": [
+   [
+    "Bandwidth",
+    "60 Mbps in / 40 Mbps out"
+   ],
+   [
+    "Storage",
+    "1 × SATA, up to 6 TB"
+   ],
+   [
+    "PoE budget",
+    "45 W total, 30 W per port max"
+   ],
+   [
+    "Power",
+    "48 VDC 1.35 A adapter"
+   ],
+   [
+    "Size / weight",
+    "200 × 200 × 43 mm · 0.45 kg"
+   ],
+   [
+    "Operating temp",
+    "−10 to +55 °C"
+   ]
+  ],
+  "qa": [
+   [
+    "Hard drive included?",
+    "No — add a surveillance HDD (up to 6 TB)."
+   ],
+   [
+    "8 cameras on PoE?",
+    "Yes, but keep the total under 45 W."
+   ],
+   [
+    "What's in the box?",
+    "NVR, mouse, power adapter, screws."
+   ]
+  ],
+  "source": "Tiandy TC-R3108 datasheet (2024-04-03).",
+  "onepager": "products/38TC-R3108/onepager.pdf"
+ },
+ {
+  "code": "06AS12-18",
+  "name": "Forbatt FB18-12 Battery 12 V 18 Ah",
+  "brand": "Forbatt",
+  "category": "Power & Energy › Batteries",
+  "subtitle": "Sealed lead-acid (AGM-VRLA) standby battery",
+  "tagline": "Bigger 12 V battery for longer backup — gate motors, larger alarm systems, CCTV and UPS.",
+  "image": "products/06AS12-18/image.png",
+  "keywords": [
+   "18Ah",
+   "FB18-12",
+   "battery",
+   "12V",
+   "SLA",
+   "lead acid",
+   "AGM",
+   "Forbatt",
+   "gate battery",
+   "UPS"
+  ],
+  "kpis": [
+   {
+    "v": "12 V",
+    "l": "nominal"
+   },
+   {
+    "v": "18 Ah",
+    "l": "capacity"
+   },
+   {
+    "v": "5.13 kg",
+    "l": "weight"
+   },
+   {
+    "v": "AGM",
+    "l": "sealed VRLA"
+   }
+  ],
+  "bestFor": [
+   "CCTV and access control backup",
+   "Larger alarm systems with many devices",
+   "UPS and standby power",
+   "Longer load-shedding runtime than a 7 Ah"
+  ],
+  "notFor": [
+   "Small alarm cabinets — check it fits (180 × 77 × 167 mm)",
+   "Heavy daily deep cycling (consider lithium)",
+   "Hot spots above 40 °C"
+  ],
+  "features": [
+   "<b>Maintenance-free</b> sealed AGM",
+   "Low internal resistance (15 mΩ)",
+   "Low self-discharge — 90% after 3 months",
+   "UL recognised, CE marked"
+  ],
+  "specs": [
+   [
+    "Capacity (20 h)",
+    "18 Ah"
+   ],
+   [
+    "Standby charge",
+    "13.5 – 13.8 V"
+   ],
+   [
+    "Cycle charge",
+    "14.4 – 15.0 V"
+   ],
+   [
+    "Max initial current",
+    "5.4 A"
+   ],
+   [
+    "Size",
+    "180 × 77 × 167 mm"
+   ],
+   [
+    "Weight",
+    "5.13 kg"
+   ]
+  ],
+  "models": [
+   [
+    "FB7.2-12",
+    "12 V 7.2 Ah (06AS12-7)"
+   ],
+   [
+    "FB18-12",
+    "12 V 18 Ah — <b>this unit</b>",
+    true
+   ]
+  ],
+  "qa": [
+   [
+    "Fits a standard alarm box?",
+    "Usually not — it's much bigger than a 7 Ah."
+   ],
+   [
+    "Cold weather?",
+    "About 85% capacity at 0 °C."
+   ],
+   [
+    "Charger?",
+    "13.5–13.8 V float."
+   ]
+  ],
+  "source": "Forbatt FB18-12 datasheet.",
+  "onepager": "products/06AS12-18/onepager.pdf"
+ },
+ {
+  "code": "14SH3AMP-LITHIUM",
+  "name": "Sherlotronics 3 A Lithium Backup PSU",
+  "brand": "Sherlotronics",
+  "category": "Power & Energy › Power supplies",
+  "subtitle": "12 V 3 A battery-backup power supply for lithium batteries",
+  "tagline": "Backup power supply made to charge lithium batteries — for alarms, CCTV, maglocks and door controllers.",
+  "image": "products/14SH3AMP-LITHIUM/image.png",
+  "keywords": [
+   "3A",
+   "3AMP",
+   "lithium",
+   "PSU",
+   "power supply",
+   "battery backup",
+   "Sherlotronics",
+   "charger",
+   "LiFePO4"
+  ],
+  "kpis": [
+   {
+    "v": "3 A",
+    "l": "output"
+   },
+   {
+    "v": "35 W",
+    "l": "max power"
+   },
+   {
+    "v": "Li-ion",
+    "l": "charging"
+   },
+   {
+    "v": "12 mo",
+    "l": "warranty"
+   }
+  ],
+  "bestFor": [
+   "Systems using a 7 Ah lithium battery",
+   "Alarm panel or CCTV backup",
+   "Maglocks and door controllers",
+   "Load-shedding protection on small 12 V loads"
+  ],
+  "notFor": [
+   "Lead-acid batteries (use the 6.4 A or standard PSU)",
+   "Loads above 3 A / 35 W",
+   "Outdoor mounting"
+  ],
+  "features": [
+   "<b>Lithium charging</b>, current limited to 1 A",
+   "<b>Low-battery cut-out</b> at 11 V",
+   "Over-voltage protection above 15 V",
+   "AC fail output to the alarm panel",
+   "Resettable output fuse · fused mains input"
+  ],
+  "specs": [
+   [
+    "Input",
+    "110 – 230 VAC 50 Hz"
+   ],
+   [
+    "Output",
+    "13 – 14.4 VDC adjustable, 3 A"
+   ],
+   [
+    "AC fail output",
+    "140 mA positive switching"
+   ],
+   [
+    "Size / weight",
+    "200 × 180 × 87 mm · 0.9 kg"
+   ],
+   [
+    "Operating temp",
+    "−3 to +60 °C"
+   ]
+  ],
+  "models": [
+   [
+    "3A Lithium",
+    "3 A, for lithium — <b>this unit</b>",
+    true
+   ],
+   [
+    "6A Lithium",
+    "6 A, for lithium (12.8 V)"
+   ],
+   [
+    "6.4 A (14SH6.4AMP)",
+    "6.4 A, for lead-acid"
+   ]
+  ],
+  "qa": [
+   [
+    "Battery?",
+    "Pair with a 12 V 7 Ah lithium, e.g. Uniross LFP12-7."
+   ],
+   [
+    "Lead-acid?",
+    "No — this one is set up for lithium."
+   ],
+   [
+    "Tells the panel mains failed?",
+    "Yes, via the AC fail output."
+   ]
+  ],
+  "source": "Sherlotronics 3A Lithium Battery Backup Power-Supply datasheet.",
+  "onepager": "products/14SH3AMP-LITHIUM/onepager.pdf"
+ },
+ {
+  "code": "29CA414",
+  "name": "C-TEC CAST Multi-Sensor Detector",
+  "brand": "C-TEC (Brigit)",
+  "category": "Fire › Addressable detectors",
+  "subtitle": "Programmable smoke + heat addressable detector — CAST",
+  "tagline": "Smoke and heat in one detector — fewer false alarms, and the mode can be changed from the panel.",
+  "image": "products/29CA414/image.png",
+  "keywords": [
+   "CA414",
+   "multi-sensor",
+   "multisensor",
+   "smoke heat",
+   "CAST",
+   "C-TEC",
+   "Brigit",
+   "addressable",
+   "fire detector"
+  ],
+  "kpis": [
+   {
+    "v": "Smoke+Heat",
+    "l": "multi-sensor"
+   },
+   {
+    "v": "5",
+    "l": "sensitivity modes"
+   },
+   {
+    "v": "EN54-5/7",
+    "l": "LPCB"
+   },
+   {
+    "v": "Built-in",
+    "l": "loop isolator"
+   }
+  ],
+  "bestFor": [
+   "Areas where smoke-only causes false alarms",
+   "Mixed-use areas, day/night sensitivity changes",
+   "C-TEC XFP / ZFP CAST systems",
+   "Hotels, offices, schools"
+  ],
+  "notFor": [
+   "Very steamy/dusty areas — consider a heat-only CA402",
+   "Conventional or other-brand panels",
+   "Outdoor use (IP42)"
+  ],
+  "features": [
+   "<b>Smoke + heat combined</b> for faster, more reliable response",
+   "<b>Programmable</b> — 5 modes, different by day/night",
+   "Smart algorithms & drift compensation",
+   "Built-in short-circuit isolator · 360° LEDs"
+  ],
+  "specs": [
+   [
+    "Supply",
+    "27 – 40 VDC, 2-wire"
+   ],
+   [
+    "Current",
+    "370 µA quiet · 5 mA alarm"
+   ],
+   [
+    "Approvals",
+    "LPCB EN54-5, 7 & 17, CEA 4021"
+   ],
+   [
+    "Size",
+    "102.2 Ø × 57.5 mm in base"
+   ],
+   [
+    "Operating temp",
+    "−20 to +85 °C · IP42"
+   ]
+  ],
+  "models": [
+   [
+    "CA414",
+    "Multi-sensor — <b>this unit</b>",
+    true
+   ],
+   [
+    "CA416",
+    "Optical smoke only"
+   ],
+   [
+    "CA402",
+    "Heat only"
+   ],
+   [
+    "CA408",
+    "CAST base — required"
+   ]
+  ],
+  "qa": [
+   [
+    "Base included?",
+    "No — order the CA408 base."
+   ],
+   [
+    "Kitchen?",
+    "Steamy kitchens are better served by a heat-only CA402."
+   ],
+   [
+    "Which panels?",
+    "C-TEC XFP / ZFP CAST panels."
+   ]
+  ],
+  "source": "C-TEC CAST CA414 datasheet.",
+  "onepager": "products/29CA414/onepager.pdf"
  }
 ]
