@@ -5786,5 +5786,2050 @@
   "source": "CSB GP1272 (12V25W) datasheet (issued 200928).",
   "note": "Datasheet rates this battery in watts (24.5 W @ 15 min), not Ah. Confirm the Ah rating before quoting.",
   "onepager": "products/12BG1272/onepager.pdf"
+ },
+ {
+  "code": "51XVR4108HS-I",
+  "name": "Dahua 8-Ch WizSense XVR",
+  "brand": "Dahua",
+  "category": "Surveillance › Recorders (XVR)",
+  "subtitle": "DH-XVR4108HS-I · 8-channel Penta-brid 1080N recorder · 1 HDD",
+  "tagline": "Budget 8-camera recorder for analogue (HDCVI/AHD/TVI) cameras — with AI human/vehicle alarms.",
+  "image": "products/51XVR4108HS-I/image.png",
+  "keywords": [
+   "XVR4108",
+   "XVR",
+   "DVR",
+   "recorder",
+   "8 channel",
+   "Dahua",
+   "WizSense",
+   "penta-brid",
+   "HDCVI",
+   "analogue",
+   "1080N"
+  ],
+  "kpis": [
+   {
+    "v": "8 + 2",
+    "l": "analogue + IP ch"
+   },
+   {
+    "v": "1080N",
+    "l": "recording"
+   },
+   {
+    "v": "16 TB",
+    "l": "1 × HDD max"
+   },
+   {
+    "v": "SMD+",
+    "l": "AI alarms"
+   }
+  ],
+  "bestFor": [
+   "Small analogue CCTV systems (up to 8 cameras)",
+   "Upgrading old DVRs on existing coax",
+   "Cutting false alarms (human/vehicle detection)",
+   "Pairing with Dahua HDCVI cameras (e.g. HAC-T1A21, HAC-B1A11)"
+  ],
+  "notFor": [
+   "Customers expecting full 1080p recording on all channels",
+   "More than 8 analogue cameras (sell the XVR4116HS-I)",
+   "IP-only systems (use an NVR)"
+  ],
+  "features": [
+   "<b>Penta-brid</b> — HDCVI, AHD, TVI, CVBS and IP inputs",
+   "<b>SMD Plus</b> on 8 channels — human & vehicle alarms",
+   "<b>AI Coding</b> saves over 50% storage",
+   "Audio over coax · two-way talk",
+   "One-click arming/disarming"
+  ],
+  "specs": [
+   [
+    "Recording",
+    "Ch 1 up to 1080N/720p @ 25 fps · others 1080N/720p @ up to 15 fps"
+   ],
+   [
+    "IP channels",
+    "2 + 8 (analogue converted)"
+   ],
+   [
+    "Storage",
+    "1 × SATA, up to 16 TB"
+   ],
+   [
+    "Outputs",
+    "1 × HDMI, 1 × VGA"
+   ],
+   [
+    "Power",
+    "12 VDC 1.5 A · <7 W without HDD"
+   ],
+   [
+    "Network",
+    "10/100 Ethernet"
+   ]
+  ],
+  "models": [
+   [
+    "XVR4108HS-I",
+    "8 channels — <b>this unit</b>",
+    true
+   ],
+   [
+    "XVR4116HS-I",
+    "16 channels"
+   ]
+  ],
+  "qa": [
+   [
+    "Full 1080p?",
+    "No — it records at 1080N (lite) to keep costs down."
+   ],
+   [
+    "Hard drive?",
+    "Not included — add one up to 16 TB."
+   ],
+   [
+    "Old cameras?",
+    "Works with HDCVI, AHD, TVI and analogue CVBS."
+   ]
+  ],
+  "source": "Dahua DH-XVR4108HS-I datasheet.",
+  "onepager": "products/51XVR4108HS-I/onepager.pdf"
+ },
+ {
+  "code": "51XVR4116HS-I",
+  "name": "Dahua 16-Ch WizSense XVR",
+  "brand": "Dahua",
+  "category": "Surveillance › Recorders (XVR)",
+  "subtitle": "DH-XVR4116HS-I · 16-channel Penta-brid 1080N recorder · 1 HDD",
+  "tagline": "16-camera analogue recorder with AI human/vehicle alarms — a cost-effective upgrade for larger coax systems.",
+  "image": "products/51XVR4116HS-I/image.png",
+  "keywords": [
+   "XVR4116",
+   "XVR",
+   "DVR",
+   "recorder",
+   "16 channel",
+   "Dahua",
+   "WizSense",
+   "penta-brid",
+   "HDCVI",
+   "analogue",
+   "1080N"
+  ],
+  "kpis": [
+   {
+    "v": "16 + 2",
+    "l": "analogue + IP ch"
+   },
+   {
+    "v": "1080N",
+    "l": "recording"
+   },
+   {
+    "v": "16 TB",
+    "l": "1 × HDD max"
+   },
+   {
+    "v": "SMD+",
+    "l": "AI (8 ch)"
+   }
+  ],
+  "bestFor": [
+   "Larger analogue CCTV systems (9–16 cameras)",
+   "Farms, warehouses and businesses on coax",
+   "Upgrading old 16-ch DVRs"
+  ],
+  "notFor": [
+   "Full 1080p recording needs",
+   "IP-only systems (use an NVR)",
+   "Long retention on many cameras (only 1 HDD bay)"
+  ],
+  "features": [
+   "<b>Penta-brid</b> — HDCVI, AHD, TVI, CVBS and IP",
+   "<b>SMD Plus</b> on 8 channels",
+   "<b>AI Coding</b> on 16 channels saves storage",
+   "Audio over coax · two-way talk",
+   "One-click arming/disarming"
+  ],
+  "specs": [
+   [
+    "Recording",
+    "Ch 1 up to 1080N @ 25 fps · others up to 15 fps"
+   ],
+   [
+    "IP channels",
+    "Up to 18 (2 + 16 converted)"
+   ],
+   [
+    "Storage",
+    "1 × SATA, up to 16 TB"
+   ],
+   [
+    "Outputs",
+    "1 × HDMI, 1 × VGA"
+   ],
+   [
+    "Power",
+    "12 VDC 2 A · <10 W without HDD"
+   ],
+   [
+    "Weight",
+    "1.04 kg"
+   ]
+  ],
+  "models": [
+   [
+    "XVR4108HS-I",
+    "8 channels"
+   ],
+   [
+    "XVR4116HS-I",
+    "16 channels — <b>this unit</b>",
+    true
+   ]
+  ],
+  "qa": [
+   [
+    "AI on all channels?",
+    "SMD Plus on 8 channels; AI Coding on all 16."
+   ],
+   [
+    "Hard drive?",
+    "Not included — up to 16 TB."
+   ],
+   [
+    "Full 1080p?",
+    "No — records at 1080N."
+   ]
+  ],
+  "source": "Dahua DH-XVR4116HS-I datasheet.",
+  "onepager": "products/51XVR4116HS-I/onepager.pdf"
+ },
+ {
+  "code": "51HAC-B1A11P-0280B",
+  "name": "Dahua 1MP HDCVI Bullet 2.8 mm",
+  "brand": "Dahua",
+  "category": "Surveillance › Analogue cameras",
+  "subtitle": "DH-HAC-B1A11 Cooper · 720p bullet · IR 20 m · IP67",
+  "tagline": "Entry-level outdoor bullet camera — the lowest-cost way to add a camera to an HDCVI system.",
+  "image": "products/51HAC-B1A11P-0280B/image.png",
+  "keywords": [
+   "HAC-B1A11",
+   "B1A11",
+   "bullet",
+   "1MP",
+   "720p",
+   "HDCVI",
+   "analogue",
+   "Cooper",
+   "Dahua",
+   "outdoor"
+  ],
+  "kpis": [
+   {
+    "v": "1 MP",
+    "l": "720p"
+   },
+   {
+    "v": "20 m",
+    "l": "Smart IR"
+   },
+   {
+    "v": "IP67",
+    "l": "weatherproof"
+   },
+   {
+    "v": "12 V",
+    "l": "2.7 W max"
+   }
+  ],
+  "bestFor": [
+   "Very budget-conscious installs",
+   "General overview of yards and driveways",
+   "Dahua XVRs on coax"
+  ],
+  "notFor": [
+   "Identifying faces or plates",
+   "Customers wanting 1080p or better (sell HAC-T1A21 / 2MP)"
+  ],
+  "features": [
+   "<b>IP67</b> weatherproof plastic housing",
+   "<b>Smart IR</b> to 20 m",
+   "HD/SD output switchable",
+   "Long-distance coax transmission",
+   "4 kV lightning protection"
+  ],
+  "specs": [
+   [
+    "Sensor",
+    "1/2.7\" CMOS, 720p @ 30 fps"
+   ],
+   [
+    "Lens",
+    "2.8 mm fixed (3.6 mm optional)"
+   ],
+   [
+    "Power",
+    "12 VDC ±30%, max 2.7 W"
+   ],
+   [
+    "Size / weight",
+    "70 × 70 × 149 mm · 0.14 kg"
+   ],
+   [
+    "Output",
+    "1 × BNC (HD / CVBS)"
+   ]
+  ],
+  "qa": [
+   [
+    "Resolution?",
+    "1MP (720p) — basic overview only."
+   ],
+   [
+    "Outdoor?",
+    "Yes, IP67."
+   ],
+   [
+    "Better option?",
+    "For 1080p sell a 2MP Cooper camera."
+   ]
+  ],
+  "source": "Dahua DH-HAC-B1A11 datasheet (Cooper Series).",
+  "onepager": "products/51HAC-B1A11P-0280B/onepager.pdf"
+ },
+ {
+  "code": "51NVR4108HS-8P-4KS3",
+  "name": "Dahua 8-Ch 8-PoE 4K NVR",
+  "brand": "Dahua",
+  "category": "Surveillance › Recorders (NVR)",
+  "subtitle": "DHI-NVR4108HS-8P-4KS3 · 8 channels, 8 PoE ports, 1 HDD, 4K",
+  "tagline": "Plug-and-play 8-camera IP recorder with 8 PoE ports, 4K output and up to 12MP cameras.",
+  "image": "products/51NVR4108HS-8P-4KS3/image.png",
+  "keywords": [
+   "NVR4108",
+   "NVR",
+   "recorder",
+   "8 channel",
+   "PoE",
+   "4K",
+   "Dahua",
+   "Lite",
+   "4KS3"
+  ],
+  "kpis": [
+   {
+    "v": "8",
+    "l": "IP channels"
+   },
+   {
+    "v": "8",
+    "l": "PoE ports"
+   },
+   {
+    "v": "20 TB",
+    "l": "1 × HDD max"
+   },
+   {
+    "v": "12 MP",
+    "l": "max camera"
+   }
+  ],
+  "bestFor": [
+   "Homes and small businesses with up to 8 IP cameras",
+   "Dahua WizSense cameras (AI by camera)",
+   "4K viewing on a TV"
+  ],
+  "notFor": [
+   "More than 8 cameras (sell NVR4116HS-8P-EI)",
+   "Analogue cameras (use an XVR)"
+  ],
+  "features": [
+   "<b>8 × PoE</b> (802.3af/at) — one cable per camera",
+   "<b>4-ch SMD Plus</b> by recorder",
+   "AI by camera: face, perimeter, people counting",
+   "Up to 160 Mbps bandwidth",
+   "4K HDMI output"
+  ],
+  "specs": [
+   [
+    "Bandwidth",
+    "160 Mbps in / 80 Mbps out"
+   ],
+   [
+    "Storage",
+    "1 × SATA, up to 20 TB"
+   ],
+   [
+    "PoE budget",
+    "72 W total, 25.5 W per port"
+   ],
+   [
+    "Power",
+    "53 VDC 1.81 A"
+   ],
+   [
+    "Weight",
+    "0.92 kg"
+   ],
+   [
+    "Operating temp",
+    "−10 to +55 °C"
+   ]
+  ],
+  "qa": [
+   [
+    "Hard drive?",
+    "Not included — up to 20 TB."
+   ],
+   [
+    "Camera power?",
+    "Built-in PoE, 72 W total."
+   ],
+   [
+    "16 cameras?",
+    "Sell the NVR4116HS-8P-EI instead."
+   ]
+  ],
+  "source": "Dahua DHI-NVR4108HS-8P-4KS3 datasheet.",
+  "onepager": "products/51NVR4108HS-8P-4KS3/onepager.pdf"
+ },
+ {
+  "code": "51IPC-HDBW3441EP-AS-0280B",
+  "name": "Dahua 4MP WizSense Dome 2.8 mm",
+  "brand": "Dahua",
+  "category": "Surveillance › IP cameras",
+  "subtitle": "DH-IPC-HDBW3441E-AS · 4MP vandal dome · IR 50 m · mic · IK10",
+  "tagline": "Tough 4MP IP dome with AI human/vehicle detection, built-in mic and alarm/audio I/O.",
+  "image": "products/51IPC-HDBW3441EP-AS-0280B/image.png",
+  "keywords": [
+   "HDBW3441E",
+   "3441",
+   "dome",
+   "vandal dome",
+   "IP camera",
+   "4MP",
+   "WizSense",
+   "Dahua",
+   "IK10",
+   "microphone"
+  ],
+  "kpis": [
+   {
+    "v": "4 MP",
+    "l": "2688×1520"
+   },
+   {
+    "v": "107°",
+    "l": "wide view"
+   },
+   {
+    "v": "50 m",
+    "l": "IR night"
+   },
+   {
+    "v": "IK10",
+    "l": "vandal proof"
+   }
+  ],
+  "bestFor": [
+   "Shops, schools, offices, entrances",
+   "Areas where cameras get knocked or vandalised",
+   "Perimeter / tripwire alerts with fewer false alarms",
+   "Dahua NVRs (e.g. NVR4108HS-8P-4KS3)"
+  ],
+  "notFor": [
+   "Analogue / coax systems",
+   "Long-range identification"
+  ],
+  "features": [
+   "<b>SMD 4.0 & perimeter protection</b> — human/vehicle",
+   "<b>IP67 + IK10</b> metal housing",
+   "Built-in mic · alarm & audio in/out (-AS)",
+   "MicroSD up to 256 GB",
+   "PoE or 12 V"
+  ],
+  "specs": [
+   [
+    "Sensor",
+    "1/2.9\" CMOS, 4MP"
+   ],
+   [
+    "Lens",
+    "2.8 mm fixed · 107° H"
+   ],
+   [
+    "IR",
+    "Up to 50 m"
+   ],
+   [
+    "Power",
+    "12 VDC / PoE 802.3af · max 7.1 W"
+   ],
+   [
+    "Size / weight",
+    "Ø111.7 × 89.1 mm · 516 g"
+   ],
+   [
+    "Operating temp",
+    "−40 to +60 °C"
+   ]
+  ],
+  "qa": [
+   [
+    "Records sound?",
+    "Yes, built-in mic."
+   ],
+   [
+    "SD card?",
+    "Yes — microSD up to 256 GB."
+   ],
+   [
+    "Vandal proof?",
+    "IK10 rated."
+   ]
+  ],
+  "source": "Dahua DH-IPC-HDBW3441E-(A)S-S2 datasheet.",
+  "onepager": "products/51IPC-HDBW3441EP-AS-0280B/onepager.pdf"
+ },
+ {
+  "code": "38TC-C32US",
+  "name": "Tiandy 2MP Motorised Bullet 2.7–13.5 mm",
+  "brand": "Tiandy",
+  "category": "Surveillance › IP cameras",
+  "subtitle": "TC-C32US Pro · 2MP motorised zoom bullet · IR 80 m · IP67",
+  "tagline": "Pro bullet with motorised zoom — set the view remotely and see up to 80 m at night.",
+  "image": "products/38TC-C32US/image.png",
+  "keywords": [
+   "TC-C32US",
+   "C32US",
+   "Tiandy",
+   "bullet",
+   "varifocal",
+   "motorised",
+   "zoom",
+   "IP camera",
+   "2MP",
+   "Pro"
+  ],
+  "kpis": [
+   {
+    "v": "2 MP",
+    "l": "1080p"
+   },
+   {
+    "v": "5×",
+    "l": "2.7–13.5 mm"
+   },
+   {
+    "v": "80 m",
+    "l": "IR night"
+   },
+   {
+    "v": "IP67",
+    "l": "metal"
+   }
+  ],
+  "bestFor": [
+   "Driveways, gates, car parks",
+   "Sites needing a tighter view (zoom in remotely)",
+   "Face capture at entrances",
+   "Longer night vision"
+  ],
+  "notFor": [
+   "Small rooms (overkill)",
+   "Analogue systems"
+  ],
+  "features": [
+   "<b>Motorised zoom</b> — adjust from the NVR/app",
+   "<b>IR to 80 m</b>",
+   "Face capture · human/vehicle classification",
+   "Built-in mic · microSD up to 512 GB",
+   "Metal housing, −40 to +65 °C"
+  ],
+  "coverage": {
+   "title": "How far can it see?",
+   "rows": [
+    [
+     "Detect",
+     "38.5 – 165.5 m",
+     true
+    ],
+    [
+     "Observe",
+     "15 – 65.5 m"
+    ],
+    [
+     "Recognise",
+     "7.5 – 33 m"
+    ],
+    [
+     "Identify",
+     "3.5 – 16.5 m",
+     true
+    ]
+   ]
+  },
+  "specs": [
+   [
+    "Sensor",
+    "1/2.8\" CMOS, 1920 × 1080"
+   ],
+   [
+    "Lens",
+    "2.7 – 13.5 mm motorised"
+   ],
+   [
+    "Power",
+    "12 VDC (9 W) or PoE 802.3at (10 W)"
+   ],
+   [
+    "Protection",
+    "IP67, surge 4 kV"
+   ],
+   [
+    "Size / weight",
+    "239 × 90 × 90 mm · 1.28 kg"
+   ]
+  ],
+  "qa": [
+   [
+    "PoE type?",
+    "Needs 802.3at (PoE+)."
+   ],
+   [
+    "Zoom after install?",
+    "Yes — motorised, from the NVR or app."
+   ],
+   [
+    "Plates?",
+    "Can identify at up to ~16 m zoomed in."
+   ]
+  ],
+  "source": "Tiandy TC-C32US datasheet (V4.0).",
+  "onepager": "products/38TC-C32US/onepager.pdf"
+ },
+ {
+  "code": "38TC-H324S-23",
+  "name": "Tiandy 2MP 23× PTZ Camera",
+  "brand": "Tiandy",
+  "category": "Surveillance › PTZ cameras",
+  "subtitle": "TC-H324S Pro · 2MP, 23× optical zoom, IR 150 m",
+  "tagline": "Pan-tilt-zoom camera for large sites — follow and zoom in on activity up to 150 m away at night.",
+  "image": "products/38TC-H324S-23/image.png",
+  "keywords": [
+   "TC-H324S",
+   "H324S",
+   "PTZ",
+   "speed dome",
+   "zoom",
+   "23x",
+   "Tiandy",
+   "2MP",
+   "Pro"
+  ],
+  "kpis": [
+   {
+    "v": "23×",
+    "l": "optical zoom"
+   },
+   {
+    "v": "150 m",
+    "l": "IR night"
+   },
+   {
+    "v": "360°",
+    "l": "pan"
+   },
+   {
+    "v": "IP66",
+    "l": "weatherproof"
+   }
+  ],
+  "bestFor": [
+   "Farms, yards, estates and car parks",
+   "Control rooms with an operator",
+   "Covering large areas with one camera"
+  ],
+  "notFor": [
+   "Small homes (expensive overkill)",
+   "Unattended sites expecting full-time coverage of every area"
+  ],
+  "features": [
+   "<b>23× optical zoom</b> (5–115 mm)",
+   "<b>IR up to 150 m</b>",
+   "Human/vehicle classification",
+   "MicroSD up to 512 GB",
+   "PoE+ or 12 V"
+  ],
+  "coverage": {
+   "title": "How far can it see?",
+   "rows": [
+    [
+     "Detect",
+     "1,351 m",
+     true
+    ],
+    [
+     "Observe",
+     "536 m"
+    ],
+    [
+     "Recognise",
+     "270 m"
+    ],
+    [
+     "Identify",
+     "135 m",
+     true
+    ]
+   ]
+  },
+  "specs": [
+   [
+    "Sensor",
+    "1/2.8\" CMOS, 1920 × 1080"
+   ],
+   [
+    "Pan / tilt",
+    "360° / −16° to 90°"
+   ],
+   [
+    "Power",
+    "12 VDC ±10% or PoE 802.3at"
+   ],
+   [
+    "Protection",
+    "IP66, surge 4 kV"
+   ],
+   [
+    "Size / weight",
+    "161 × 276 mm · 3.8 kg"
+   ],
+   [
+    "Operating temp",
+    "−30 to +65 °C"
+   ]
+  ],
+  "qa": [
+   [
+    "Bracket included?",
+    "Check stock — wall/pole brackets are usually separate."
+   ],
+   [
+    "PoE?",
+    "PoE+ (802.3at) or 12 V."
+   ],
+   [
+    "How far?",
+    "Identify people up to ~135 m at full zoom."
+   ]
+  ],
+  "source": "Tiandy TC-H324S datasheet (V3.0).",
+  "onepager": "products/38TC-H324S-23/onepager.pdf"
+ },
+ {
+  "code": "38TC-R3220",
+  "name": "Tiandy 20-Ch NVR (2 HDD)",
+  "brand": "Tiandy",
+  "category": "Surveillance › Recorders (NVR)",
+  "subtitle": "TC-R3220 Lite · 20 channels, 2 × HDD up to 10 TB each",
+  "tagline": "20-camera recorder with two drive bays and 4K — for medium sites using a PoE switch.",
+  "image": "products/38TC-R3220/image.png",
+  "keywords": [
+   "TC-R3220",
+   "R3220",
+   "NVR",
+   "recorder",
+   "Tiandy",
+   "20 channel",
+   "2 HDD",
+   "Lite"
+  ],
+  "kpis": [
+   {
+    "v": "20",
+    "l": "IP channels"
+   },
+   {
+    "v": "2 × 10 TB",
+    "l": "HDD bays"
+   },
+   {
+    "v": "8 MP",
+    "l": "cameras"
+   },
+   {
+    "v": "4K",
+    "l": "HDMI out"
+   }
+  ],
+  "bestFor": [
+   "Sites with 11–20 IP cameras",
+   "Longer recording on two drives",
+   "Schools, warehouses, small estates"
+  ],
+  "notFor": [
+   "Plug-and-play PoE (no PoE ports — add a switch)",
+   "More than 20 cameras"
+  ],
+  "features": [
+   "<b>2 × SATA</b>, up to 10 TB each",
+   "<b>160 Mbps</b> incoming bandwidth",
+   "HDMI (4K) + VGA at the same time",
+   "Face detection, people counting (with AI cameras)",
+   "ONVIF, Milestone, mobile app"
+  ],
+  "specs": [
+   [
+    "Bandwidth",
+    "160 Mbps in / 64 Mbps out"
+   ],
+   [
+    "Network",
+    "1 × gigabit RJ-45"
+   ],
+   [
+    "Power",
+    "12 VDC 3.3 A"
+   ],
+   [
+    "Size",
+    "341 × 273 × 47 mm"
+   ],
+   [
+    "Weight",
+    "3 kg (packed)"
+   ]
+  ],
+  "models": [
+   [
+    "TC-R3210",
+    "10 channels"
+   ],
+   [
+    "TC-R3220",
+    "20 channels — <b>this unit</b>",
+    true
+   ]
+  ],
+  "qa": [
+   [
+    "PoE ports?",
+    "No — use a PoE switch."
+   ],
+   [
+    "Drives?",
+    "Not included — up to 2 × 10 TB."
+   ],
+   [
+    "4K cameras?",
+    "Yes, up to 8MP."
+   ]
+  ],
+  "source": "Tiandy TC-R3220 datasheet.",
+  "onepager": "products/38TC-R3220/onepager.pdf"
+ },
+ {
+  "code": "22PG4924",
+  "name": "DSC PowerG Curtain PIR",
+  "brand": "DSC",
+  "category": "Intrusion › Wireless detectors",
+  "subtitle": "PG4924 wireless indoor curtain PIR · 2 / 4 / 6 m",
+  "tagline": "Slim wireless curtain detector for windows, glass doors and passages.",
+  "image": "products/22PG4924/image.png",
+  "keywords": [
+   "PG4924",
+   "PG8924",
+   "curtain",
+   "PIR",
+   "window",
+   "wireless",
+   "PowerG",
+   "DSC",
+   "slim"
+  ],
+  "kpis": [
+   {
+    "v": "2/4/6 m",
+    "l": "selectable range"
+   },
+   {
+    "v": "7 yrs",
+    "l": "battery life"
+   },
+   {
+    "v": "60 g",
+    "l": "weight"
+   },
+   {
+    "v": "AES",
+    "l": "128-bit"
+   }
+  ],
+  "bestFor": [
+   "Protecting windows and sliding doors",
+   "All-glass walls",
+   "Narrow passages",
+   "Neo systems where wiring is hard"
+  ],
+  "notFor": [
+   "Open rooms (use a standard PIR)",
+   "Outdoor use",
+   "Non-PowerG systems"
+  ],
+  "features": [
+   "<b>Curtain coverage</b> — 2, 4 or 6 m selectable",
+   "Link-quality LED for placement",
+   "Set up from the keypad",
+   "Lithium battery included"
+  ],
+  "specs": [
+   [
+    "Battery",
+    "3 V CR123A lithium"
+   ],
+   [
+    "Battery life",
+    "About 7 years (typical use)"
+   ],
+   [
+    "Size / weight",
+    "105 × 35 × 30 mm · 60 g"
+   ],
+   [
+    "Operating temp",
+    "−10 to +55 °C"
+   ]
+  ],
+  "models": [
+   [
+    "PG4924",
+    "433 MHz — <b>this unit</b>",
+    true
+   ],
+   [
+    "PG8924",
+    "868 MHz"
+   ]
+  ],
+  "qa": [
+   [
+    "Where to mount?",
+    "Above/beside the window, looking down the glass."
+   ],
+   [
+    "Battery?",
+    "CR123A, ~7 years."
+   ],
+   [
+    "Outdoor?",
+    "No — indoor only."
+   ]
+  ],
+  "source": "DSC PG4924 Wireless PowerG Curtain PIR datasheet.",
+  "onepager": "products/22PG4924/onepager.pdf"
+ },
+ {
+  "code": "22PG4922",
+  "name": "DSC PowerG Glass Break Detector",
+  "brand": "DSC",
+  "category": "Intrusion › Wireless detectors",
+  "subtitle": "PG4922 wireless acoustic glass-break · 7.6 m · 360°",
+  "tagline": "Hears breaking glass and raises the alarm before the intruder gets inside.",
+  "image": "products/22PG4922/image.png",
+  "keywords": [
+   "PG4922",
+   "PG8922",
+   "glass break",
+   "acoustic",
+   "window",
+   "wireless",
+   "PowerG",
+   "DSC"
+  ],
+  "kpis": [
+   {
+    "v": "7.6 m",
+    "l": "detection range"
+   },
+   {
+    "v": "360°",
+    "l": "coverage"
+   },
+   {
+    "v": "5 yrs",
+    "l": "battery life"
+   },
+   {
+    "v": "12×12 m",
+    "l": "max room"
+   }
+  ],
+  "bestFor": [
+   "Rooms with lots of windows or glass doors",
+   "Perimeter protection while people are home",
+   "Shops with glass fronts"
+  ],
+  "notFor": [
+   "Rooms larger than 12 × 12 m",
+   "Very noisy areas",
+   "Non-PowerG systems"
+  ],
+  "features": [
+   "<b>Acoustic pattern recognition</b> — reduces false alarms",
+   "Detects plate, tempered, wired, laminated glass",
+   "360° coverage, built-in test mode",
+   "Link-quality LED"
+  ],
+  "specs": [
+   [
+    "Max range",
+    "7.6 m"
+   ],
+   [
+    "Room size",
+    "Up to 12 × 12 m"
+   ],
+   [
+    "Battery life",
+    "Up to 5 years (typical use)"
+   ],
+   [
+    "Compatibility",
+    "PowerSeries Neo"
+   ]
+  ],
+  "models": [
+   [
+    "PG4922",
+    "433 MHz — <b>this unit</b>",
+    true
+   ],
+   [
+    "PG8922",
+    "868 MHz"
+   ]
+  ],
+  "qa": [
+   [
+    "How far from the glass?",
+    "Within 7.6 m."
+   ],
+   [
+    "Curtains/blinds?",
+    "Heavy curtains can reduce detection — test it."
+   ],
+   [
+    "Testing?",
+    "Built-in test mode (glass-break simulator)."
+   ]
+  ],
+  "source": "DSC PG8922/PG4922 Glass Break Detector datasheet.",
+  "onepager": "products/22PG4922/onepager.pdf"
+ },
+ {
+  "code": "22PG4901",
+  "name": "DSC PowerG Wireless Indoor Siren",
+  "brand": "DSC",
+  "category": "Intrusion › Sirens",
+  "subtitle": "PG4901 battery-powered indoor siren · 110 dB + strobe",
+  "tagline": "Wireless indoor siren with strobe — distinct sounds for burglary, fire and CO.",
+  "image": "products/22PG4901/image.png",
+  "keywords": [
+   "PG4901",
+   "PG8901",
+   "indoor siren",
+   "wireless siren",
+   "strobe",
+   "PowerG",
+   "DSC"
+  ],
+  "kpis": [
+   {
+    "v": "110 dB",
+    "l": "siren"
+   },
+   {
+    "v": "Strobe",
+    "l": "visual alert"
+   },
+   {
+    "v": "8 yrs",
+    "l": "battery life"
+   },
+   {
+    "v": "470 g",
+    "l": "weight"
+   }
+  ],
+  "bestFor": [
+   "Adding an indoor siren without cabling",
+   "Upstairs or far rooms in big homes",
+   "Fire & CO alerts on Neo systems"
+  ],
+  "notFor": [
+   "Outdoor use (use PG4911)",
+   "Customers expecting batteries in the box"
+  ],
+  "features": [
+   "<b>110 dB</b> with <b>strobe</b>",
+   "Different sounds for burglary, fire and CO",
+   "Link-quality LED",
+   "Set up from the keypad"
+  ],
+  "specs": [
+   [
+    "Battery",
+    "3.6 V Li-Thionyl Chloride (sold separately)"
+   ],
+   [
+    "Battery life",
+    "Up to 8 years"
+   ],
+   [
+    "Size / weight",
+    "161 × 161 × 50 mm · 470 g"
+   ],
+   [
+    "Operating temp",
+    "−10 to +55 °C"
+   ]
+  ],
+  "models": [
+   [
+    "PG4901",
+    "Indoor, 433 MHz — <b>this unit</b>",
+    true
+   ],
+   [
+    "PG4911",
+    "Outdoor siren"
+   ]
+  ],
+  "qa": [
+   [
+    "Batteries included?",
+    "No — order separately."
+   ],
+   [
+    "Outdoor?",
+    "No — sell the PG4911."
+   ],
+   [
+    "Fire sound?",
+    "Yes, different tones for fire and CO."
+   ]
+  ],
+  "source": "DSC PG4901 Wireless PowerG Indoor Siren datasheet.",
+  "onepager": "products/22PG4901/onepager.pdf"
+ },
+ {
+  "code": "22PG8862",
+  "name": "DSC PowerG 360° Ceiling PIR",
+  "brand": "DSC",
+  "category": "Intrusion › Wireless detectors",
+  "subtitle": "PG8862 wireless ceiling-mount PIR · 10 m diameter",
+  "tagline": "Discreet ceiling detector that covers a whole room from the middle — one detector is usually enough.",
+  "image": "products/22PG8862/image.png",
+  "keywords": [
+   "PG8862",
+   "ceiling PIR",
+   "360",
+   "PowerG",
+   "wireless",
+   "DSC",
+   "ceiling mount"
+  ],
+  "kpis": [
+   {
+    "v": "360°",
+    "l": "coverage"
+   },
+   {
+    "v": "10 m",
+    "l": "diameter"
+   },
+   {
+    "v": "Grade 2",
+    "l": "EN"
+   },
+   {
+    "v": "AES",
+    "l": "128-bit"
+   }
+  ],
+  "bestFor": [
+   "Lounges, open-plan rooms, small offices",
+   "Customers who want detectors out of sight",
+   "Rooms where wall corners don't work"
+  ],
+  "notFor": [
+   "Very high ceilings — check mounting height",
+   "Large warehouses (over 10 m)",
+   "Non-PowerG systems"
+  ],
+  "features": [
+   "<b>360° full-room</b> coverage from the ceiling",
+   "Compact, discreet design",
+   "Hard to reach or tamper with",
+   "EN Grade 2"
+  ],
+  "specs": [
+   [
+    "Coverage",
+    "Up to 10 m diameter"
+   ],
+   [
+    "Mounting",
+    "Ceiling"
+   ],
+   [
+    "Compatibility",
+    "PowerSeries Neo, iotega, PowerMaster"
+   ],
+   [
+    "Radio",
+    "PowerG 868 MHz"
+   ]
+  ],
+  "note": "This is the 868 MHz model. Check it matches the customer's PowerG receiver frequency.",
+  "qa": [
+   [
+    "Pets?",
+    "Pet immunity not stated — check before selling to pet owners."
+   ],
+   [
+    "Height?",
+    "See install sheet for ceiling height."
+   ],
+   [
+    "Which systems?",
+    "Neo, iotega, PowerMaster."
+   ]
+  ],
+  "source": "DSC PowerG Wireless 360° Ceiling-mount PIR brochure.",
+  "onepager": "products/22PG8862/onepager.pdf"
+ },
+ {
+  "code": "10LFP12-12",
+  "name": "Uniross LFP12-12 Lithium Battery",
+  "brand": "Uniross",
+  "category": "Power & Energy › Batteries",
+  "subtitle": "12.8 V 12 Ah LiFePO4 battery with BMS",
+  "tagline": "Mid-size lithium battery for longer backup — gates, CCTV and access control.",
+  "image": null,
+  "imageNote": "No product photo in the datasheet",
+  "keywords": [
+   "LFP12-12",
+   "lithium",
+   "LiFePO4",
+   "12Ah",
+   "battery",
+   "12V",
+   "Uniross",
+   "load shedding"
+  ],
+  "kpis": [
+   {
+    "v": "12 Ah",
+    "l": "capacity"
+   },
+   {
+    "v": "3000",
+    "l": "cycles @ 80%"
+   },
+   {
+    "v": "2.1 kg",
+    "l": "weight"
+   },
+   {
+    "v": "153.6 Wh",
+    "l": "energy"
+   }
+  ],
+  "bestFor": [
+   "Longer backup than a 7 Ah",
+   "CCTV and access systems with daily load shedding",
+   "Lithium power supplies"
+  ],
+  "notFor": [
+   "High-current loads over 6 A",
+   "Chargers without a lithium profile",
+   "Charging below 0 °C"
+  ],
+  "features": [
+   "<b>LiFePO4</b> with BMS (over/under-charge, short circuit, temperature)",
+   "<b>3000 cycles</b> at 80% discharge",
+   "Cell balancing",
+   "Self-discharge under 3% per month"
+  ],
+  "specs": [
+   [
+    "Voltage",
+    "12.8 V"
+   ],
+   [
+    "Charge",
+    "14.4 V · 2.4 A (3 A max)"
+   ],
+   [
+    "Discharge",
+    "6 A continuous"
+   ],
+   [
+    "Size / weight",
+    "151 × 57 × 110 mm · 2.1 kg"
+   ],
+   [
+    "Terminal",
+    "T1"
+   ]
+  ],
+  "models": [
+   [
+    "LFP12-7",
+    "7 Ah"
+   ],
+   [
+    "LFP12-12",
+    "12 Ah — <b>this unit</b>",
+    true
+   ],
+   [
+    "LFP12-20",
+    "20 Ah"
+   ]
+  ],
+  "qa": [
+   [
+    "Max load?",
+    "6 A continuous."
+   ],
+   [
+    "Charger?",
+    "Needs lithium charging (14.4 V)."
+   ],
+   [
+    "Fits a 7 Ah slot?",
+    "No — it's taller (110 mm)."
+   ]
+  ],
+  "source": "Uniross LFP12-12 datasheet.",
+  "onepager": "products/10LFP12-12/onepager.pdf"
+ },
+ {
+  "code": "14SH6AMP-LITHIUM",
+  "name": "Sherlotronics 6 A Lithium Backup PSU",
+  "brand": "Sherlotronics",
+  "category": "Power & Energy › Power supplies",
+  "subtitle": "12.8 V 6 A battery-backup PSU for 18–22 Ah lithium batteries",
+  "tagline": "Bigger lithium backup supply for CCTV, access control and alarms — charges 18–22 Ah lithium batteries.",
+  "image": "products/14SH6AMP-LITHIUM/image.png",
+  "keywords": [
+   "6A",
+   "6AMP",
+   "lithium",
+   "PSU",
+   "power supply",
+   "battery backup",
+   "Sherlotronics",
+   "LiFePO4",
+   "CCTV power"
+  ],
+  "kpis": [
+   {
+    "v": "6 A",
+    "l": "output"
+   },
+   {
+    "v": "75 W",
+    "l": "max power"
+   },
+   {
+    "v": "18–22 Ah",
+    "l": "lithium battery"
+   },
+   {
+    "v": "24 mo",
+    "l": "warranty"
+   }
+  ],
+  "bestFor": [
+   "CCTV systems with a 20 Ah lithium battery",
+   "Maglocks and door controllers",
+   "Load-shedding backup on 12 V systems"
+  ],
+  "notFor": [
+   "Lead-acid batteries",
+   "Loads above 6 A / 75 W"
+  ],
+  "features": [
+   "<b>Lithium charging</b>, current limited 2.4 / 4.8 A",
+   "<b>Low-battery cut-out</b> at 10 V",
+   "Over-voltage protection above 15 V",
+   "AC fail output",
+   "Resettable output fuse"
+  ],
+  "specs": [
+   [
+    "Input",
+    "110 – 230 VAC 50 Hz"
+   ],
+   [
+    "Output",
+    "13 – 14.4 VDC, 6 A"
+   ],
+   [
+    "AC fail output",
+    "140 mA positive switching"
+   ],
+   [
+    "Size / weight",
+    "275 × 225 × 97 mm · 1.3 kg"
+   ],
+   [
+    "Operating temp",
+    "−3 to +60 °C"
+   ]
+  ],
+  "models": [
+   [
+    "3A Lithium",
+    "For 7 Ah lithium"
+   ],
+   [
+    "6A Lithium",
+    "For 18–22 Ah lithium — <b>this unit</b>",
+    true
+   ]
+  ],
+  "qa": [
+   [
+    "Battery?",
+    "Pair with a 20 Ah lithium, e.g. Uniross LFP12-20."
+   ],
+   [
+    "Lead-acid?",
+    "No — lithium only."
+   ],
+   [
+    "Warranty?",
+    "24 months."
+   ]
+  ],
+  "source": "Sherlotronics 6A Lithium Battery Backup Power-Supply datasheet.",
+  "onepager": "products/14SH6AMP-LITHIUM/onepager.pdf"
+ },
+ {
+  "code": "06AS12-9",
+  "name": "Forbatt FB9-12 Battery 12 V 9 Ah",
+  "brand": "Forbatt",
+  "category": "Power & Energy › Batteries",
+  "subtitle": "Sealed lead-acid (AGM-VRLA) · same size as a 7 Ah",
+  "tagline": "More backup time in the same box — 9 Ah in the standard 7 Ah size.",
+  "image": "products/06AS12-9/image.png",
+  "keywords": [
+   "9Ah",
+   "FB9-12",
+   "battery",
+   "12V",
+   "SLA",
+   "lead acid",
+   "AGM",
+   "Forbatt",
+   "alarm battery"
+  ],
+  "kpis": [
+   {
+    "v": "12 V",
+    "l": "nominal"
+   },
+   {
+    "v": "9 Ah",
+    "l": "capacity"
+   },
+   {
+    "v": "2.4 kg",
+    "l": "weight"
+   },
+   {
+    "v": "AGM",
+    "l": "sealed VRLA"
+   }
+  ],
+  "bestFor": [
+   "Alarm panels needing longer backup",
+   "Electric fences and small gate motors",
+   "UPS units (e.g. AP960)"
+  ],
+  "notFor": [
+   "Heavy daily cycling (consider lithium)",
+   "Hot locations above 40 °C"
+  ],
+  "features": [
+   "<b>Same footprint as 7 Ah</b> (151 × 65 × 94 mm)",
+   "Maintenance-free sealed AGM",
+   "Low self-discharge — 90% after 3 months",
+   "UL recognised, CE"
+  ],
+  "specs": [
+   [
+    "Capacity (20 h)",
+    "9 Ah"
+   ],
+   [
+    "Standby charge",
+    "13.5 – 13.8 V"
+   ],
+   [
+    "Cycle charge",
+    "14.4 – 15.0 V"
+   ],
+   [
+    "Max initial current",
+    "2.7 A"
+   ],
+   [
+    "Size",
+    "151 × 65 × 94 mm (100 mm with terminal)"
+   ],
+   [
+    "Internal resistance",
+    "25 mΩ"
+   ]
+  ],
+  "models": [
+   [
+    "FB7.2-12",
+    "7.2 Ah"
+   ],
+   [
+    "FB9-12",
+    "9 Ah — <b>this unit</b>",
+    true
+   ],
+   [
+    "FB18-12",
+    "18 Ah"
+   ]
+  ],
+  "qa": [
+   [
+    "Fits a 7 Ah box?",
+    "Yes — same size."
+   ],
+   [
+    "Panel charger OK?",
+    "Yes, standard 13.5–13.8 V float."
+   ],
+   [
+    "Cold weather?",
+    "About 85% capacity at 0 °C."
+   ]
+  ],
+  "source": "Forbatt FB9-12 datasheet.",
+  "onepager": "products/06AS12-9/onepager.pdf"
+ },
+ {
+  "code": "10UPS-1200VA",
+  "name": "PSS Alto AP1200 UPS 1200 VA",
+  "brand": "PSS",
+  "category": "Power & Energy › UPS",
+  "subtitle": "Line-interactive UPS with AVR · 1200 VA",
+  "tagline": "Keeps PCs, routers and small CCTV systems running through short outages and brown-outs.",
+  "image": "products/10UPS-1200VA/image.png",
+  "imageNote": "Alto Power Series (sizes vary)",
+  "keywords": [
+   "UPS",
+   "AP1200",
+   "1200VA",
+   "PSS",
+   "Alto",
+   "line interactive",
+   "AVR",
+   "backup",
+   "load shedding"
+  ],
+  "kpis": [
+   {
+    "v": "1200 VA",
+    "l": "capacity"
+   },
+   {
+    "v": "10–15 min",
+    "l": "backup*"
+   },
+   {
+    "v": "2 × 7 Ah",
+    "l": "batteries"
+   },
+   {
+    "v": "2–6 ms",
+    "l": "transfer"
+   }
+  ],
+  "bestFor": [
+   "PCs, routers, modems and NVRs",
+   "Riding through short outages and dips",
+   "Protecting electronics from over/under voltage"
+  ],
+  "notFor": [
+   "Long load-shedding stages (only 10–15 min)",
+   "Motors, pumps or gate motors",
+   "Sensitive gear needing pure sine wave on battery"
+  ],
+  "features": [
+   "<b>Buck & boost AVR</b> corrects under/over voltage",
+   "<b>Recharges</b> to 90% in 6–8 hours, even when off",
+   "Cold start · self-test on start-up",
+   "USB communication port",
+   "LED display, quiet (<40 dB)"
+  ],
+  "specs": [
+   [
+    "Input",
+    "230 V ±20%, 50 Hz"
+   ],
+   [
+    "Output",
+    "230 V ±10% · modified sine on battery"
+   ],
+   [
+    "Batteries",
+    "2 × 12 V 7 Ah sealed lead acid"
+   ],
+   [
+    "Size",
+    "149 × 353 × 162 mm"
+   ],
+   [
+    "Weight",
+    "7.8 kg"
+   ]
+  ],
+  "models": [
+   [
+    "AP720",
+    "720 VA, 1 × 7 Ah"
+   ],
+   [
+    "AP960",
+    "960 VA, 1 × 9 Ah"
+   ],
+   [
+    "AP1200",
+    "1200 VA, 2 × 7 Ah — <b>this unit</b>",
+    true
+   ],
+   [
+    "AP1800",
+    "1800 VA, 2 × 9 Ah"
+   ]
+  ],
+  "qa": [
+   [
+    "How long will it last?",
+    "*About 10–15 min, depending on load."
+   ],
+   [
+    "Replacement batteries?",
+    "2 × 12 V 7 Ah (e.g. Forbatt FB7.2-12)."
+   ],
+   [
+    "For load shedding?",
+    "Short outages only — for hours, look at an inverter + lithium."
+   ]
+  ],
+  "source": "PSS Alto Power Series (AP720–AP3600) brochure.",
+  "onepager": "products/10UPS-1200VA/onepager.pdf"
+ },
+ {
+  "code": "29CA450A-SR",
+  "name": "C-TEC CAST Compact Wall Sounder",
+  "brand": "C-TEC (Brigit)",
+  "category": "Fire › Sounders",
+  "subtitle": "Addressable 96 dB(A) sounder · CAST · red",
+  "tagline": "Loop-powered addressable sounder for C-TEC CAST fire systems — no separate sounder wiring.",
+  "image": "products/29CA450A-SR/image.png",
+  "keywords": [
+   "CA450",
+   "sounder",
+   "fire sounder",
+   "bell",
+   "CAST",
+   "C-TEC",
+   "Brigit",
+   "addressable",
+   "red"
+  ],
+  "kpis": [
+   {
+    "v": "96 dB(A)",
+    "l": "@ 1 m"
+   },
+   {
+    "v": "15",
+    "l": "tone pairs"
+   },
+   {
+    "v": "7",
+    "l": "volume levels"
+   },
+   {
+    "v": "EN54-3",
+    "l": "LPCB"
+   }
+  ],
+  "bestFor": [
+   "Corridors, rooms and stairwells on CAST systems",
+   "Loop-powered sounders (saves cabling)",
+   "Wall or ceiling mounting"
+  ],
+  "notFor": [
+   "Conventional or other-brand panels",
+   "Wet or outdoor areas (IP21C)",
+   "Deaf/hard-of-hearing areas — add a VAD/beacon"
+  ],
+  "features": [
+   "<b>96 dB(A)</b> at 1 m",
+   "<b>Loop powered</b> — on the CAST loop",
+   "Group addressing — sound areas together",
+   "Built-in short-circuit isolator"
+  ],
+  "specs": [
+   [
+    "Supply",
+    "27 – 40 VDC (loop)"
+   ],
+   [
+    "Current",
+    "550 µA quiet · 5.5 mA alarm"
+   ],
+   [
+    "Size",
+    "102 Ø × 63 mm"
+   ],
+   [
+    "Weight",
+    "160 g"
+   ],
+   [
+    "Rating",
+    "IP21C"
+   ]
+  ],
+  "qa": [
+   [
+    "Separate wiring?",
+    "No — it runs on the detector loop."
+   ],
+   [
+    "Panels?",
+    "C-TEC CAST (XFP / ZFP)."
+   ],
+   [
+    "Volume?",
+    "7 levels, 15 tone options."
+   ]
+  ],
+  "source": "C-TEC CAST CA450A/SR datasheet.",
+  "onepager": "products/29CA450A-SR/onepager.pdf"
+ },
+ {
+  "code": "29CA730",
+  "name": "C-TEC CAST Input/Output Module",
+  "brand": "C-TEC (Brigit)",
+  "category": "Fire › Interfaces",
+  "subtitle": "Addressable I/O · zone monitor · relay output",
+  "tagline": "Connects other equipment to a CAST fire system — monitor a switch or conventional zone, and switch a relay.",
+  "image": "products/29CA730/image.png",
+  "keywords": [
+   "CA730",
+   "input output",
+   "IO module",
+   "relay",
+   "zone monitor",
+   "interface",
+   "CAST",
+   "C-TEC",
+   "Brigit"
+  ],
+  "kpis": [
+   {
+    "v": "1 in",
+    "l": "monitored input"
+   },
+   {
+    "v": "1 out",
+    "l": "relay 1 A"
+   },
+   {
+    "v": "20+10",
+    "l": "conv. detectors + MCPs"
+   },
+   {
+    "v": "EN54-18",
+    "l": "LPCB"
+   }
+  ],
+  "bestFor": [
+   "Shutting gas valves or roller doors on fire alarm",
+   "Smoke vents, lift recall, plant shutdown",
+   "Adding a conventional zone to a CAST loop",
+   "Monitoring sprinkler flow switches"
+  ],
+  "notFor": [
+   "Switching mains loads above 0.3 A @ 125 VAC",
+   "Non-CAST panels"
+  ],
+  "features": [
+   "<b>Monitored input</b> — switch or conventional zone (20 detectors + 10 MCPs)",
+   "<b>Volt-free relay</b> 1 A @ 30 VDC",
+   "Built-in short-circuit isolator",
+   "Status LEDs: polling, fault, active"
+  ],
+  "specs": [
+   [
+    "Supply",
+    "27 – 40 VDC (loop)"
+   ],
+   [
+    "Current",
+    "1.3 mA quiet · 5.5 mA active"
+   ],
+   [
+    "Relay",
+    "1 A @ 30 VDC / 0.3 A @ 125 VAC"
+   ],
+   [
+    "Size",
+    "147 × 87 × 22 mm (double-gang box)"
+   ]
+  ],
+  "qa": [
+   [
+    "Can it switch mains?",
+    "Only small loads — use an interposing relay for more."
+   ],
+   [
+    "Conventional detectors?",
+    "Yes, up to 20 detectors + 10 call points."
+   ],
+   [
+    "Mounting?",
+    "Standard double-gang back box."
+   ]
+  ],
+  "source": "C-TEC CAST CA730 datasheet.",
+  "onepager": "products/29CA730/onepager.pdf"
+ },
+ {
+  "code": "14SHRX1-500",
+  "name": "Sherlotronics RX1-500 Receiver",
+  "brand": "Sherlotronics",
+  "category": "Access Control › Remotes & receivers",
+  "subtitle": "1-channel code-hopping receiver · 500 m",
+  "tagline": "Long-range single-relay receiver — ideal for one gate with lots of remotes.",
+  "image": null,
+  "imageNote": "No product photo in the datasheet",
+  "keywords": [
+   "RX1-500",
+   "RX1",
+   "receiver",
+   "Sherlotronics",
+   "Sherlo",
+   "1 channel",
+   "gate receiver",
+   "500m",
+   "code hopping"
+  ],
+  "kpis": [
+   {
+    "v": "1",
+    "l": "relay"
+   },
+   {
+    "v": "500 m",
+    "l": "line of sight"
+   },
+   {
+    "v": "80",
+    "l": "remotes"
+   },
+   {
+    "v": "10–26 V",
+    "l": "AC/DC"
+   }
+  ],
+  "bestFor": [
+   "Single gate or garage needing long range",
+   "Complexes with up to 80 remotes",
+   "24 V gate motor supplies"
+  ],
+  "notFor": [
+   "Several devices (use RX4-500)",
+   "Other brands' remotes"
+  ],
+  "features": [
+   "<b>500 m</b> line-of-sight range",
+   "Code-hopping encryption",
+   "Wide 10–26 V AC/DC supply",
+   "Adjustable relay time"
+  ],
+  "specs": [
+   [
+    "Frequency",
+    "403 MHz (local) / 433 MHz (export)"
+   ],
+   [
+    "Supply",
+    "10 – 26 V AC/DC"
+   ],
+   [
+    "Current",
+    "~22 mA standby · ~60 mA triggered"
+   ],
+   [
+    "Relay",
+    "1 × 1 A"
+   ],
+   [
+    "Size / weight",
+    "145 × 66 × 40 mm · 170 g"
+   ]
+  ],
+  "models": [
+   [
+    "RX1-500",
+    "1 channel, 500 m — <b>this unit</b>",
+    true
+   ],
+   [
+    "RX4-500",
+    "4 channels, 500 m"
+   ],
+   [
+    "RX2-150",
+    "2 channels, 150 m"
+   ]
+  ],
+  "qa": [
+   [
+    "How many remotes?",
+    "Up to 80."
+   ],
+   [
+    "Range?",
+    "Up to 500 m line of sight — do a range test."
+   ],
+   [
+    "24 V?",
+    "Yes — 10–26 V AC/DC."
+   ]
+  ],
+  "source": "Sherlotronics RX1-500 installation instructions.",
+  "onepager": "products/14SHRX1-500/onepager.pdf"
+ },
+ {
+  "code": "14SHRELAY",
+  "name": "Sherlotronics 12 V Relay Board 7 A",
+  "brand": "Sherlotronics",
+  "category": "Access Control › Relays & accessories",
+  "subtitle": "12–16 V AC/DC relay board with LED · 7 A contact",
+  "tagline": "Small relay board for switching sirens, strobes, lights or isolating fence outputs.",
+  "image": "products/14SHRELAY/image.png",
+  "keywords": [
+   "relay",
+   "relay board",
+   "RELAY",
+   "Sherlotronics",
+   "12V relay",
+   "interposing",
+   "LED",
+   "7A"
+  ],
+  "kpis": [
+   {
+    "v": "7 A",
+    "l": "@ 250 VAC"
+   },
+   {
+    "v": "10 A",
+    "l": "@ 30 VDC"
+   },
+   {
+    "v": "AC/DC",
+    "l": "10–16 V coil"
+   },
+   {
+    "v": "24 mo",
+    "l": "warranty"
+   }
+  ],
+  "bestFor": [
+   "Switching a 240 V light from an alarm or receiver",
+   "Driving sirens/strobes needing more current",
+   "Converting N/C to N/O",
+   "Isolating electric fence outputs from transmitters"
+  ],
+  "notFor": [
+   "Loads above 7 A AC / 10 A DC",
+   "24 V coil supplies"
+  ],
+  "features": [
+   "<b>N/O and N/C</b> potential-free contacts",
+   "Full-bridge rectifier — AC or DC coil",
+   "LED indication",
+   "Tiny 35 × 30 mm board"
+  ],
+  "specs": [
+   [
+    "Coil voltage",
+    "10 – 16 V AC/DC"
+   ],
+   [
+    "Contacts",
+    "7 A @ 250 VAC · 10 A @ 30 VDC"
+   ],
+   [
+    "Size / weight",
+    "35 × 30 × 16 mm · 17 g"
+   ],
+   [
+    "Operating temp",
+    "−3 to +60 °C"
+   ]
+  ],
+  "models": [
+   [
+    "RELAY",
+    "Single relay — <b>this unit</b>",
+    true
+   ],
+   [
+    "DOUBLERELAY",
+    "12 V DC double-pole relay board"
+   ]
+  ],
+  "qa": [
+   [
+    "Switch a flood light?",
+    "Yes, up to 7 A at 240 VAC."
+   ],
+   [
+    "AC or DC?",
+    "Coil works on either, 10–16 V."
+   ],
+   [
+    "Warranty?",
+    "24 months."
+   ]
+  ],
+  "source": "Sherlotronics Relay Boards datasheet.",
+  "onepager": "products/14SHRELAY/onepager.pdf"
  }
 ]
