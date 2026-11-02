@@ -18155,5 +18155,2038 @@
   "source": "Aiphone JO Series brochure.",
   "image": "products/94JOS-1VW/image.png",
   "onepager": "products/94JOS-1VW/onepager.pdf"
+ },
+ {
+  "code": "1700491-002",
+  "name": "ET Nice DRIVE 600 Sliding Gate Motor",
+  "brand": "ET Nice",
+  "category": "Access Control › Gate & garage motors",
+  "subtitle": "High-traffic sliding gate operator · up to 500 kg · battery backup",
+  "tagline": "Busy-gate sliding motor — power-pack drive with battery backup, 98% duty and 30 m/min.",
+  "keywords": [
+   "DRIVE 600",
+   "Drive600",
+   "sliding gate motor",
+   "gate motor",
+   "ET Nice",
+   "Nice",
+   "ET",
+   "slider",
+   "ET-Blu Mix"
+  ],
+  "kpis": [
+   {
+    "v": "500 kg",
+    "l": "max gate"
+   },
+   {
+    "v": "98%",
+    "l": "duty cycle"
+   },
+   {
+    "v": "30 m/min",
+    "l": "speed"
+   },
+   {
+    "v": "100",
+    "l": "ops on battery"
+   }
+  ],
+  "bestFor": [
+   "Busy residential and complex gates",
+   "Areas with load-shedding",
+   "Gates up to 500 kg and 5 m"
+  ],
+  "notFor": [
+   "Gates over 500 kg (DRIVE 1000)",
+   "Swing gates"
+  ],
+  "features": [
+   "<b>AC/DC power pack</b> with 12 V 7.5 Ah battery backup",
+   "<b>High-speed</b> motor with removable brushes",
+   "Backlit display for setup & fault reporting",
+   "Gate & beam tamper alarm · PIN-lockable programming",
+   "<b>ET-Blu Mix</b> receiver built in (1,000 users)"
+  ],
+  "specs": [
+   [
+    "Input",
+    "230 VAC, 50/60 Hz"
+   ],
+   [
+    "Battery",
+    "12 V 7.5 Ah (backup)"
+   ],
+   [
+    "Rated load",
+    "180 N"
+   ],
+   [
+    "Receiver",
+    "434 MHz, 4 channel"
+   ],
+   [
+    "Battery ops",
+    "100 in the first 24 h of a power cut"
+   ]
+  ],
+  "models": [
+   [
+    "DRIVE 300",
+    "300 kg, residential"
+   ],
+   [
+    "DRIVE 500",
+    "500 kg, residential"
+   ],
+   [
+    "DRIVE 600",
+    "500 kg, high-traffic — <b>this unit</b>",
+    true
+   ],
+   [
+    "DRIVE 1000",
+    "1000 kg, high-traffic"
+   ]
+  ],
+  "qa": [
+   [
+    "Power cut?",
+    "About 100 operations from the battery."
+   ],
+   [
+    "Remotes?",
+    "ET-Blu Mix rolling code."
+   ],
+   [
+    "Security bracket?",
+    "Optional heavy-duty bracket."
+   ]
+  ],
+  "source": "ET Nice Sliding Gate, Swing Gate and Vehicle Barrier Operators brochure.",
+  "image": "products/1700491-002/image.png",
+  "onepager": "products/1700491-002/onepager.pdf"
+ },
+ {
+  "code": "1702262-000",
+  "name": "ET Nice RX3 CONDO 2019 Receiver",
+  "brand": "ET Nice",
+  "category": "Access Control › Remotes & receivers",
+  "subtitle": "3-channel ET-Blu Mix receiver · 999 users · display",
+  "tagline": "Complex-gate receiver with a digital display — 999 users, 3 relays, edit users one by one.",
+  "keywords": [
+   "RX3 CONDO",
+   "RX3",
+   "Condo",
+   "receiver",
+   "ET Nice",
+   "Nice",
+   "ET-Blu Mix",
+   "ET Blue",
+   "3 channel",
+   "complex"
+  ],
+  "kpis": [
+   {
+    "v": "999",
+    "l": "users"
+   },
+   {
+    "v": "3",
+    "l": "relays"
+   },
+   {
+    "v": "10–30 V",
+    "l": "AC/DC"
+   },
+   {
+    "v": "404/434",
+    "l": "MHz"
+   }
+  ],
+  "bestFor": [
+   "Estates, complexes and shared gates",
+   "Managing many remotes individually",
+   "Adding remotes to any gate motor"
+  ],
+  "notFor": [
+   "Non-ET remotes"
+  ],
+  "features": [
+   "<b>Digital display</b> & push buttons",
+   "Independent user editing · last 30 transactions log",
+   "Relays restore their state after a power cut",
+   "Signal-strength tester · EEPROM memory copier backup"
+  ],
+  "specs": [
+   [
+    "Relays",
+    "3 × dry contact 1 A · latch, pulse or momentary (1–255 s)"
+   ],
+   [
+    "Power",
+    "10–30 V AC/DC · <15 mA standby, <50 mA active"
+   ],
+   [
+    "Remotes",
+    "ET-Blu Mix & ET Blue"
+   ],
+   [
+    "Size",
+    "98 × 51 × 27 mm"
+   ],
+   [
+    "Operating temp",
+    "−20 to +50 °C"
+   ]
+  ],
+  "qa": [
+   [
+    "How many remotes?",
+    "Up to 999 users."
+   ],
+   [
+    "Delete one remote?",
+    "Yes — independent user editing."
+   ],
+   [
+    "Power?",
+    "10–30 V AC or DC."
+   ]
+  ],
+  "source": "ET Nice RX3 CONDO 2019 spec card.",
+  "image": "products/1702262-000/image.png",
+  "onepager": "products/1702262-000/onepager.pdf"
+ },
+ {
+  "code": "1703261-000",
+  "name": "Accentronix Wired Keypad Add-On",
+  "brand": "Accentronix",
+  "category": "Access Control › Keypads",
+  "subtitle": "Illuminated wired keypad for Infinity intercom / Cellswitch",
+  "tagline": "Wired keypad for Accentronix Infinity — residents' codes and visitor OTPs at the gate.",
+  "keywords": [
+   "Accentronix",
+   "keypad",
+   "wired keypad",
+   "Infinity",
+   "Cellswitch",
+   "OTP",
+   "access control",
+   "gate keypad"
+  ],
+  "kpis": [
+   {
+    "v": "100 m",
+    "l": "cable run"
+   },
+   {
+    "v": "No batteries",
+    "l": "wired"
+   },
+   {
+    "v": "OTP",
+    "l": "visitor codes"
+   },
+   {
+    "v": "3",
+    "l": "selectable outputs"
+   }
+  ],
+  "bestFor": [
+   "Pedestrian, entry and exit gates",
+   "Estates using Infinity intercoms",
+   "Visitor one-time PINs"
+  ],
+  "notFor": [
+   "Standalone use (needs Infinity or Cellswitch)"
+  ],
+  "features": [
+   "<b>Illuminated</b> buttons",
+   "Multiple keypads in parallel on one interface board",
+   "Resident codes and visitor OTP (SMS / WhatsApp)",
+   "Set output 1, 2 or 3 per keypad"
+  ],
+  "specs": [
+   [
+    "Connects to",
+    "Accentronix Intercom Infinity / Cellswitch Infinity"
+   ],
+   [
+    "Cable",
+    "Up to 100 m · twisted pair shielded recommended"
+   ],
+   [
+    "Termination",
+    "120 Ω resistors supplied"
+   ],
+   [
+    "Power",
+    "To interface board (not via ribbon)"
+   ]
+  ],
+  "qa": [
+   [
+    "Batteries?",
+    "No — wired."
+   ],
+   [
+    "How far?",
+    "Up to 100 m cable."
+   ],
+   [
+    "Several keypads?",
+    "Yes, in parallel on one interface board."
+   ]
+  ],
+  "source": "Accentronix Wired Keypad Access Control Add-On sheet.",
+  "image": "products/1703261-000/image.png",
+  "onepager": "products/1703261-000/onepager.pdf"
+ },
+ {
+  "code": "24SK-AIR-BLACK",
+  "name": "Centurion SMARTGUARDair Wireless Keypad",
+  "brand": "Centurion",
+  "category": "Access Control › Keypads",
+  "subtitle": "Battery wireless keypad · 1,000 codes · up to 15 channels · IP55",
+  "tagline": "Wireless gate keypad — no cabling, 2 years on AA batteries, works with Centurion code-hopping receivers.",
+  "keywords": [
+   "SMARTGUARD air",
+   "SmartGuard Air",
+   "Smartguard",
+   "keypad",
+   "wireless keypad",
+   "Centurion",
+   "gate keypad",
+   "CENTSYS"
+  ],
+  "kpis": [
+   {
+    "v": "1,000",
+    "l": "user codes"
+   },
+   {
+    "v": "15",
+    "l": "channels"
+   },
+   {
+    "v": "2 yrs",
+    "l": "on 2 × AA"
+   },
+   {
+    "v": "IP55",
+    "l": "outdoor"
+   }
+  ],
+  "bestFor": [
+   "Gates where running cable is hard",
+   "Centurion motors (D5/D10 etc.)",
+   "Armed-response one-time codes"
+  ],
+  "notFor": [
+   "Non-Centurion receivers",
+   "Range over 30 m line of sight"
+  ],
+  "features": [
+   "<b>Wireless</b> — 433 MHz code-hopping",
+   "Codes 1–10 digits; down-counter for limited-use codes",
+   "Add/delete codes individually",
+   "Memory module backup"
+  ],
+  "specs": [
+   [
+    "Power",
+    "2 × AA alkaline (optional 12 V DC)"
+   ],
+   [
+    "Battery life",
+    "~2 years at up to 300 uses/day"
+   ],
+   [
+    "Range",
+    "Up to 30 m line of sight"
+   ],
+   [
+    "Size",
+    "132 × 80 × 38 mm · polycarbonate, black"
+   ],
+   [
+    "Operating temp",
+    "−18 to +55 °C"
+   ]
+  ],
+  "models": [
+   [
+    "SMARTGUARD",
+    "Wired, 3 outputs, 12–24 V"
+   ],
+   [
+    "SMARTGUARDair",
+    "Wireless, 15 channels — <b>this unit</b>",
+    true
+   ]
+  ],
+  "qa": [
+   [
+    "Receiver needed?",
+    "Yes — a Centurion code-hopping receiver (often on-board)."
+   ],
+   [
+    "Battery?",
+    "2 × AA, about 2 years."
+   ],
+   [
+    "Single-use code?",
+    "Yes — down-counter."
+   ]
+  ],
+  "source": "Centurion SMARTGUARD / SMARTGUARDair brochure.",
+  "image": "products/24SK-AIR-BLACK/image.png",
+  "onepager": "products/24SK-AIR-BLACK/onepager.pdf"
+ },
+ {
+  "code": "14SHRPT-800",
+  "name": "Sherlotronics RPT-800 Repeater",
+  "brand": "Sherlotronics",
+  "category": "Access Control › Remotes & receivers",
+  "subtitle": "Code-hopping RF repeater · 800 m transmit · 4,000 codes",
+  "tagline": "Long-range repeater to relay alarm, fence and remote signals across farms and big sites.",
+  "keywords": [
+   "RPT-800",
+   "RPT800",
+   "repeater",
+   "Sherlotronics",
+   "long range",
+   "alarm signal",
+   "electric fence",
+   "farm"
+  ],
+  "kpis": [
+   {
+    "v": "800 m",
+    "l": "transmit (open air)"
+   },
+   {
+    "v": "500 m",
+    "l": "receive"
+   },
+   {
+    "v": "4,000",
+    "l": "codes"
+   },
+   {
+    "v": "12 V",
+    "l": "9.8–16 VDC"
+   }
+  ],
+  "bestFor": [
+   "Linking fence outputs to alarms",
+   "Pumps and generators on farms",
+   "Extending remote range on large sites"
+  ],
+  "notFor": [
+   "Non-Sherlotronics transmitters"
+  ],
+  "features": [
+   "<b>Code-hopping</b> with auto-learn",
+   "Auto-masking of repeated signals",
+   "AC-fail RF signal output · supervision",
+   "Random signal staggering"
+  ],
+  "specs": [
+   [
+    "Frequency",
+    "403 MHz (433 MHz on request)"
+   ],
+   [
+    "Current",
+    "TX ~60 mA · sleep ~10 mA"
+   ],
+   [
+    "Size / weight",
+    "187 × 104 × 67 mm · 235 g"
+   ],
+   [
+    "Operating temp",
+    "−3 to +65 °C"
+   ],
+   [
+    "Warranty",
+    "24 months"
+   ]
+  ],
+  "models": [
+   [
+    "RPT800",
+    "Repeater unit — <b>this unit</b>",
+    true
+   ],
+   [
+    "RPT800P",
+    "Repeater with 3.2 A PSU"
+   ]
+  ],
+  "qa": [
+   [
+    "Range?",
+    "800 m transmit / 500 m receive, open air."
+   ],
+   [
+    "Power?",
+    "9.8–16 VDC — or order RPT800P with PSU."
+   ],
+   [
+    "Frequency?",
+    "Specify 403 or 433 MHz."
+   ]
+  ],
+  "source": "Sherlotronics Repeater-800 datasheet.",
+  "image": "products/14SHRPT-800/image.png",
+  "onepager": "products/14SHRPT-800/onepager.pdf"
+ },
+ {
+  "code": "14SHWMTX-REV2",
+  "name": "Sherlotronics Wall-Mount Transmitter",
+  "brand": "Sherlotronics",
+  "category": "Access Control › Remotes & receivers",
+  "subtitle": "Splash-proof wireless push button · panic / door release · 100 m",
+  "tagline": "Wireless wall button for panic, door release or doorbell — splash-proof and battery-powered.",
+  "keywords": [
+   "WMTX",
+   "wall mount transmitter",
+   "panic button",
+   "wireless button",
+   "door release",
+   "doorbell",
+   "Sherlotronics"
+  ],
+  "kpis": [
+   {
+    "v": "100 m",
+    "l": "open air"
+   },
+   {
+    "v": "CR2032",
+    "l": "battery"
+   },
+   {
+    "v": "20,000",
+    "l": "presses"
+   },
+   {
+    "v": "Splash",
+    "l": "proof"
+   }
+  ],
+  "bestFor": [
+   "Under-counter and bathroom panic buttons",
+   "Wireless door release",
+   "Nursing homes"
+  ],
+  "notFor": [
+   "Non-Sherlotronics receivers",
+   "Long range (100 m)"
+  ],
+  "features": [
+   "<b>Code-hopping</b>",
+   "Weather/splash-proof housing",
+   "Indoor or outdoor"
+  ],
+  "specs": [
+   [
+    "Frequency",
+    "403 MHz (WMTX_REV2) · 433 MHz (WMTX_REV2_433)"
+   ],
+   [
+    "Battery",
+    "CR2032 lithium"
+   ],
+   [
+    "Size / weight",
+    "71 × 31 × 28 mm · 74 g"
+   ],
+   [
+    "Operating temp",
+    "−3 to +65 °C"
+   ]
+  ],
+  "qa": [
+   [
+    "Battery?",
+    "CR2032 — about 20,000 presses."
+   ],
+   [
+    "Range?",
+    "Up to 100 m open air."
+   ],
+   [
+    "433 MHz?",
+    "Order WMTX_REV2_433."
+   ]
+  ],
+  "source": "Sherlotronics Wall Mount Transmitter datasheet.",
+  "image": "products/14SHWMTX-REV2/image.png",
+  "onepager": "products/14SHWMTX-REV2/onepager.pdf"
+ },
+ {
+  "code": "22PG8312",
+  "name": "DSC PowerG Outdoor Contact",
+  "brand": "DSC",
+  "category": "Intrusion › Wireless detectors",
+  "subtitle": "PG8312 wireless outdoor magnetic contact + aux input · IP66 · 868 MHz",
+  "tagline": "Wireless contact built for gates, pool fences and sheds — wide gap tolerance and IP66.",
+  "note": "This is the 868 MHz model. Check it matches the customer's PowerG receiver frequency.",
+  "keywords": [
+   "PG8312",
+   "PG4312",
+   "outdoor contact",
+   "gate contact",
+   "magnetic contact",
+   "PowerG",
+   "wireless",
+   "DSC",
+   "IP66"
+  ],
+  "kpis": [
+   {
+    "v": "IP66",
+    "l": "dust & water"
+   },
+   {
+    "v": "5 yrs",
+    "l": "battery"
+   },
+   {
+    "v": "−40–66 °C",
+    "l": "operating"
+   },
+   {
+    "v": "+1",
+    "l": "aux input"
+   }
+  ],
+  "bestFor": [
+   "Perimeter gates, pool and garden enclosures",
+   "Shed and outbuilding doors",
+   "Large properties (long radio range)"
+  ],
+  "notFor": [
+   "Non-PowerG panels"
+  ],
+  "features": [
+   "<b>Wide gap</b> ultra-strong magnet — fewer false alarms",
+   "Two-way 128-bit AES PowerG",
+   "Paintable housing",
+   "Battery replaced without removing the device"
+  ],
+  "specs": [
+   [
+    "Rating",
+    "IP66"
+   ],
+   [
+    "Battery life",
+    "Up to 5 years (typical)"
+   ],
+   [
+    "Operating temp",
+    "−40 to +66 °C"
+   ],
+   [
+    "Compatibility",
+    "PowerSeries Neo, PowerMaster"
+   ]
+  ],
+  "qa": [
+   [
+    "Gates?",
+    "Yes — designed for outdoor gates."
+   ],
+   [
+    "Wired contact too?",
+    "Yes, aux input."
+   ],
+   [
+    "Frequency?",
+    "868 MHz — check the receiver."
+   ]
+  ],
+  "source": "DSC PowerG Wireless Outdoor Magnetic Contact brochure.",
+  "image": "products/22PG8312/image.png",
+  "onepager": "products/22PG8312/onepager.pdf"
+ },
+ {
+  "code": "22HS2LCDRF8E1",
+  "name": "DSC Neo LCD Keypad with PowerG Receiver",
+  "brand": "DSC",
+  "category": "Intrusion › Keypads",
+  "subtitle": "HS2LCDRF8 · 2×16 LCD keypad + built-in PowerG 868 MHz transceiver",
+  "tagline": "Full-message Neo keypad with a PowerG receiver built in — add wireless without an HSM2HOST.",
+  "note": "This is the 868 MHz model. Check it matches the customer's PowerG receiver frequency.",
+  "keywords": [
+   "HS2LCDRF8",
+   "HS2LCDRF",
+   "keypad",
+   "LCD keypad",
+   "Neo",
+   "PowerSeries",
+   "PowerG",
+   "DSC",
+   "transceiver",
+   "RF keypad"
+  ],
+  "kpis": [
+   {
+    "v": "2×16",
+    "l": "LCD + icons"
+   },
+   {
+    "v": "PowerG",
+    "l": "built in"
+   },
+   {
+    "v": "8",
+    "l": "partitions"
+   },
+   {
+    "v": "125 mA",
+    "l": "max"
+   }
+  ],
+  "bestFor": [
+   "Neo systems adding wireless devices",
+   "Saving an HSM2HOST module",
+   "Homes and offices"
+  ],
+  "notFor": [
+   "Non-Neo panels",
+   "Prox tags (not on this model)"
+  ],
+  "features": [
+   "<b>Built-in PowerG transceiver</b>",
+   "Blue backlit 2×16 message LCD",
+   "5 programmable function keys",
+   "Zone/PGM I/O · temperature sensor",
+   "Surface or single-gang box mount"
+  ],
+  "specs": [
+   [
+    "Size",
+    "168 × 122 × 20 mm"
+   ],
+   [
+    "LCD area",
+    "99 × 24 mm"
+   ],
+   [
+    "Current",
+    "125 mA max"
+   ],
+   [
+    "Compatibility",
+    "PowerSeries Neo HS2016–HS2128"
+   ]
+  ],
+  "models": [
+   [
+    "HS2LCD",
+    "LCD keypad, wired only"
+   ],
+   [
+    "HS2LCDRF8",
+    "LCD + PowerG 868 MHz — <b>this unit</b>",
+    true
+   ],
+   [
+    "HS2LCDRFP8",
+    "Adds prox tag reader"
+   ]
+  ],
+  "qa": [
+   [
+    "Need an HSM2HOST?",
+    "No — receiver is built in."
+   ],
+   [
+    "Prox tags?",
+    "No — HS2LCDRFP8."
+   ],
+   [
+    "Frequency?",
+    "868 MHz — match the devices."
+   ]
+  ],
+  "source": "DSC PowerSeries Neo Hardwired Keypads with PowerG datasheet.",
+  "image": "products/22HS2LCDRF8E1/image.png",
+  "onepager": "products/22HS2LCDRF8E1/onepager.pdf"
+ },
+ {
+  "code": "22IQP4015",
+  "name": "DSC IQ4 NS Smart Alarm Panel",
+  "brand": "DSC",
+  "category": "Intrusion › Alarm panels",
+  "subtitle": "All-in-one touchscreen panel · PowerG · Wi-Fi, LTE · Z-Wave",
+  "tagline": "All-in-one smart alarm panel — PowerG security, home automation and cloud in one wall unit.",
+  "note": "This datasheet is the North American version (915 MHz PowerG, US LTE bands). Confirm the local model's radio and cellular bands before quoting.",
+  "keywords": [
+   "IQ4 NS",
+   "IQ4",
+   "IQP4015",
+   "Qolsys",
+   "panel",
+   "smart panel",
+   "touchscreen",
+   "PowerG",
+   "Z-Wave",
+   "Alarm.com",
+   "DSC"
+  ],
+  "kpis": [
+   {
+    "v": "128",
+    "l": "PowerG devices"
+   },
+   {
+    "v": "137",
+    "l": "Z-Wave devices"
+   },
+   {
+    "v": "242",
+    "l": "user codes"
+   },
+   {
+    "v": "24 h",
+    "l": "backup battery"
+   }
+  ],
+  "bestFor": [
+   "Smart homes and small businesses",
+   "Customers wanting app control (Alarm.com)",
+   "Mostly wireless installs"
+  ],
+  "notFor": [
+   "Large wired systems",
+   "Outdoor or damp locations"
+  ],
+  "features": [
+   "<b>PowerG</b> encrypted 2-way wireless",
+   "<b>Z-Wave 800</b> — lights, locks, thermostats",
+   "Dual-band Wi-Fi + LTE cellular",
+   "Front speaker + 85 dB siren",
+   "Android 9, OTA updates"
+  ],
+  "specs": [
+   [
+    "Power",
+    "7 VDC adapter · 3000 mAh Li-ion (24 h+)"
+   ],
+   [
+    "Size",
+    "155 × 191 × 26 mm"
+   ],
+   [
+    "Operating temp",
+    "0 to 49 °C · indoor only"
+   ],
+   [
+    "Mount",
+    "SmartMount wall plate (table stand optional)"
+   ]
+  ],
+  "qa": [
+   [
+    "App?",
+    "Yes — Alarm.com integration."
+   ],
+   [
+    "Wired zones?",
+    "Not on this panel — use wireless or a converter."
+   ],
+   [
+    "Battery backup?",
+    "Over 24 hours."
+   ]
+  ],
+  "source": "DSC IQ4 NS datasheet.",
+  "image": "products/22IQP4015/image.png",
+  "onepager": "products/22IQP4015/onepager.pdf"
+ },
+ {
+  "code": "22PG8WLSHW8",
+  "name": "DSC PowerG Wired-to-Wireless Converter",
+  "brand": "DSC",
+  "category": "Intrusion › Expansion modules",
+  "subtitle": "PG8WLSHW8 · 8 hardwired zones → PowerG · 4 PGMs · 868 MHz",
+  "tagline": "Turns 8 existing wired zones into PowerG wireless zones — reuse old detectors on a wireless panel.",
+  "image": null,
+  "imageNote": "No product photo in the installation guide",
+  "note": "This is the 868 MHz model. Check it matches the customer's PowerG receiver frequency.",
+  "keywords": [
+   "PG8WLSHW8",
+   "PG9WLSHW8",
+   "wired to wireless",
+   "converter",
+   "PowerG",
+   "8 zone",
+   "DSC",
+   "takeover"
+  ],
+  "kpis": [
+   {
+    "v": "8",
+    "l": "wired zones"
+   },
+   {
+    "v": "4",
+    "l": "PGM outputs"
+   },
+   {
+    "v": "PowerG",
+    "l": "868 MHz"
+   },
+   {
+    "v": "Bell",
+    "l": "output"
+   }
+  ],
+  "bestFor": [
+   "Takeovers — keep existing wired detectors",
+   "Moving to IQ4 or wireless panels",
+   "Outbuildings with wired zones"
+  ],
+  "notFor": [
+   "Non-PowerG panels"
+  ],
+  "features": [
+   "Zones NC, single EOL and more",
+   "4 programmable outputs + bell output",
+   "Enclosure, transformer and hardware pack",
+   "Standby battery charging"
+  ],
+  "specs": [
+   [
+    "Battery charge",
+    "13.7 VDC, 500 mA"
+   ],
+   [
+    "AUX / bell",
+    "11.5–12.5 VDC, 700 mA"
+   ],
+   [
+    "PGMs",
+    "PGM 2: 300 mA · PGM 1/3/4: 50 mA"
+   ],
+   [
+    "Operating temp",
+    "−10 to +55 °C"
+   ]
+  ],
+  "models": [
+   [
+    "PG8WLSHW8",
+    "868 MHz — <b>this unit</b>",
+    true
+   ],
+   [
+    "PG9WLSHW8",
+    "915 MHz"
+   ]
+  ],
+  "qa": [
+   [
+    "How many zones?",
+    "8 wired zones."
+   ],
+   [
+    "Battery?",
+    "Yes, standby battery charged at 13.7 V."
+   ],
+   [
+    "Frequency?",
+    "868 MHz — match the panel."
+   ]
+  ],
+  "source": "DSC PG8WLSHW8/PG9WLSHW8 installation guide.",
+  "onepager": "products/22PG8WLSHW8/onepager.pdf"
+ },
+ {
+  "code": "41GCE-0001",
+  "name": "Texecom Premier Elite LCDLP-W Wireless Keypad",
+  "brand": "Texecom",
+  "category": "Intrusion › Keypads",
+  "subtitle": "Wireless LCD keypad · prox reader · Ricochet · 5-year battery",
+  "tagline": "Fully functional wireless keypad — same as the wired one, with a built-in prox reader.",
+  "keywords": [
+   "LCDLP-W",
+   "GCE-0001",
+   "keypad",
+   "wireless keypad",
+   "prox",
+   "Ricochet",
+   "Texecom",
+   "Premier Elite"
+  ],
+  "kpis": [
+   {
+    "v": "5 yrs",
+    "l": "battery"
+   },
+   {
+    "v": "Prox",
+    "l": "tag reader"
+   },
+   {
+    "v": "Full",
+    "l": "programming"
+   },
+   {
+    "v": "Grade 2",
+    "l": "Class II"
+   }
+  ],
+  "bestFor": [
+   "Wire-free Premier Elite systems",
+   "Adding a keypad where cabling is hard",
+   "Prox tag users"
+  ],
+  "notFor": [
+   "Wireless receivers below V3.1"
+  ],
+  "features": [
+   "<b>Fully programmable</b> — not just an arming station",
+   "<b>Built-in prox reader</b> for Texecom tags",
+   "Backlit keys · speaker with volume control",
+   "Ricochet mesh"
+  ],
+  "specs": [
+   [
+    "Battery life",
+    "5 years (typical)"
+   ],
+   [
+    "Requires",
+    "Premier Elite V3.1+ wireless receiver"
+   ],
+   [
+    "Standards",
+    "EN50131 · PD6662 Grade 2 Class II"
+   ]
+  ],
+  "qa": [
+   [
+    "Same as wired?",
+    "Yes — same functions and look."
+   ],
+   [
+    "Prox tags?",
+    "Yes, Texecom tags."
+   ],
+   [
+    "Which panels?",
+    "Premier Elite with V3.1+ receivers."
+   ]
+  ],
+  "source": "Texecom Premier Elite LCDLP-W datasheet.",
+  "image": "products/41GCE-0001/image.png",
+  "onepager": "products/41GCE-0001/onepager.pdf"
+ },
+ {
+  "code": "41GCC-0001",
+  "name": "Texecom Premier Elite SmartKey",
+  "brand": "Texecom",
+  "category": "Intrusion › Wireless detectors",
+  "subtitle": "Two-way wireless keyfob · arm/part/disarm · panic · status LEDs",
+  "tagline": "Two-way keyfob that shows alarm status — arm, part arm, disarm and panic, plus prox tag built in.",
+  "keywords": [
+   "SmartKey",
+   "GCC-0001",
+   "keyfob",
+   "remote",
+   "Ricochet",
+   "Texecom",
+   "panic",
+   "Premier Elite"
+  ],
+  "kpis": [
+   {
+    "v": "2-way",
+    "l": "status display"
+   },
+   {
+    "v": "3",
+    "l": "outputs"
+   },
+   {
+    "v": "CR2",
+    "l": "2–3 yr battery"
+   },
+   {
+    "v": "Grade 2",
+    "l": "Class II"
+   }
+  ],
+  "bestFor": [
+   "Arming from the car or garden",
+   "Opening gates/garages via panel outputs",
+   "Users who want status confirmation"
+  ],
+  "notFor": [
+   "Non-Ricochet systems"
+  ],
+  "features": [
+   "<b>Arm, part arm, disarm</b> buttons",
+   "<b>Status display</b> — confirms the system state",
+   "Two-button panic (programmable)",
+   "Built-in RFID chip — also a prox tag",
+   "Control up to 3 outputs"
+  ],
+  "specs": [
+   [
+    "Battery",
+    "CR2 lithium · 2–3 years"
+   ],
+   [
+    "Standards",
+    "EN50131 · PD6662 Grade 2 Class II"
+   ]
+  ],
+  "qa": [
+   [
+    "Panic?",
+    "Hold disarm + power for 4 s."
+   ],
+   [
+    "Gate control?",
+    "Yes, via panel outputs."
+   ],
+   [
+    "Battery?",
+    "CR2, replaceable."
+   ]
+  ],
+  "source": "Texecom Premier Elite SmartKey datasheet.",
+  "image": "products/41GCC-0001/image.png",
+  "onepager": "products/41GCC-0001/onepager.pdf"
+ },
+ {
+  "code": "42ZKSPEEDFACE-V3LITE",
+  "name": "ZKTeco SpeedFace-V3L (Lite)",
+  "brand": "ZKTeco",
+  "category": "Access Control › Readers",
+  "subtitle": "Face + card terminal · 2.4\" touchscreen · IP65",
+  "tagline": "Compact face-recognition terminal for doors and time & attendance.",
+  "keywords": [
+   "SpeedFace",
+   "SpeedFace-V3L",
+   "V3L",
+   "face",
+   "facial recognition",
+   "ZKTeco",
+   "BioTime",
+   "time and attendance"
+  ],
+  "kpis": [
+   {
+    "v": "500",
+    "l": "faces (to 1,500)"
+   },
+   {
+    "v": "3,000",
+    "l": "cards"
+   },
+   {
+    "v": "IP65",
+    "l": "rated"
+   },
+   {
+    "v": "0.3–1.2 m",
+    "l": "face distance"
+   }
+  ],
+  "bestFor": [
+   "Small offices — access and T&A",
+   "Narrow door frames",
+   "Touch-free entry"
+  ],
+  "notFor": [
+   "Large staff numbers (500 faces standard)"
+  ],
+  "features": [
+   "<b>Face + ID card</b> (IC card optional)",
+   "Exit button, door sensor & lock outputs",
+   "Wired doorbell · tamper alarm",
+   "ZKBio CVSecurity / BioTime · ZSmart app"
+  ],
+  "specs": [
+   [
+    "Users",
+    "3,000 (10,000 optional)"
+   ],
+   [
+    "Logs",
+    "200,000"
+   ],
+   [
+    "Comms",
+    "TCP/IP · Wi-Fi optional"
+   ],
+   [
+    "Power",
+    "12 V 1.5 A"
+   ],
+   [
+    "Size",
+    "116.8 × 58.3 × 17 mm"
+   ]
+  ],
+  "qa": [
+   [
+    "Cards?",
+    "125 kHz ID; IC optional."
+   ],
+   [
+    "Outdoor?",
+    "IP65, −5 to +45 °C."
+   ],
+   [
+    "T&A software?",
+    "BioTime."
+   ]
+  ],
+  "source": "ZKTeco SpeedFace-V3L datasheet (V1.0, 2023).",
+  "image": "products/42ZKSPEEDFACE-V3LITE/image.png",
+  "onepager": "products/42ZKSPEEDFACE-V3LITE/onepager.pdf"
+ },
+ {
+  "code": "42ZKF35",
+  "name": "ZKTeco F35 Fingerprint Terminal + Intercom",
+  "brand": "ZKTeco",
+  "category": "Access Control › Readers",
+  "subtitle": "In-glass fingerprint · card · keypad · SIP video intercom · IP65",
+  "tagline": "Aluminium access terminal with fingerprint, card, PIN and a built-in SIP video intercom.",
+  "keywords": [
+   "F35",
+   "ZKTeco",
+   "fingerprint",
+   "terminal",
+   "SIP",
+   "intercom",
+   "access control",
+   "BioTime",
+   "IP65"
+  ],
+  "kpis": [
+   {
+    "v": "10,000",
+    "l": "users / fingers"
+   },
+   {
+    "v": "<0.3 s",
+    "l": "fingerprint"
+   },
+   {
+    "v": "IP65",
+    "l": "IK04"
+   },
+   {
+    "v": "SIP",
+    "l": "video intercom"
+   }
+  ],
+  "bestFor": [
+   "Gates and entrances needing an intercom",
+   "Fingerprint + card access",
+   "T&A with BioTime"
+  ],
+  "notFor": [
+   "Vandal-prone spots (IK04)"
+  ],
+  "features": [
+   "<b>In-glass fingerprint</b> sensor",
+   "<b>SIP video intercom</b> (VT07 monitors)",
+   "2MP camera · ONVIF",
+   "Wi-Fi, TCP/IP, RS-485, Wiegand in/out"
+  ],
+  "specs": [
+   [
+    "Cards",
+    "125 kHz ID (others optional)"
+   ],
+   [
+    "Logs",
+    "500,000"
+   ],
+   [
+    "Power",
+    "12 VDC 3 A"
+   ],
+   [
+    "Size / weight",
+    "195 × 75 × 25 mm · 0.52 kg"
+   ],
+   [
+    "Operating temp",
+    "−5 to +55 °C"
+   ]
+  ],
+  "qa": [
+   [
+    "Intercom?",
+    "Yes, SIP to VT07 monitors / ZSmart app."
+   ],
+   [
+    "MIFARE / HID?",
+    "With optional card modules."
+   ],
+   [
+    "Outdoor?",
+    "IP65 aluminium frame."
+   ]
+  ],
+  "source": "ZKTeco F35 datasheet.",
+  "image": "products/42ZKF35/image.png",
+  "onepager": "products/42ZKF35/onepager.pdf"
+ },
+ {
+  "code": "51CS4010-8ET-110",
+  "name": "Dahua 10-Port Cloud Switch (8 PoE)",
+  "brand": "Dahua",
+  "category": "Surveillance › Network switches",
+  "subtitle": "DH-CS4010-8ET-110 · 8 PoE + 2 uplink · 110 W · 250 m PoE",
+  "tagline": "Cloud-managed desktop PoE switch — 8 cameras, one 90 W port and 250 m long-distance PoE.",
+  "keywords": [
+   "CS4010",
+   "CS4010-8ET-110",
+   "PoE switch",
+   "switch",
+   "8 port",
+   "Dahua",
+   "cloud managed",
+   "DoLynk"
+  ],
+  "kpis": [
+   {
+    "v": "8 PoE",
+    "l": "ports"
+   },
+   {
+    "v": "110 W",
+    "l": "PoE budget"
+   },
+   {
+    "v": "90 W",
+    "l": "port 1"
+   },
+   {
+    "v": "250 m",
+    "l": "long PoE"
+   }
+  ],
+  "bestFor": [
+   "8-camera IP systems",
+   "PTZs on the 90 W port",
+   "Remote sites managed from the cloud"
+  ],
+  "notFor": [
+   "Rack-mount cabinets (desktop unit)"
+  ],
+  "features": [
+   "<b>Cloud management</b> via DoLynk Care",
+   "<b>PoE Watchdog</b> restarts frozen cameras",
+   "802.3af/at/bt + Hi-PoE",
+   "Network topology view"
+  ],
+  "specs": [
+   [
+    "PoE",
+    "Port 1 ≤90 W · ports 2–8 ≤30 W · total 110 W"
+   ],
+   [
+    "Uplink",
+    "2 × gigabit RJ-45"
+   ],
+   [
+    "Size / weight",
+    "190 × 106 × 30 mm · 0.5 kg"
+   ],
+   [
+    "Operating temp",
+    "−10 to +55 °C"
+   ]
+  ],
+  "qa": [
+   [
+    "PTZ camera?",
+    "Yes — use the 90 W red port."
+   ],
+   [
+    "Cable length?",
+    "Up to 250 m in long-distance mode."
+   ],
+   [
+    "Power adapter?",
+    "Included."
+   ]
+  ],
+  "source": "Dahua DH-CS4010-8ET-110 datasheet.",
+  "image": "products/51CS4010-8ET-110/image.png",
+  "onepager": "products/51CS4010-8ET-110/onepager.pdf"
+ },
+ {
+  "code": "51SD49225DB-HNY",
+  "name": "Dahua 2MP 25× WizSense PTZ",
+  "brand": "Dahua",
+  "category": "Surveillance › IP cameras",
+  "subtitle": "DH-SD49225DB-HNY · 25× zoom · IR 100 m · IP66",
+  "tagline": "Starlight PTZ with 25× zoom and 100 m IR — perimeter protection and face detection built in.",
+  "keywords": [
+   "SD49225DB",
+   "SD49225",
+   "PTZ",
+   "speed dome",
+   "25x",
+   "zoom",
+   "Dahua",
+   "WizSense",
+   "starlight"
+  ],
+  "kpis": [
+   {
+    "v": "25×",
+    "l": "optical zoom"
+   },
+   {
+    "v": "100 m",
+    "l": "IR"
+   },
+   {
+    "v": "2 MP",
+    "l": "1080p"
+   },
+   {
+    "v": "300",
+    "l": "presets"
+   }
+  ],
+  "bestFor": [
+   "Car parks, yards, estates",
+   "Following people and vehicles",
+   "Large open areas"
+  ],
+  "notFor": [
+   "Small rooms",
+   "Budget jobs"
+  ],
+  "features": [
+   "<b>Perimeter protection</b> & SMD",
+   "<b>Face detection</b> — up to 8 faces",
+   "Starlight low-light colour",
+   "MicroSD up to 512 GB",
+   "IP66, 6 kV TVS surge protection"
+  ],
+  "specs": [
+   [
+    "Lens",
+    "4.8–120 mm · 58.5°–2.8° H"
+   ],
+   [
+    "Pan/tilt speed",
+    "80°/s presets"
+   ],
+   [
+    "Tilt",
+    "−15° to +90°, auto flip"
+   ],
+   [
+    "Alarm I/O",
+    "2 in / 1 out · audio in/out"
+   ]
+  ],
+  "qa": [
+   [
+    "Zoom?",
+    "25× optical + 16× digital."
+   ],
+   [
+    "Night range?",
+    "IR up to 100 m."
+   ],
+   [
+    "Bracket?",
+    "Wall bracket sold separately."
+   ]
+  ],
+  "source": "Dahua DH-SD49225DB-HNY datasheet.",
+  "image": "products/51SD49225DB-HNY/image.png",
+  "onepager": "products/51SD49225DB-HNY/onepager.pdf"
+ },
+ {
+  "code": "51XVR5108HE-X",
+  "name": "Dahua 8-Ch Lite XVR (5108HE-X)",
+  "brand": "Dahua",
+  "category": "Surveillance › Recorders (XVR)",
+  "subtitle": "DH-XVR5108HE-X · 8-ch Penta-brid 1080p · 1 HDD · 4K HDMI",
+  "tagline": "8-channel Lite coax recorder — takes 5MP CVI cameras and 6MP IP cameras, no AI.",
+  "keywords": [
+   "XVR5108HE-X",
+   "XVR5108",
+   "XVR",
+   "DVR",
+   "recorder",
+   "8 channel",
+   "Dahua",
+   "Lite",
+   "Penta-brid"
+  ],
+  "kpis": [
+   {
+    "v": "8 + 4",
+    "l": "analogue + IP ch"
+   },
+   {
+    "v": "5MP",
+    "l": "CVI cameras"
+   },
+   {
+    "v": "10 TB",
+    "l": "1 × HDD max"
+   },
+   {
+    "v": "4K",
+    "l": "HDMI"
+   }
+  ],
+  "bestFor": [
+   "Budget 8-camera coax systems",
+   "Mixing analogue and IP cameras",
+   "Upgrading old DVRs"
+  ],
+  "notFor": [
+   "AI features — sell XVR5108HE-I3",
+   "Full 5MP at full frame rate"
+  ],
+  "features": [
+   "<b>Penta-brid</b> — HDCVI, AHD, TVI, CVBS, IP",
+   "H.265+ compression",
+   "Smart search & IVS",
+   "Long coax runs — 700 m at 4MP"
+  ],
+  "specs": [
+   [
+    "Recording",
+    "5M-N, 4M-N, 1080p, 1080N…"
+   ],
+   [
+    "IP cameras",
+    "Up to 12, each up to 6MP, 48 Mbps"
+   ],
+   [
+    "Storage",
+    "1 × SATA, up to 10 TB"
+   ],
+   [
+    "Power",
+    "12 VDC 2 A · <10 W"
+   ],
+   [
+    "Size",
+    "325 × 255 × 55 mm"
+   ]
+  ],
+  "models": [
+   [
+    "XVR5108HE-X",
+    "Lite, no AI — <b>this unit</b>",
+    true
+   ],
+   [
+    "XVR5108HE-I3",
+    "WizSense AI, face recognition"
+   ]
+  ],
+  "qa": [
+   [
+    "AI / SMD Plus?",
+    "No — XVR5108HE-I3."
+   ],
+   [
+    "Hard drive?",
+    "Not included — up to 10 TB."
+   ],
+   [
+    "IP cameras?",
+    "Up to 12 in hybrid mode."
+   ]
+  ],
+  "source": "Dahua DH-XVR5108/16HE-X datasheet.",
+  "image": "products/51XVR5108HE-X/image.png",
+  "onepager": "products/51XVR5108HE-X/onepager.pdf"
+ },
+ {
+  "code": "12BG1226",
+  "name": "CSB GP12260 Battery 12 V 26 Ah",
+  "brand": "CSB",
+  "category": "Power & Energy › Batteries",
+  "subtitle": "Sealed lead-acid (AGM) standby battery · GP series",
+  "tagline": "26 Ah standby battery for gate motors, UPS and larger alarm/CCTV systems.",
+  "keywords": [
+   "GP12260",
+   "GP 12260",
+   "26Ah",
+   "26 Ah",
+   "battery",
+   "12V",
+   "lead acid",
+   "AGM",
+   "CSB"
+  ],
+  "kpis": [
+   {
+    "v": "12 V",
+    "l": "nominal"
+   },
+   {
+    "v": "26 Ah",
+    "l": "20 h rate"
+   },
+   {
+    "v": "8.45 kg",
+    "l": "weight"
+   },
+   {
+    "v": "M5",
+    "l": "bolt terminals"
+   }
+  ],
+  "bestFor": [
+   "UPS and inverter backup",
+   "Large alarm / CCTV standby",
+   "Gate motor battery banks"
+  ],
+  "notFor": [
+   "Deep daily cycling (standby design)"
+  ],
+  "features": [
+   "AGM, up to 99% gas recombination",
+   "Up to 5 years standby design life",
+   "350 A max discharge (5 s)"
+  ],
+  "specs": [
+   [
+    "Size",
+    "166 × 175 × 125 mm"
+   ],
+   [
+    "Weight",
+    "8.45 kg"
+   ],
+   [
+    "Float charge",
+    "13.5–13.8 V · max 7.8 A"
+   ],
+   [
+    "Internal resistance",
+    "9.9 mΩ"
+   ]
+  ],
+  "models": [
+   [
+    "GP12170",
+    "17 Ah"
+   ],
+   [
+    "GP12260",
+    "26 Ah — <b>this unit</b>",
+    true
+   ],
+   [
+    "GP12400",
+    "40 Ah"
+   ]
+  ],
+  "qa": [
+   [
+    "Terminals?",
+    "I1 — takes an M5 bolt."
+   ],
+   [
+    "Max charge?",
+    "7.8 A."
+   ],
+   [
+    "Life?",
+    "Up to 5 years standby."
+   ]
+  ],
+  "source": "CSB GP12260 datasheet.",
+  "image": "products/12BG1226/image.png",
+  "onepager": "products/12BG1226/onepager.pdf"
+ },
+ {
+  "code": "10LFP12-100",
+  "name": "Uniross LFP12-100 Lithium Battery",
+  "brand": "Uniross",
+  "category": "Power & Energy › Batteries",
+  "subtitle": "12.8 V 100 Ah LiFePO4 lithium battery with built-in BMS",
+  "tagline": "Big lithium battery for solar and inverter backup — 1,280 Wh, 2000+ cycles.",
+  "keywords": [
+   "LFP12-100",
+   "100Ah",
+   "lithium",
+   "LiFePO4",
+   "battery",
+   "12V",
+   "Uniross",
+   "solar",
+   "inverter"
+  ],
+  "kpis": [
+   {
+    "v": "100 Ah",
+    "l": "capacity"
+   },
+   {
+    "v": "2000+",
+    "l": "cycles"
+   },
+   {
+    "v": "11 kg",
+    "l": "weight"
+   },
+   {
+    "v": "1,280 Wh",
+    "l": "energy"
+   }
+  ],
+  "bestFor": [
+   "Solar and inverter backup",
+   "Load-shedding backup for homes and offices",
+   "Replacing lead-acid banks"
+  ],
+  "notFor": [
+   "Charging below 0 °C",
+   "Chargers without a lithium profile"
+  ],
+  "features": [
+   "<b>Built-in BMS</b> — over-charge, over-discharge, short-circuit, temperature",
+   "Cell balancing",
+   "IP56 ABS case",
+   "M8 terminals"
+  ],
+  "specs": [
+   [
+    "Charge",
+    "14.4 V ±0.2 · 20 A standard, 100 A max"
+   ],
+   [
+    "Discharge",
+    "100 A continuous"
+   ],
+   [
+    "Size",
+    "260 × 168 × 210 mm"
+   ],
+   [
+    "Temp",
+    "Charge 0–45 °C · discharge −20–60 °C"
+   ]
+  ],
+  "models": [
+   [
+    "LFP12-50",
+    "50 Ah"
+   ],
+   [
+    "LFP12-100",
+    "100 Ah — <b>this unit</b>",
+    true
+   ]
+  ],
+  "qa": [
+   [
+    "Charger?",
+    "Lithium (LiFePO4) profile, 14.4 V."
+   ],
+   [
+    "Max load?",
+    "100 A continuous."
+   ],
+   [
+    "Weight?",
+    "11 kg."
+   ]
+  ],
+  "source": "Uniross LFP12-100 datasheet.",
+  "image": "products/10LFP12-100/image.png",
+  "onepager": "products/10LFP12-100/onepager.pdf"
+ },
+ {
+  "code": "10CR123A",
+  "name": "Uniross CR123A 3 V Lithium Battery",
+  "brand": "Uniross",
+  "category": "Power & Energy › Batteries",
+  "subtitle": "3 V Li-MnO2 photo lithium cell · 1400 mAh",
+  "tagline": "The battery for most wireless detectors — PowerG PIRs, contacts and beams.",
+  "image": null,
+  "imageNote": "No product photo in the datasheet",
+  "keywords": [
+   "CR123A",
+   "CR123",
+   "123",
+   "lithium",
+   "3V",
+   "battery",
+   "Uniross",
+   "detector battery"
+  ],
+  "kpis": [
+   {
+    "v": "3 V",
+    "l": "nominal"
+   },
+   {
+    "v": "1400 mAh",
+    "l": "capacity"
+   },
+   {
+    "v": "−40–70 °C",
+    "l": "operating"
+   },
+   {
+    "v": "<2%",
+    "l": "self-discharge / yr"
+   }
+  ],
+  "bestFor": [
+   "Wireless PIRs and contacts (e.g. DSC PowerG)",
+   "Battery beams and outdoor detectors"
+  ],
+  "notFor": [
+   "Recharging — not rechargeable"
+  ],
+  "features": [
+   "High energy density",
+   "Handles high pulse current",
+   "UL component recognised"
+  ],
+  "specs": [
+   [
+    "Max continuous",
+    "1500 mA"
+   ],
+   [
+    "Max pulse",
+    "3000 mA"
+   ],
+   [
+    "Size",
+    "Ø17 × 34.5 mm"
+   ],
+   [
+    "Weight",
+    "16 g"
+   ]
+  ],
+  "qa": [
+   [
+    "Rechargeable?",
+    "No."
+   ],
+   [
+    "Which devices?",
+    "Most wireless detectors using CR123A."
+   ],
+   [
+    "Shelf life?",
+    "Under 2% loss per year."
+   ]
+  ],
+  "source": "Uniross CR123A product specification.",
+  "onepager": "products/10CR123A/onepager.pdf"
+ },
+ {
+  "code": "39KT-MOD-OUT16",
+  "name": "Kantech KT-MOD-OUT16 16-Output Module",
+  "brand": "Kantech",
+  "category": "Access Control › Expansion modules",
+  "subtitle": "16 low-current outputs for KT-400 · elevator control",
+  "tagline": "Adds 16 low-current outputs to a KT-400 — for lifts or driving external relays.",
+  "image": null,
+  "imageNote": "No product photo in the datasheet",
+  "keywords": [
+   "KT-MOD-OUT16",
+   "OUT16",
+   "output module",
+   "Kantech",
+   "KT-400",
+   "elevator",
+   "lift",
+   "expansion"
+  ],
+  "kpis": [
+   {
+    "v": "16",
+    "l": "outputs"
+   },
+   {
+    "v": "16",
+    "l": "modules / KT-400"
+   },
+   {
+    "v": "256",
+    "l": "outputs max"
+   },
+   {
+    "v": "750 mA",
+    "l": "per module"
+   }
+  ],
+  "bestFor": [
+   "Elevator floor control",
+   "Driving external relays",
+   "Large KT-400 installs"
+  ],
+  "notFor": [
+   "Switching loads directly (low-current outputs)",
+   "KT-1"
+  ],
+  "features": [
+   "16 open-collector outputs, 5–24 VDC, 4–750 mA",
+   "Daisy-chain up to 16 modules",
+   "Mix with KT-MOD-REL8 in one SPI group",
+   "SPI cable included"
+  ],
+  "specs": [
+   [
+    "Current",
+    "Up to 750 mA per module"
+   ],
+   [
+    "Mounting",
+    "Kantech cabinet, within 1 m of KT-400"
+   ],
+   [
+    "Connection",
+    "6-pin SPI"
+   ]
+  ],
+  "models": [
+   [
+    "KT-MOD-REL8",
+    "8 relays"
+   ],
+   [
+    "KT-MOD-OUT16",
+    "16 outputs — <b>this unit</b>",
+    true
+   ],
+   [
+    "KT-MOD-INP16",
+    "16 inputs"
+   ]
+  ],
+  "qa": [
+   [
+    "External power?",
+    "Yes, 12 V 2 A if SPI load exceeds 500 mA."
+   ],
+   [
+    "Relays?",
+    "No — low-current outputs; use REL8 for relays."
+   ],
+   [
+    "Lifts?",
+    "Yes, elevator control."
+   ]
+  ],
+  "source": "Kantech KT-MOD-OUT16 install sheet.",
+  "onepager": "products/39KT-MOD-OUT16/onepager.pdf"
+ },
+ {
+  "code": "94JP-DVF",
+  "name": "Aiphone JP-DVF Flush Video Door Station",
+  "brand": "Aiphone",
+  "category": "Access Control › Intercoms",
+  "subtitle": "JP Series stainless flush door station · 170° camera · IP54/IK08",
+  "tagline": "Vandal-resistant stainless steel door station with a wide 170° camera for JP systems.",
+  "imageNote": "Product drawing — no photo in the datasheet",
+  "keywords": [
+   "JP-DVF",
+   "JPDVF",
+   "Aiphone",
+   "JP series",
+   "door station",
+   "video intercom",
+   "stainless",
+   "flush"
+  ],
+  "kpis": [
+   {
+    "v": "170°",
+    "l": "camera angle"
+   },
+   {
+    "v": "IP54",
+    "l": "IK08"
+   },
+   {
+    "v": "Stainless",
+    "l": "front panel"
+   },
+   {
+    "v": "Flush",
+    "l": "back box incl."
+   }
+  ],
+  "bestFor": [
+   "JP series video intercoms",
+   "Entrances needing vandal resistance",
+   "Flush mounting in walls"
+  ],
+  "notFor": [
+   "Non-JP systems",
+   "Surface mounting (use JP-DA)"
+  ],
+  "features": [
+   "Wide 170° colour camera",
+   "White LED for night",
+   "Hands-free communication",
+   "Tamper-proof screws · directory card"
+  ],
+  "specs": [
+   [
+    "Power",
+    "From the master station"
+   ],
+   [
+    "Size",
+    "209 × 135 mm · back box 180 × 110 × 45 mm"
+   ],
+   [
+    "Weight",
+    "570 g + back box 450 g"
+   ],
+   [
+    "Operating temp",
+    "−10 to +60 °C"
+   ]
+  ],
+  "qa": [
+   [
+    "Master station?",
+    "JP-4MED required."
+   ],
+   [
+    "Back box?",
+    "Built-in back box included."
+   ],
+   [
+    "Outdoor?",
+    "IP54, IK08."
+   ]
+  ],
+  "source": "Aiphone JP-DVF spec sheet (2014).",
+  "image": "products/94JP-DVF/image.png",
+  "onepager": "products/94JP-DVF/onepager.pdf"
  }
 ]
