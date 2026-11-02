@@ -20188,5 +20188,2074 @@
   "source": "Aiphone JP-DVF spec sheet (2014).",
   "image": "products/94JP-DVF/image.png",
   "onepager": "products/94JP-DVF/onepager.pdf"
+ },
+ {
+  "code": "51SD6CE445GB-HNR",
+  "name": "Dahua 4MP 45× WizSense PTZ",
+  "brand": "Dahua",
+  "category": "Surveillance › IP cameras",
+  "subtitle": "DH-SD6CE445GB-HNR · 45× zoom · IR 250 m · IP67 / IK10",
+  "tagline": "Long-range 4MP PTZ — 45× zoom, 250 m IR and auto-tracking for big sites.",
+  "keywords": [
+   "SD6CE445GB",
+   "SD6CE445",
+   "PTZ",
+   "speed dome",
+   "45x",
+   "zoom",
+   "4MP",
+   "Dahua",
+   "WizSense",
+   "auto tracking"
+  ],
+  "kpis": [
+   {
+    "v": "45×",
+    "l": "optical zoom"
+   },
+   {
+    "v": "250 m",
+    "l": "IR"
+   },
+   {
+    "v": "4 MP",
+    "l": "25/30 fps"
+   },
+   {
+    "v": "IK10",
+    "l": "IP67"
+   }
+  ],
+  "bestFor": [
+   "Large yards, estates, car parks",
+   "Perimeters and long fence lines",
+   "Auto-tracking people and vehicles"
+  ],
+  "notFor": [
+   "Small sites (overkill)",
+   "PoE-only installs without checking power (24 VDC 2.5 A adapter)"
+  ],
+  "features": [
+   "<b>Auto-tracking 3.0</b>",
+   "<b>Perimeter protection</b> · SMD 4.0 · face detection",
+   "Starlight · electronic image stabilisation",
+   "MicroSD up to 512 GB",
+   "IP67, IK10, 6 kV surge protection"
+  ],
+  "specs": [
+   [
+    "Lens",
+    "3.95–177.75 mm"
+   ],
+   [
+    "Pan / tilt",
+    "Presets 400°/s / 300°/s · 300 presets"
+   ],
+   [
+    "Power",
+    "24 VDC 2.5 A adapter"
+   ],
+   [
+    "Size / weight",
+    "337 × Ø209 mm · 5.9 kg"
+   ]
+  ],
+  "models": [
+   [
+    "SD49225DB-HNY",
+    "2MP 25× PTZ, IR 100 m"
+   ],
+   [
+    "SD6CE445GB-HNR",
+    "4MP 45× PTZ, IR 250 m — <b>this unit</b>",
+    true
+   ]
+  ],
+  "qa": [
+   [
+    "How far at night?",
+    "IR up to 250 m."
+   ],
+   [
+    "Follows intruders?",
+    "Yes, auto-tracking."
+   ],
+   [
+    "Bracket?",
+    "Wall/pole bracket sold separately."
+   ]
+  ],
+  "source": "Dahua DH-SD6CE445GB-HNR datasheet.",
+  "image": "products/51SD6CE445GB-HNR/image.png",
+  "onepager": "products/51SD6CE445GB-HNR/onepager.pdf"
+ },
+ {
+  "code": "51NVR5232-EI",
+  "name": "Dahua 32-Ch 2-Bay WizSense NVR",
+  "brand": "Dahua",
+  "category": "Surveillance › Recorders (NVR)",
+  "subtitle": "DHI-NVR5232-EI · 32 channels · 2 × HDD · AI · 384 Mbps",
+  "tagline": "32-camera AI recorder — face recognition, perimeter protection and SMD Plus built in.",
+  "keywords": [
+   "NVR5232-EI",
+   "NVR5232",
+   "NVR",
+   "recorder",
+   "32 channel",
+   "WizSense",
+   "Dahua",
+   "AI",
+   "face recognition"
+  ],
+  "kpis": [
+   {
+    "v": "32",
+    "l": "IP channels"
+   },
+   {
+    "v": "384 Mbps",
+    "l": "bandwidth"
+   },
+   {
+    "v": "2 × 20 TB",
+    "l": "HDD bays"
+   },
+   {
+    "v": "AI",
+    "l": "face / SMD+"
+   }
+  ],
+  "bestFor": [
+   "Medium-large sites up to 32 cameras",
+   "Face recognition at entrances",
+   "Mixed Dahua AI camera systems"
+  ],
+  "notFor": [
+   "Plug-and-play PoE (no PoE ports)",
+   "RAID requirements"
+  ],
+  "features": [
+   "<b>AI by NVR</b> — 2-ch face recognition, 4-ch perimeter, 8-ch SMD Plus",
+   "AI by camera: ANPR, people counting, heat map",
+   "AcuPick search (16 ch)",
+   "N+M cluster support"
+  ],
+  "specs": [
+   [
+    "Decoding",
+    "32 × 1080p @30 fps"
+   ],
+   [
+    "Storage",
+    "2 × SATA, up to 20 TB each"
+   ],
+   [
+    "Alarm I/O",
+    "4 alarm inputs"
+   ],
+   [
+    "Power",
+    "12 VDC 4 A · ≤10 W (no HDD)"
+   ],
+   [
+    "Weight",
+    "1.57 kg"
+   ]
+  ],
+  "models": [
+   [
+    "NVR4116HS-EI",
+    "16 ch, 1 HDD"
+   ],
+   [
+    "NVR5232-EI",
+    "32 ch, 2 HDD — <b>this unit</b>",
+    true
+   ]
+  ],
+  "qa": [
+   [
+    "PoE ports?",
+    "No — use PoE switches."
+   ],
+   [
+    "Hard drives?",
+    "Not included — 2 bays, 20 TB each."
+   ],
+   [
+    "Face recognition?",
+    "Yes, 2 channels by NVR."
+   ]
+  ],
+  "source": "Dahua DHI-NVR5232-EI datasheet.",
+  "image": "products/51NVR5232-EI/image.png",
+  "onepager": "products/51NVR5232-EI/onepager.pdf"
+ },
+ {
+  "code": "51IPC-HDBW3441RP-ZS-27135",
+  "name": "Dahua 4MP WizSense Varifocal Dome",
+  "brand": "Dahua",
+  "category": "Surveillance › IP cameras",
+  "subtitle": "DH-IPC-HDBW3441R-ZS-S2 · 2.7–13.5 mm motorised · IR 40 m · IK10",
+  "tagline": "Vandal-proof AI dome with a motorised zoom — human/vehicle detection and a built-in mic.",
+  "keywords": [
+   "HDBW3441R",
+   "3441",
+   "dome",
+   "vandal dome",
+   "varifocal",
+   "motorised",
+   "WizSense",
+   "4MP",
+   "Dahua",
+   "mic"
+  ],
+  "kpis": [
+   {
+    "v": "4 MP",
+    "l": "2688×1520"
+   },
+   {
+    "v": "2.7–13.5",
+    "l": "mm motorised"
+   },
+   {
+    "v": "IK10",
+    "l": "IP67"
+   },
+   {
+    "v": "40 m",
+    "l": "IR"
+   }
+  ],
+  "bestFor": [
+   "Entrances, receptions, corridors",
+   "Ceilings within reach of the public",
+   "Views that need zooming after install"
+  ],
+  "notFor": [
+   "Long-distance views (40 m IR)"
+  ],
+  "features": [
+   "<b>WizSense</b> — intrusion & tripwire with human/vehicle filter",
+   "<b>Motorised zoom</b>",
+   "Built-in mic",
+   "MicroSD up to 256 GB",
+   "IP67 + IK10"
+  ],
+  "specs": [
+   [
+    "Lens",
+    "2.7–13.5 mm motorised"
+   ],
+   [
+    "Power",
+    "12 VDC / PoE 802.3af · max 7.9 W"
+   ],
+   [
+    "Size / weight",
+    "94 × Ø122 mm · 0.71 kg"
+   ]
+  ],
+  "coverage": {
+   "title": "DORI distances (wide 2.7 mm)",
+   "rows": [
+    [
+     "Detect",
+     "64 m"
+    ],
+    [
+     "Observe",
+     "25.6 m"
+    ],
+    [
+     "Recognise",
+     "12.8 m"
+    ],
+    [
+     "Identify",
+     "6.4 m",
+     true
+    ]
+   ]
+  },
+  "qa": [
+   [
+    "Vandal proof?",
+    "Yes, IK10."
+   ],
+   [
+    "Sound?",
+    "Built-in mic."
+   ],
+   [
+    "Zoom from app?",
+    "Yes, motorised."
+   ]
+  ],
+  "source": "Dahua DH-IPC-HDBW3441R-Z(A)S-S2 datasheet.",
+  "image": "products/51IPC-HDBW3441RP-ZS-27135/image.png",
+  "onepager": "products/51IPC-HDBW3441RP-ZS-27135/onepager.pdf"
+ },
+ {
+  "code": "51IPC-HFW3549T1P-AS-PV-0280B",
+  "name": "Dahua 5MP TiOC Active Deterrence Bullet",
+  "brand": "Dahua",
+  "category": "Surveillance › IP cameras",
+  "subtitle": "DH-IPC-HFW3549T1-AS-PV · siren + red/blue light · dual light · IP67",
+  "tagline": "Bullet that fights back — siren, red/blue strobe and two-way talk when someone enters the zone.",
+  "keywords": [
+   "HFW3549T1",
+   "3549",
+   "TiOC",
+   "active deterrence",
+   "siren",
+   "strobe",
+   "bullet",
+   "5MP",
+   "WizSense",
+   "Dahua",
+   "full colour",
+   "speaker"
+  ],
+  "kpis": [
+   {
+    "v": "5 MP",
+    "l": "2960×1668"
+   },
+   {
+    "v": "Siren",
+    "l": "+ red/blue light"
+   },
+   {
+    "v": "30 m",
+    "l": "IR / warm light"
+   },
+   {
+    "v": "2-way",
+    "l": "talk"
+   }
+  ],
+  "bestFor": [
+   "Homes and shops wanting deterrence, not just recording",
+   "Driveways, yards, back doors",
+   "Talking to visitors / intruders"
+  ],
+  "notFor": [
+   "Places where a siren/strobe would disturb neighbours",
+   "Long-range views"
+  ],
+  "features": [
+   "<b>Active deterrence</b> — siren + red & blue warning light",
+   "<b>Smart dual light</b> — IR or full colour",
+   "Dual mic + speaker for two-way talk",
+   "SMD 4.0 human/vehicle filtering",
+   "MicroSD up to 512 GB · IP67"
+  ],
+  "specs": [
+   [
+    "Lens",
+    "2.8 mm fixed"
+   ],
+   [
+    "Alarm / audio",
+    "1 in / 1 out · 1 in / 1 out"
+   ],
+   [
+    "Power",
+    "12 VDC / PoE 802.3af"
+   ],
+   [
+    "Weight",
+    "1.0 kg"
+   ]
+  ],
+  "coverage": {
+   "title": "DORI distances (2.8 mm)",
+   "rows": [
+    [
+     "Detect",
+     "66 m"
+    ],
+    [
+     "Observe",
+     "26.4 m"
+    ],
+    [
+     "Recognise",
+     "13.2 m"
+    ],
+    [
+     "Identify",
+     "6.6 m",
+     true
+    ]
+   ]
+  },
+  "models": [
+   [
+    "HFW3549T1-AS-PV",
+    "Bullet — <b>this unit</b>",
+    true
+   ],
+   [
+    "HDW3549H-AS-PV",
+    "Eyeball version"
+   ]
+  ],
+  "qa": [
+   [
+    "Siren?",
+    "Yes, plus red/blue strobe."
+   ],
+   [
+    "Talk to people?",
+    "Yes, two-way audio."
+   ],
+   [
+    "Colour at night?",
+    "Yes, smart dual light."
+   ]
+  ],
+  "source": "Dahua DH-IPC-HFW3549T1-AS-PV datasheet (S5).",
+  "image": "products/51IPC-HFW3549T1P-AS-PV-0280B/image.png",
+  "onepager": "products/51IPC-HFW3549T1P-AS-PV-0280B/onepager.pdf"
+ },
+ {
+  "code": "51IPC-HDW3549HP-AS-PV-0280B",
+  "name": "Dahua 5MP TiOC Active Deterrence Eyeball",
+  "brand": "Dahua",
+  "category": "Surveillance › IP cameras",
+  "subtitle": "DH-IPC-HDW3549H-AS-PV · siren + red/blue light · dual light · IP67",
+  "tagline": "Eyeball with siren, red/blue strobe and two-way talk — deters before anything happens.",
+  "keywords": [
+   "HDW3549H",
+   "3549",
+   "TiOC",
+   "active deterrence",
+   "siren",
+   "strobe",
+   "eyeball",
+   "turret",
+   "5MP",
+   "WizSense",
+   "Dahua",
+   "speaker"
+  ],
+  "kpis": [
+   {
+    "v": "5 MP",
+    "l": "2960×1668"
+   },
+   {
+    "v": "Siren",
+    "l": "+ red/blue light"
+   },
+   {
+    "v": "30 m",
+    "l": "IR / warm light"
+   },
+   {
+    "v": "2-way",
+    "l": "talk"
+   }
+  ],
+  "bestFor": [
+   "Front doors, entrances, patios",
+   "Shops wanting visible deterrence",
+   "Talking to visitors"
+  ],
+  "notFor": [
+   "Places where a siren/strobe would disturb neighbours"
+  ],
+  "features": [
+   "<b>Active deterrence</b> — siren + red & blue warning light",
+   "<b>Smart dual light</b> — IR or full colour",
+   "Dual mic + speaker",
+   "SMD 4.0",
+   "IP67"
+  ],
+  "specs": [
+   [
+    "Lens",
+    "2.8 mm fixed"
+   ],
+   [
+    "Alarm / audio",
+    "1 in / 1 out · 1 in / 1 out"
+   ],
+   [
+    "Storage",
+    "MicroSD up to 256 GB"
+   ],
+   [
+    "Power",
+    "12 VDC / PoE 802.3af"
+   ]
+  ],
+  "coverage": {
+   "title": "DORI distances (2.8 mm)",
+   "rows": [
+    [
+     "Detect",
+     "66 m"
+    ],
+    [
+     "Observe",
+     "26.4 m"
+    ],
+    [
+     "Recognise",
+     "13.2 m"
+    ],
+    [
+     "Identify",
+     "6.6 m",
+     true
+    ]
+   ]
+  },
+  "models": [
+   [
+    "HDW3549H-AS-PV",
+    "Eyeball — <b>this unit</b>",
+    true
+   ],
+   [
+    "HFW3549T1-AS-PV",
+    "Bullet version"
+   ]
+  ],
+  "qa": [
+   [
+    "Siren?",
+    "Yes, plus red/blue strobe."
+   ],
+   [
+    "Talk to people?",
+    "Yes, two-way audio."
+   ],
+   [
+    "Mounts?",
+    "PFB220C, PFA152-E."
+   ]
+  ],
+  "source": "Dahua DH-IPC-HDW3549H-AS-PV datasheet (S4).",
+  "image": "products/51IPC-HDW3549HP-AS-PV-0280B/image.png",
+  "onepager": "products/51IPC-HDW3549HP-AS-PV-0280B/onepager.pdf"
+ },
+ {
+  "code": "51PFS3008-8GT-L",
+  "name": "Dahua 8-Port Gigabit Desktop Switch",
+  "brand": "Dahua",
+  "category": "Surveillance › Network switches",
+  "subtitle": "DH-PFS3008-8GT-L · 8 × gigabit · unmanaged · no PoE",
+  "tagline": "Plug-and-play 8-port gigabit switch for small offices and NVR networks.",
+  "keywords": [
+   "PFS3008-8GT-L",
+   "PFS3008",
+   "switch",
+   "gigabit",
+   "8 port",
+   "unmanaged",
+   "Dahua",
+   "network"
+  ],
+  "kpis": [
+   {
+    "v": "8",
+    "l": "gigabit ports"
+   },
+   {
+    "v": "16 Gbps",
+    "l": "switching"
+   },
+   {
+    "v": "4 W",
+    "l": "full load"
+   },
+   {
+    "v": "No PoE",
+    "l": "data only"
+   }
+  ],
+  "bestFor": [
+   "Small office and home networks",
+   "Linking NVRs, PCs and routers",
+   "Extending a network cheaply"
+  ],
+  "notFor": [
+   "Powering cameras (no PoE)",
+   "Managed networks / VLANs"
+  ],
+  "features": [
+   "Plug and play — no setup",
+   "Compact plastic housing",
+   "24/7 operation"
+  ],
+  "specs": [
+   [
+    "Power",
+    "5 V 1 A DC adapter"
+   ],
+   [
+    "Size / weight",
+    "125 × 65 × 22 mm · 0.11 kg"
+   ],
+   [
+    "Operating temp",
+    "−10 to +55 °C"
+   ],
+   [
+    "MAC table",
+    "2K"
+   ]
+  ],
+  "qa": [
+   [
+    "PoE?",
+    "No — sell a PoE switch for cameras."
+   ],
+   [
+    "Setup?",
+    "None — plug and play."
+   ],
+   [
+    "Speed?",
+    "1 Gbps per port."
+   ]
+  ],
+  "source": "Dahua DH-PFS3008-8GT-L datasheet.",
+  "image": "products/51PFS3008-8GT-L/image.png",
+  "onepager": "products/51PFS3008-8GT-L/onepager.pdf"
+ },
+ {
+  "code": "51PFM920I-6UN-C",
+  "name": "Dahua CAT6 UTP Cable 305 m",
+  "brand": "Dahua",
+  "category": "Surveillance › Cable & accessories",
+  "subtitle": "DH-PFM920I-6UN · 24 AWG solid copper · 305 m box · PVC",
+  "tagline": "Pure-copper CAT6 network cable for IP cameras and PoE — 305 m box, 10-year warranty.",
+  "keywords": [
+   "CAT6",
+   "Cat 6",
+   "UTP",
+   "network cable",
+   "305m",
+   "cable",
+   "Dahua",
+   "PFM920I",
+   "copper",
+   "PoE"
+  ],
+  "kpis": [
+   {
+    "v": "305 m",
+    "l": "per box"
+   },
+   {
+    "v": "24 AWG",
+    "l": "pure copper"
+   },
+   {
+    "v": "CAT6",
+    "l": "UTP"
+   },
+   {
+    "v": "10 yr",
+    "l": "warranty"
+   }
+  ],
+  "bestFor": [
+   "IP camera and PoE runs up to 100 m",
+   "Office and home networks",
+   "Installers wanting copper (not CCA)"
+  ],
+  "notFor": [
+   "Runs over 100 m",
+   "Direct burial / outdoor UV exposure (PVC)"
+  ],
+  "features": [
+   "<b>Oxygen-free copper</b> (99.95%)",
+   "Meets ANSI/TIA 568C.2 and CPR Eca",
+   "Flame-retardant PVC sheath"
+  ],
+  "specs": [
+   [
+    "Conductor",
+    "0.53 mm (24 AWG)"
+   ],
+   [
+    "Outer diameter",
+    "5.8 mm"
+   ],
+   [
+    "Impedance",
+    "100 Ω ±15 Ω"
+   ],
+   [
+    "Operating temp",
+    "−20 to +75 °C"
+   ],
+   [
+    "Colour",
+    "Grey / white / orange (confirm on box)"
+   ]
+  ],
+  "qa": [
+   [
+    "Pure copper?",
+    "Yes, oxygen-free copper."
+   ],
+   [
+    "Max run?",
+    "100 m per Ethernet run."
+   ],
+   [
+    "Outdoor?",
+    "PVC — use conduit or an outdoor cable."
+   ]
+  ],
+  "source": "Dahua DH-PFM920I-6UN-CN UTP CAT6 cable datasheet.",
+  "image": "products/51PFM920I-6UN-C/image.png",
+  "onepager": "products/51PFM920I-6UN-C/onepager.pdf"
+ },
+ {
+  "code": "51XVR5216AN-I3",
+  "name": "Dahua 16-Ch 2-Bay WizSense XVR",
+  "brand": "Dahua",
+  "category": "Surveillance › Recorders (XVR)",
+  "subtitle": "DH-XVR5216AN-I3 · 16-ch Penta-brid 5MP Value / 1080p · 2 HDD",
+  "tagline": "16-camera coax recorder with 2 drive bays — SMD Plus on all channels and face recognition.",
+  "keywords": [
+   "XVR5216AN",
+   "XVR5216",
+   "XVR",
+   "DVR",
+   "recorder",
+   "16 channel",
+   "5MP",
+   "Dahua",
+   "WizSense",
+   "2 HDD"
+  ],
+  "kpis": [
+   {
+    "v": "16 + 8",
+    "l": "analogue + IP ch"
+   },
+   {
+    "v": "5MP",
+    "l": "cameras"
+   },
+   {
+    "v": "2 × 16 TB",
+    "l": "HDD bays"
+   },
+   {
+    "v": "SMD+",
+    "l": "all 16 ch"
+   }
+  ],
+  "bestFor": [
+   "16-camera coax systems needing longer retention",
+   "Shops, schools, small warehouses",
+   "Cutting false alarms"
+  ],
+  "notFor": [
+   "Full-frame-rate 5MP on all channels"
+  ],
+  "features": [
+   "<b>Penta-brid</b> — HDCVI, AHD, TVI, CVBS, IP (up to 24 IP ch)",
+   "<b>SMD Plus</b> 16 ch · <b>perimeter</b> 4 ch · <b>face</b> 2 ch",
+   "AI Coding on all channels",
+   "IoT & POS functions"
+  ],
+  "specs": [
+   [
+    "Recording",
+    "5M-N all ch (1–12 fps) · 1080p (1–15 fps)"
+   ],
+   [
+    "IP cameras",
+    "Up to 24, each up to 6MP, 128 Mbps"
+   ],
+   [
+    "Storage",
+    "2 × SATA, up to 16 TB each"
+   ],
+   [
+    "Power",
+    "12 VDC 4 A · <12 W"
+   ]
+  ],
+  "models": [
+   [
+    "XVR5116HE-I3",
+    "16 ch, 1 HDD"
+   ],
+   [
+    "XVR5216AN-I3",
+    "16 ch, 2 HDD — <b>this unit</b>",
+    true
+   ]
+  ],
+  "qa": [
+   [
+    "Hard drives?",
+    "Not included — 2 bays."
+   ],
+   [
+    "Face recognition?",
+    "Yes, 2 channels."
+   ],
+   [
+    "Full 5MP?",
+    "Only at low frame rates."
+   ]
+  ],
+  "source": "Dahua DH-XVR5216AN-I3 datasheet.",
+  "image": "products/51XVR5216AN-I3/image.png",
+  "onepager": "products/51XVR5216AN-I3/onepager.pdf"
+ },
+ {
+  "code": "51KTP02",
+  "name": "Dahua KTP02 IP Video Intercom Kit",
+  "brand": "Dahua",
+  "category": "Access Control › Intercoms",
+  "subtitle": "Villa door station VTO2111D-P-S3 + 7\" monitor VTH2421FB-P · PoE",
+  "tagline": "IP video intercom kit with app calling — card unlock, 7\" touchscreen and PoE wiring.",
+  "note": "Product photo shows a PoE switch with the kit. Confirm what's in the box before quoting.",
+  "keywords": [
+   "KTP02",
+   "Dahua intercom",
+   "VTO2111D",
+   "VTH2421FB",
+   "video intercom",
+   "IP intercom",
+   "kit",
+   "PoE",
+   "DMSS"
+  ],
+  "kpis": [
+   {
+    "v": "7\"",
+    "l": "touchscreen"
+   },
+   {
+    "v": "2 MP",
+    "l": "door camera"
+   },
+   {
+    "v": "App",
+    "l": "call & unlock"
+   },
+   {
+    "v": "10,000",
+    "l": "cards"
+   }
+  ],
+  "bestFor": [
+   "Homes and small offices",
+   "Answering the gate from a phone",
+   "IP/CAT6 installs"
+  ],
+  "notFor": [
+   "Multi-tenant buildings",
+   "2-wire coax retrofits"
+  ],
+  "features": [
+   "<b>App calling</b> — talk and unlock remotely",
+   "Card unlock (IC) at the door station",
+   "Controls two locks",
+   "Monitor views Dahua IP cameras",
+   "Leave video messages (SD card in monitor)"
+  ],
+  "specs": [
+   [
+    "Door station",
+    "VTO2111D-P-S3 · 2 MP · 107° H · IP65 (with sealant)"
+   ],
+   [
+    "Monitor",
+    "VTH2421FB-P · 7\" 1024 × 600"
+   ],
+   [
+    "Power",
+    "Standard PoE (both units)"
+   ],
+   [
+    "Door temp",
+    "−30 to +60 °C"
+   ]
+  ],
+  "qa": [
+   [
+    "Phone app?",
+    "Yes — call and unlock from the app."
+   ],
+   [
+    "Cards?",
+    "IC cards, up to 10,000."
+   ],
+   [
+    "Power?",
+    "PoE — confirm switch is in the box."
+   ]
+  ],
+  "source": "Dahua DHI-KTP02 IP Video Intercom Kit datasheet.",
+  "image": "products/51KTP02/image.png",
+  "onepager": "products/51KTP02/onepager.pdf"
+ },
+ {
+  "code": "38TC-C35SS",
+  "name": "Tiandy 5MP Pro Varifocal Turret",
+  "brand": "Tiandy",
+  "category": "Surveillance › IP cameras",
+  "subtitle": "TC-C35SS · 2.7–13.5 mm motorised · IR 30 m · mic · IP66",
+  "tagline": "5MP turret with motorised zoom, face capture and human/vehicle classification.",
+  "keywords": [
+   "TC-C35SS",
+   "C35SS",
+   "turret",
+   "varifocal",
+   "motorised",
+   "5MP",
+   "Tiandy",
+   "Pro",
+   "mic"
+  ],
+  "kpis": [
+   {
+    "v": "5 MP",
+    "l": "2880×1620"
+   },
+   {
+    "v": "2.7–13.5",
+    "l": "mm motorised"
+   },
+   {
+    "v": "30 m",
+    "l": "IR"
+   },
+   {
+    "v": "512 GB",
+    "l": "microSD"
+   }
+  ],
+  "bestFor": [
+   "Entrances, car ports, shops",
+   "Views that need zooming after install",
+   "Tiandy NVR systems"
+  ],
+  "notFor": [
+   "Long-range night views (30 m IR)"
+  ],
+  "features": [
+   "<b>Motorised zoom</b>",
+   "Face capture · human/vehicle classification",
+   "Built-in mic",
+   "Metal housing · IP66"
+  ],
+  "specs": [
+   [
+    "Sensor",
+    "1/2.7\" CMOS"
+   ],
+   [
+    "Field of view",
+    "98°–32° H"
+   ],
+   [
+    "Power",
+    "12 VDC (7.5 W) / PoE 802.3af (8.5 W)"
+   ],
+   [
+    "Size / weight",
+    "132 × 132 × 108 mm · 0.9 kg"
+   ]
+  ],
+  "coverage": {
+   "title": "DORI distances (wide–tele)",
+   "rows": [
+    [
+     "Detect",
+     "56–240 m"
+    ],
+    [
+     "Observe",
+     "22–95 m"
+    ],
+    [
+     "Recognise",
+     "11–48 m"
+    ],
+    [
+     "Identify",
+     "5.6–24 m",
+     true
+    ]
+   ]
+  },
+  "qa": [
+   [
+    "Zoom?",
+    "Motorised 2.7–13.5 mm."
+   ],
+   [
+    "Sound?",
+    "Built-in mic."
+   ],
+   [
+    "SD card?",
+    "Up to 512 GB."
+   ]
+  ],
+  "source": "Tiandy TC-C35SS spec sheet (V4.0).",
+  "image": "products/38TC-C35SS/image.png",
+  "onepager": "products/38TC-C35SS/onepager.pdf"
+ },
+ {
+  "code": "38TC-H344S-25",
+  "name": "Tiandy 4MP 25× PTZ",
+  "brand": "Tiandy",
+  "category": "Surveillance › IP cameras",
+  "subtitle": "TC-H344S · 25× zoom · IR 150 m · auto-tracking · IP66",
+  "tagline": "4MP PTZ with 25× zoom, 150 m IR and auto-tracking — for yards and car parks.",
+  "keywords": [
+   "TC-H344S",
+   "H344S",
+   "PTZ",
+   "speed dome",
+   "25x",
+   "zoom",
+   "4MP",
+   "Tiandy",
+   "auto tracking"
+  ],
+  "kpis": [
+   {
+    "v": "25×",
+    "l": "optical zoom"
+   },
+   {
+    "v": "150 m",
+    "l": "IR"
+   },
+   {
+    "v": "4 MP",
+    "l": "2560×1440"
+   },
+   {
+    "v": "500",
+    "l": "presets"
+   }
+  ],
+  "bestFor": [
+   "Car parks, yards, estates",
+   "Following people and vehicles",
+   "Tiandy NVR systems"
+  ],
+  "notFor": [
+   "802.3af PoE switches (needs 802.3at)"
+  ],
+  "features": [
+   "<b>Auto-tracking</b>",
+   "Face capture · human/vehicle classification",
+   "MicroSD up to 512 GB",
+   "IP66, 6 kV lightning protection"
+  ],
+  "specs": [
+   [
+    "Lens",
+    "4.8–120 mm · 16× digital"
+   ],
+   [
+    "Preset speed",
+    "180°/s"
+   ],
+   [
+    "Power",
+    "12 VDC ±10% or PoE 802.3at"
+   ],
+   [
+    "Size / weight",
+    "Ø161 × 276 mm · 3 kg"
+   ]
+  ],
+  "qa": [
+   [
+    "PoE?",
+    "Yes — 802.3at (PoE+)."
+   ],
+   [
+    "Night range?",
+    "IR up to 150 m."
+   ],
+   [
+    "Tracking?",
+    "Yes, auto-tracking."
+   ]
+  ],
+  "source": "Tiandy TC-H344S spec sheet (V3.0).",
+  "image": "products/38TC-H344S-25/image.png",
+  "onepager": "products/38TC-H344S-25/onepager.pdf"
+ },
+ {
+  "code": "39KT-MUL-MT",
+  "name": "Kantech ioSmart Mullion Reader (Multi-Tech)",
+  "brand": "Kantech",
+  "category": "Access Control › Readers",
+  "subtitle": "KT-MUL-MT · 13.56 MHz + 125 kHz + BLE mobile · Wiegand / RS-485",
+  "tagline": "Slim encrypted reader — ioSmart, MIFARE, ioProx/HID Prox and smartphone keys in one.",
+  "keywords": [
+   "KT-MUL-MT",
+   "ioSmart",
+   "mullion",
+   "reader",
+   "Kantech",
+   "MIFARE",
+   "ioProx",
+   "HID Prox",
+   "BLE",
+   "mobile",
+   "RS-485",
+   "Wiegand"
+  ],
+  "kpis": [
+   {
+    "v": "3-in-1",
+    "l": "125k + 13.56M + BLE"
+   },
+   {
+    "v": "AES",
+    "l": "end-to-end (RS-485)"
+   },
+   {
+    "v": "8.5–16 V",
+    "l": "DC"
+   },
+   {
+    "v": "−40–70 °C",
+    "l": "operating"
+   }
+  ],
+  "bestFor": [
+   "Kantech KT-1 / KT-400 doors",
+   "Upgrading from ioProx to smart cards",
+   "Mobile phone access"
+  ],
+  "notFor": [
+   "Keypad entry (sell KT-MUL-MT-KP)"
+  ],
+  "features": [
+   "<b>Reads ioProx, HID Prox, ioSmart, MIFARE Plus EV1</b>",
+   "<b>Bluetooth mobile keys</b>",
+   "Auto-detects Wiegand or RS-485",
+   "Optical tamper · configurable LED bar",
+   "Panel-less BLE mode with lock output"
+  ],
+  "specs": [
+   [
+    "Current",
+    "120 mA peak / 70 mA average @ 12 V"
+   ],
+   [
+    "Read range",
+    "125 kHz up to 5.1 cm · 13.56 MHz up to 3.8 cm"
+   ],
+   [
+    "Size / weight",
+    "115.8 × 44.6 × 24.7 mm · 110 g"
+   ],
+   [
+    "Wiring",
+    "6-pole screwless terminal"
+   ]
+  ],
+  "models": [
+   [
+    "KT-MUL-SC",
+    "13.56 MHz only"
+   ],
+   [
+    "KT-MUL-MT",
+    "Multi-tech — <b>this unit</b>",
+    true
+   ],
+   [
+    "KT-MUL-MT-KP",
+    "Multi-tech + keypad"
+   ]
+  ],
+  "qa": [
+   [
+    "Old Kantech cards?",
+    "Yes — reads ioProx."
+   ],
+   [
+    "Phone as card?",
+    "Yes, ioSmart BLE mobile keys."
+   ],
+   [
+    "Encryption?",
+    "AES-128 end to end in RS-485 mode."
+   ]
+  ],
+  "source": "Kantech ioSmart Card Reader installation guide (DN2187-2007).",
+  "image": "products/39KT-MUL-MT/image.png",
+  "onepager": "products/39KT-MUL-MT/onepager.pdf"
+ },
+ {
+  "code": "41AFA-0001",
+  "name": "Texecom Premier Elite AM Series (Grade 3)",
+  "brand": "Texecom",
+  "category": "Intrusion › Detectors",
+  "subtitle": "Grade 3 anti-masking detectors · AMQD / AMDT / AM360 QD",
+  "tagline": "Grade 3 anti-masking detectors for high-security commercial sites.",
+  "note": "Datasheet covers the whole Premier Elite AM range (AMQD, AMDT, AM360 QD). Confirm which model this stock code is.",
+  "keywords": [
+   "Premier Elite AM",
+   "AMQD",
+   "AMDT",
+   "AM360",
+   "AFA-0001",
+   "anti mask",
+   "anti-masking",
+   "Grade 3",
+   "Texecom"
+  ],
+  "kpis": [
+   {
+    "v": "Grade 3",
+    "l": "EN50131"
+   },
+   {
+    "v": "15 m",
+    "l": "AMQD / AMDT"
+   },
+   {
+    "v": "Active IR",
+    "l": "anti-mask"
+   },
+   {
+    "v": "T-EOL",
+    "l": "1 pair"
+   }
+  ],
+  "bestFor": [
+   "Banks, jewellers, high-risk commercial",
+   "Insurance-required Grade 3 sites",
+   "Sites where detectors may be masked"
+  ],
+  "notFor": [
+   "Basic homes (Grade 2 is enough)",
+   "Pets roaming"
+  ],
+  "features": [
+   "<b>Active IR anti-masking</b>",
+   "Triple End-of-Line — alarm, tamper, mask, fault on one pair",
+   "Local & remote self test",
+   "Remote LED disable · wall tamper"
+  ],
+  "models": [
+   [
+    "AMQD",
+    "Quad PIR, 15 m"
+   ],
+   [
+    "AMDT",
+    "PIR + microwave, 15 m"
+   ],
+   [
+    "AM360 QD",
+    "Ceiling 360°, 10.5 m at 3.6 m"
+   ]
+  ],
+  "specs": [
+   [
+    "Size",
+    "113 × 60 × 40 mm (AMQD/AMDT)"
+   ],
+   [
+    "Weight",
+    "150–170 g"
+   ],
+   [
+    "Standards",
+    "EN50131 Grade 3 · Class II"
+   ]
+  ],
+  "qa": [
+   [
+    "Grade?",
+    "Grade 3."
+   ],
+   [
+    "Other panels?",
+    "Yes — T-EOL boards for other brands."
+   ],
+   [
+    "Which model?",
+    "Check the stock code."
+   ]
+  ],
+  "source": "Texecom Premier Elite AM Series datasheet (LIT-0164).",
+  "image": "products/41AFA-0001/image.png",
+  "onepager": "products/41AFA-0001/onepager.pdf"
+ },
+ {
+  "code": "41GBG-0001",
+  "name": "Texecom Premier Elite PA DP-W Wireless Panic",
+  "brand": "Texecom",
+  "category": "Intrusion › Wireless detectors",
+  "subtitle": "Wireless double-push panic button · Ricochet · silent",
+  "tagline": "Wireless double-push panic button — silent, reliable, and placed wherever it's needed.",
+  "keywords": [
+   "PA DP-W",
+   "PADP-W",
+   "GBG-0001",
+   "panic button",
+   "hold up",
+   "wireless",
+   "Ricochet",
+   "Texecom",
+   "Elmdene"
+  ],
+  "kpis": [
+   {
+    "v": "4 yrs",
+    "l": "battery"
+   },
+   {
+    "v": "Double push",
+    "l": "no false trips"
+   },
+   {
+    "v": "Silent",
+    "l": "operation"
+   },
+   {
+    "v": "Grade 2",
+    "l": "Class II"
+   }
+  ],
+  "bestFor": [
+   "Reception desks and tills",
+   "Bedrooms and entrances in homes",
+   "Staff safety"
+  ],
+  "notFor": [
+   "Panels older than V2.08"
+  ],
+  "features": [
+   "<b>Double push</b> — prevents accidental activation",
+   "ACPO 10-point plan compliant",
+   "Ricochet mesh",
+   "Made with Elmdene"
+  ],
+  "specs": [
+   [
+    "Panels",
+    "Premier Elite V2.08+ · XP-W V2.00+"
+   ],
+   [
+    "Size / weight",
+    "123 × 62 × 30 mm · 160 g"
+   ],
+   [
+    "Operating temp",
+    "−10 to +40 °C"
+   ]
+  ],
+  "qa": [
+   [
+    "Accidental presses?",
+    "Needs a double push."
+   ],
+   [
+    "Battery?",
+    "Up to 4 years."
+   ],
+   [
+    "Silent?",
+    "Yes."
+   ]
+  ],
+  "source": "Texecom Premier Elite PA DP-W datasheet.",
+  "image": "products/41GBG-0001/image.png",
+  "onepager": "products/41GBG-0001/onepager.pdf"
+ },
+ {
+  "code": "41GBW-0001",
+  "name": "Texecom Premier External TD-W",
+  "brand": "Texecom",
+  "category": "Intrusion › Outdoor detectors",
+  "subtitle": "Wireless outdoor dual-PIR · 12 m · Ricochet · IP65",
+  "tagline": "Wireless outdoor detector with twin PIRs — also great for triggering lights and cameras.",
+  "keywords": [
+   "External TD-W",
+   "TD-W",
+   "GBW-0001",
+   "outdoor PIR",
+   "external",
+   "wireless",
+   "Ricochet",
+   "Texecom"
+  ],
+  "kpis": [
+   {
+    "v": "12 m",
+    "l": "90° adjustable"
+   },
+   {
+    "v": "4 yrs",
+    "l": "2 × AA lithium"
+   },
+   {
+    "v": "IP65",
+    "l": "outdoor"
+   },
+   {
+    "v": "Dual PIR",
+    "l": "mirror optics"
+   }
+  ],
+  "bestFor": [
+   "Gardens, drives, side passages",
+   "Wire-free outdoor protection",
+   "Triggering lights and cameras"
+  ],
+  "notFor": [
+   "Non-Ricochet panels"
+  ],
+  "features": [
+   "<b>Two non-overlapping PIRs</b> — mirrored optics",
+   "Range 12/8/5/2 m · rotates 180°",
+   "Day/night mode",
+   "Batteries supplied"
+  ],
+  "specs": [
+   [
+    "Mount height",
+    "1.0–1.4 m (1.2 m nominal)"
+   ],
+   [
+    "Battery",
+    "2 × AA lithium (supplied)"
+   ],
+   [
+    "Frequency",
+    "868 MHz"
+   ],
+   [
+    "Size / weight",
+    "250 × 86.5 × 89 mm · 580 g"
+   ],
+   [
+    "Operating temp",
+    "−35 to +55 °C"
+   ]
+  ],
+  "models": [
+   [
+    "External TD",
+    "Wired version"
+   ],
+   [
+    "External TD-W",
+    "Wireless — <b>this unit</b>",
+    true
+   ]
+  ],
+  "qa": [
+   [
+    "Colour?",
+    "Black or white — confirm the stock item."
+   ],
+   [
+    "Battery?",
+    "2 × AA lithium, up to 4 years."
+   ],
+   [
+    "Wired panels?",
+    "Sell the wired External TD."
+   ]
+  ],
+  "source": "Texecom Premier External TD-W datasheet.",
+  "image": "products/41GBW-0001/image.png",
+  "onepager": "products/41GBW-0001/onepager.pdf"
+ },
+ {
+  "code": "41AFQ-0001",
+  "name": "Texecom Premier External TD",
+  "brand": "Texecom",
+  "category": "Intrusion › Outdoor detectors",
+  "subtitle": "Wired outdoor dual-PIR · 12 m · IP65",
+  "tagline": "Wired outdoor detector with twin mirrored PIRs — tough enough for harsh outdoor spots.",
+  "keywords": [
+   "External TD",
+   "AFQ-0001",
+   "outdoor PIR",
+   "external",
+   "wired",
+   "Texecom",
+   "Premier"
+  ],
+  "kpis": [
+   {
+    "v": "12 m",
+    "l": "90° adjustable"
+   },
+   {
+    "v": "28 mA",
+    "l": "9–16 VDC"
+   },
+   {
+    "v": "IP65",
+    "l": "sealed"
+   },
+   {
+    "v": "Dual PIR",
+    "l": "mirror optics"
+   }
+  ],
+  "bestFor": [
+   "Gardens, drives, side passages",
+   "Hot climates (temperature compensation)",
+   "Wired alarm systems"
+  ],
+  "notFor": [
+   "Wireless systems (sell External TD-W)"
+  ],
+  "features": [
+   "<b>Two non-overlapping PIRs</b>",
+   "Aux input to wire more detectors",
+   "No disassembly to install",
+   "Day/night mode · high white-light immunity"
+  ],
+  "specs": [
+   [
+    "Power",
+    "9–16 VDC · 28 mA"
+   ],
+   [
+    "Alarm relay",
+    "NC/NO 50 VDC 100 mA"
+   ],
+   [
+    "Mount height",
+    "1.0–1.4 m"
+   ],
+   [
+    "Size / weight",
+    "250 × 86.5 × 87 mm · 550 g"
+   ],
+   [
+    "Operating temp",
+    "−35 to +55 °C"
+   ]
+  ],
+  "models": [
+   [
+    "External TD",
+    "Wired — <b>this unit</b>",
+    true
+   ],
+   [
+    "External TD-W",
+    "Wireless"
+   ]
+  ],
+  "qa": [
+   [
+    "Colour?",
+    "Confirm on the stock item."
+   ],
+   [
+    "Range?",
+    "12 m, adjustable to 8/5/2 m."
+   ],
+   [
+    "Outdoor?",
+    "Yes, IP65."
+   ]
+  ],
+  "source": "Texecom Premier External TD datasheet (LIT-0119-2).",
+  "image": "products/41AFQ-0001/image.png",
+  "onepager": "products/41AFQ-0001/onepager.pdf"
+ },
+ {
+  "code": "07WXI-ST",
+  "name": "Optex WXI-ST 180° Outdoor PIR",
+  "brand": "Optex",
+  "category": "Intrusion › Outdoor detectors",
+  "subtitle": "WX Infinity wired 180° panoramic PIR · 12 m · IP55",
+  "tagline": "Wall-to-wall 180° outdoor PIR with separate left and right zones and outputs.",
+  "keywords": [
+   "WXI-ST",
+   "WXI",
+   "WX Infinity",
+   "180",
+   "panoramic",
+   "outdoor PIR",
+   "Optex"
+  ],
+  "kpis": [
+   {
+    "v": "180°",
+    "l": "12 m"
+   },
+   {
+    "v": "2 zones",
+    "l": "left / right"
+   },
+   {
+    "v": "IP55",
+    "l": "outdoor"
+   },
+   {
+    "v": "21 mA",
+    "l": "@ 12 V"
+   }
+  ],
+  "bestFor": [
+   "Walls of a house — one unit covers both ways",
+   "Triggering PTZ presets left/right",
+   "Day/night pattern changes"
+  ],
+  "notFor": [
+   "Masking-prone sites (WXI-AM)",
+   "Mounting above 1.2 m"
+  ],
+  "features": [
+   "<b>Independent left & right</b> areas and outputs",
+   "Adjustable range 2.5–12 m per side",
+   "Sliding masking shutters",
+   "Plug-in EOL · pole mount plate"
+  ],
+  "specs": [
+   [
+    "Power",
+    "9.5–18 VDC · 21 mA"
+   ],
+   [
+    "Mount height",
+    "0.8–1.2 m"
+   ],
+   [
+    "Weight",
+    "420 g"
+   ]
+  ],
+  "models": [
+   [
+    "WXI-ST",
+    "Wired — <b>this unit</b>",
+    true
+   ],
+   [
+    "WXI-AM",
+    "Wired + anti-mask"
+   ],
+   [
+    "WXI-R / RAM",
+    "Battery versions"
+   ]
+  ],
+  "qa": [
+   [
+    "Both sides?",
+    "Yes — separate outputs."
+   ],
+   [
+    "Anti-mask?",
+    "WXI-AM."
+   ],
+   [
+    "Wireless?",
+    "WXI-R with a transmitter."
+   ]
+  ],
+  "source": "Optex WX Infinity series brochure.",
+  "image": "products/07WXI-ST/image.png",
+  "onepager": "products/07WXI-ST/onepager.pdf"
+ },
+ {
+  "code": "07BXS-R",
+  "name": "Optex BXS-R Battery Curtain Detector",
+  "brand": "Optex",
+  "category": "Intrusion › Outdoor detectors",
+  "subtitle": "BX Shield battery curtain PIR · 12 m each side · IP55",
+  "tagline": "Battery outdoor curtain detector — 12 m each side, pairs with a wireless transmitter.",
+  "imageNote": "Image may show the white model",
+  "keywords": [
+   "BXS-R",
+   "BX Shield",
+   "BXS",
+   "curtain",
+   "boundary",
+   "outdoor PIR",
+   "battery",
+   "wireless",
+   "Optex"
+  ],
+  "kpis": [
+   {
+    "v": "2 × 12 m",
+    "l": "curtain"
+   },
+   {
+    "v": "4 PIR",
+    "l": "sensors"
+   },
+   {
+    "v": "IP55",
+    "l": "outdoor"
+   },
+   {
+    "v": "3–9 V",
+    "l": "battery"
+   }
+  ],
+  "bestFor": [
+   "Walls and windows of a house",
+   "Wireless alarm systems (with transmitter)",
+   "Narrow boundaries"
+  ],
+  "notFor": [
+   "Open areas (use WXI or VXI)",
+   "Masking-prone sites (BXS-RAM)"
+  ],
+  "features": [
+   "<b>4 PIR sensors</b> — tells big from small objects",
+   "Left/right range 2.5–12 m (5 steps)",
+   "Space for a wireless transmitter",
+   "Optional battery box RBB-01"
+  ],
+  "specs": [
+   [
+    "Power",
+    "3–9 VDC lithium or alkaline (not included)"
+   ],
+   [
+    "Mount height",
+    "0.8–1.2 m"
+   ],
+   [
+    "Rating",
+    "IP55"
+   ]
+  ],
+  "models": [
+   [
+    "BXS-ST",
+    "Wired"
+   ],
+   [
+    "BXS-AM",
+    "Wired + anti-mask"
+   ],
+   [
+    "BXS-R",
+    "Battery — <b>this unit</b>",
+    true
+   ],
+   [
+    "BXS-RAM",
+    "Battery + anti-mask"
+   ]
+  ],
+  "qa": [
+   [
+    "Batteries included?",
+    "No."
+   ],
+   [
+    "White version?",
+    "BXS-R (W)."
+   ],
+   [
+    "Transmitter?",
+    "Fits in the back box — sold separately."
+   ]
+  ],
+  "source": "Optex BX Shield brochure.",
+  "image": "products/07BXS-R/image.png",
+  "onepager": "products/07BXS-R/onepager.pdf"
+ },
+ {
+  "code": "07SIP-404",
+  "name": "Optex Redwall SIP-404 Long-Range PIR",
+  "brand": "Optex",
+  "category": "Intrusion › Outdoor detectors",
+  "subtitle": "REDWALL-V outdoor PIR · 40 × 4 m narrow · IP65",
+  "tagline": "Long, narrow 40 m outdoor PIR for fence lines and camera triggering.",
+  "keywords": [
+   "SIP-404",
+   "SIP404",
+   "Redwall",
+   "REDWALL-V",
+   "long range",
+   "outdoor PIR",
+   "Optex",
+   "fence"
+  ],
+  "kpis": [
+   {
+    "v": "40 × 4 m",
+    "l": "narrow zone"
+   },
+   {
+    "v": "IP65",
+    "l": "main unit"
+   },
+   {
+    "v": "2.3–4 m",
+    "l": "mount height"
+   },
+   {
+    "v": "35 mA",
+    "l": "@ 12 V"
+   }
+  ],
+  "bestFor": [
+   "Fence lines and long walls",
+   "Triggering CCTV presets",
+   "Commercial perimeters"
+  ],
+  "notFor": [
+   "Wide open areas (SIP-3020)"
+  ],
+  "features": [
+   "<b>Intelligent PIR</b> adjusts to temperature & light",
+   "Anti-masking & anti-rotation",
+   "Separate near/far sensitivity",
+   "N.C. and N.O. outputs"
+  ],
+  "specs": [
+   [
+    "Power",
+    "11–16 VDC or 22–26 VAC · 35 mA"
+   ],
+   [
+    "Operating temp",
+    "−25 to +60 °C (−40 with heater)"
+   ],
+   [
+    "Size / weight",
+    "227 × 102 × 266 mm · 1.2 kg"
+   ]
+  ],
+  "models": [
+   [
+    "SIP-3020",
+    "30 × 20 m wide"
+   ],
+   [
+    "SIP-4010",
+    "40 × 10 m"
+   ],
+   [
+    "SIP-404",
+    "40 × 4 m narrow — <b>this unit</b>",
+    true
+   ]
+  ],
+  "qa": [
+   [
+    "Range?",
+    "40 m long, 4 m wide."
+   ],
+   [
+    "Mount height?",
+    "2.3–4 m."
+   ],
+   [
+    "Cold areas?",
+    "Optional SIP-HU heater."
+   ]
+  ],
+  "source": "Optex REDWALL SIP-3020/4010/404 datasheet.",
+  "image": "products/07SIP-404/image.png",
+  "onepager": "products/07SIP-404/onepager.pdf"
+ },
+ {
+  "code": "94GT-1C7",
+  "name": "Aiphone GT-1C7 Video Tenant Station",
+  "brand": "Aiphone",
+  "category": "Access Control › Intercoms",
+  "subtitle": "GT Series 7\" colour monitor · hands-free · multi-tenant",
+  "tagline": "7-inch hands-free monitor for each apartment in a GT multi-tenant system.",
+  "imageNote": "Product drawing — no photo in the datasheet",
+  "keywords": [
+   "GT-1C7",
+   "GT1C7",
+   "Aiphone",
+   "GT series",
+   "monitor",
+   "tenant station",
+   "apartment",
+   "video intercom"
+  ],
+  "kpis": [
+   {
+    "v": "7\"",
+    "l": "colour LCD"
+   },
+   {
+    "v": "Hands-free",
+    "l": "or push-to-talk"
+   },
+   {
+    "v": "24 VDC",
+    "l": "from GT-BC"
+   },
+   {
+    "v": "610 g",
+    "l": "weight"
+   }
+  ],
+  "bestFor": [
+   "Apartments and complexes on GT systems",
+   "Calling a guard station",
+   "Doctor's call / emergency input"
+  ],
+  "notFor": [
+   "Single-family homes (JO/JP series)",
+   "Non-GT systems"
+  ],
+  "features": [
+   "Zoom/wide and pan/tilt of door camera",
+   "Door release button",
+   "Guard station call",
+   "Doorbell and emergency inputs"
+  ],
+  "specs": [
+   [
+    "Power",
+    "24 VDC from GT-BC / GT-VBC"
+   ],
+   [
+    "Display",
+    "7\" TFT, 800 × 480"
+   ],
+   [
+    "Mounting",
+    "Surface wall"
+   ],
+   [
+    "Operating temp",
+    "0 to +40 °C"
+   ]
+  ],
+  "qa": [
+   [
+    "Which system?",
+    "Aiphone GT multi-tenant."
+   ],
+   [
+    "Power?",
+    "From the GT-BC bus control."
+   ],
+   [
+    "Doorbell?",
+    "Yes, 1 optional doorbell."
+   ]
+  ],
+  "source": "Aiphone GT-1C7 spec sheet (2017).",
+  "image": "products/94GT-1C7/image.png",
+  "onepager": "products/94GT-1C7/onepager.pdf"
+ },
+ {
+  "code": "78LS600S",
+  "name": "Ebelco LS-600 L-Bracket",
+  "brand": "Ebelco",
+  "category": "Access Control › Locks",
+  "subtitle": "L-bracket for 600 lb maglock · out-swing doors",
+  "tagline": "Mounting bracket for fitting a 600 lb maglock on an out-swinging door.",
+  "imageNote": "Installation drawing",
+  "keywords": [
+   "LS-600",
+   "LS600",
+   "LS600S",
+   "L bracket",
+   "bracket",
+   "maglock bracket",
+   "Ebelco",
+   "out swing"
+  ],
+  "kpis": [
+   {
+    "v": "600",
+    "l": "lb maglocks"
+   },
+   {
+    "v": "Out-swing",
+    "l": "doors"
+   },
+   {
+    "v": "250 mm",
+    "l": "length"
+   },
+   {
+    "v": "Allen key",
+    "l": "included"
+   }
+  ],
+  "bestFor": [
+   "Out-swing doors with no flat frame face",
+   "Ebelco 600-series maglocks"
+  ],
+  "notFor": [
+   "In-swing doors (use Z or U bracket)",
+   "Glass doors (U bracket)"
+  ],
+  "features": [
+   "Fixes maglock to the frame head",
+   "Fixing screws × 2 and Allen key"
+  ],
+  "specs": [
+   [
+    "Length",
+    "250 mm"
+   ],
+   [
+    "Profile",
+    "38.1 × 38.1 mm"
+   ]
+  ],
+  "models": [
+   [
+    "LS-600",
+    "L-bracket — <b>this unit</b>",
+    true
+   ],
+   [
+    "ZL-600",
+    "Z/L bracket for in-swing"
+   ],
+   [
+    "U1-600",
+    "U bracket for glass"
+   ]
+  ],
+  "qa": [
+   [
+    "Which locks?",
+    "Ebelco 600 lb maglocks."
+   ],
+   [
+    "In-swing door?",
+    "Use the ZL bracket."
+   ],
+   [
+    "Glass door?",
+    "Use the U1 bracket."
+   ]
+  ],
+  "source": "Ebelco LS-600 optional bracket sheet.",
+  "image": "products/78LS600S/image.png",
+  "onepager": "products/78LS600S/onepager.pdf"
  }
 ]
