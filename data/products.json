@@ -16026,5 +16026,2134 @@
   "source": "DSC PG8945/PG4945 datasheet (PN 30002190).",
   "onepager": "products/22PG8945/onepager.pdf",
   "note": "This is the 868 MHz model. Check it matches the customer's PowerG receiver frequency."
+ },
+ {
+  "code": "51IPC-HFW2431TP-ZS-27135",
+  "name": "Dahua 4MP Lite Varifocal Bullet IP Camera",
+  "brand": "Dahua",
+  "category": "Surveillance › IP cameras",
+  "subtitle": "DH-IPC-HFW2431T-ZS-S2 · 2.7–13.5 mm motorised · IR 60 m · IP67",
+  "tagline": "Zoom-lens 4MP bullet — set the view from the app, 60 m IR for long driveways and yards.",
+  "keywords": [
+   "HFW2431T",
+   "2431",
+   "varifocal",
+   "motorised",
+   "motorized",
+   "zoom",
+   "bullet",
+   "IP camera",
+   "4MP",
+   "Lite",
+   "Dahua"
+  ],
+  "kpis": [
+   {
+    "v": "4 MP",
+    "l": "2560×1440"
+   },
+   {
+    "v": "2.7–13.5",
+    "l": "mm motorised"
+   },
+   {
+    "v": "60 m",
+    "l": "IR night"
+   },
+   {
+    "v": "PoE",
+    "l": "or 12 V"
+   }
+  ],
+  "bestFor": [
+   "Long driveways, yards, car parks",
+   "Views that need zooming in after install",
+   "Perimeters with a mix of near and far"
+  ],
+  "notFor": [
+   "Audio (no mic)",
+   "Tight budgets where a fixed lens will do"
+  ],
+  "features": [
+   "<b>Motorised zoom</b> — adjust remotely",
+   "<b>60 m IR</b>",
+   "Intrusion & tripwire detection",
+   "MicroSD up to 256 GB",
+   "IP67 (IK10 on some models)"
+  ],
+  "specs": [
+   [
+    "Sensor",
+    "1/3\" 4MP CMOS"
+   ],
+   [
+    "Lens",
+    "2.7–13.5 mm · F1.5 · 104°–27° H"
+   ],
+   [
+    "Power",
+    "12 VDC / PoE 802.3af · <9.6 W"
+   ],
+   [
+    "Weight",
+    "0.86 kg"
+   ]
+  ],
+  "coverage": {
+   "title": "DORI distances (wide 2.7 mm)",
+   "rows": [
+    [
+     "Detect",
+     "64 m"
+    ],
+    [
+     "Observe",
+     "25.6 m"
+    ],
+    [
+     "Recognise",
+     "12.8 m"
+    ],
+    [
+     "Identify",
+     "6.4 m",
+     true
+    ]
+   ]
+  },
+  "qa": [
+   [
+    "Zoom from the app?",
+    "Yes — motorised lens."
+   ],
+   [
+    "Sound?",
+    "No mic."
+   ],
+   [
+    "SD card?",
+    "Up to 256 GB."
+   ]
+  ],
+  "source": "Dahua DH-IPC-HFW2431T-ZS-S2 datasheet.",
+  "image": "products/51IPC-HFW2431TP-ZS-27135/image.png",
+  "onepager": "products/51IPC-HFW2431TP-ZS-27135/onepager.pdf"
+ },
+ {
+  "code": "51IPC-HDW2439TP-AS-LED-0280B-S",
+  "name": "Dahua 4MP Full-Colour Eyeball IP Camera 2.8 mm",
+  "brand": "Dahua",
+  "category": "Surveillance › IP cameras",
+  "subtitle": "DH-IPC-HDW2439T-AS-LED-S2 · warm light 30 m · mic · IP67",
+  "tagline": "4MP eyeball that stays in colour at night — warm light up to 30 m and a built-in mic.",
+  "keywords": [
+   "HDW2439T",
+   "2439",
+   "full colour",
+   "full color",
+   "eyeball",
+   "turret",
+   "IP camera",
+   "4MP",
+   "Lite",
+   "Dahua",
+   "mic",
+   "LED"
+  ],
+  "kpis": [
+   {
+    "v": "4 MP",
+    "l": "2560×1440"
+   },
+   {
+    "v": "24/7",
+    "l": "colour"
+   },
+   {
+    "v": "30 m",
+    "l": "warm light"
+   },
+   {
+    "v": "PoE",
+    "l": "or 12 V"
+   }
+  ],
+  "bestFor": [
+   "Shopfronts, entrances, car ports",
+   "Colour evidence at night (clothes, cars)",
+   "Sites wanting audio"
+  ],
+  "notFor": [
+   "Places where a visible light would annoy neighbours",
+   "Covert monitoring"
+  ],
+  "features": [
+   "<b>Full-colour</b> — F1.0 lens + warm light",
+   "<b>Built-in mic</b>",
+   "Intrusion & tripwire detection",
+   "MicroSD up to 256 GB",
+   "IP67"
+  ],
+  "specs": [
+   [
+    "Sensor",
+    "1/3\" 4MP CMOS"
+   ],
+   [
+    "Lens",
+    "2.8 mm fixed · 96° H"
+   ],
+   [
+    "Power",
+    "12 VDC / PoE 802.3af"
+   ],
+   [
+    "Mounts",
+    "PFA130-E junction box · PFB203W wall · PFA152-E pole"
+   ]
+  ],
+  "coverage": {
+   "title": "DORI distances (2.8 mm)",
+   "rows": [
+    [
+     "Detect",
+     "56 m"
+    ],
+    [
+     "Observe",
+     "22.4 m"
+    ],
+    [
+     "Recognise",
+     "11.2 m"
+    ],
+    [
+     "Identify",
+     "5.6 m",
+     true
+    ]
+   ]
+  },
+  "qa": [
+   [
+    "Colour at night?",
+    "Yes — warm light, up to 30 m."
+   ],
+   [
+    "Sound?",
+    "Yes, built-in mic."
+   ],
+   [
+    "Junction box?",
+    "PFA130-E."
+   ]
+  ],
+  "source": "Dahua DH-IPC-HDW2439T-AS-LED-S2 datasheet.",
+  "image": "products/51IPC-HDW2439TP-AS-LED-0280B-S/image.png",
+  "onepager": "products/51IPC-HDW2439TP-AS-LED-0280B-S/onepager.pdf"
+ },
+ {
+  "code": "51HAC-B1A21P-0280B",
+  "name": "Dahua 2MP Cooper HDCVI Bullet 2.8 mm",
+  "brand": "Dahua",
+  "category": "Surveillance › Analogue cameras",
+  "subtitle": "DH-HAC-B1A21 · 4-in-1 · IR 20 m · IP67 · plastic",
+  "tagline": "Entry-level 2MP coax bullet — budget kits and simple home systems.",
+  "keywords": [
+   "B1A21",
+   "HAC-B1A21",
+   "Cooper",
+   "bullet",
+   "HDCVI",
+   "2MP",
+   "analogue",
+   "coax",
+   "Dahua",
+   "4-in-1",
+   "budget"
+  ],
+  "kpis": [
+   {
+    "v": "2 MP",
+    "l": "1080p"
+   },
+   {
+    "v": "20 m",
+    "l": "Smart IR"
+   },
+   {
+    "v": "4-in-1",
+    "l": "CVI/TVI/AHD/CVBS"
+   },
+   {
+    "v": "IP67",
+    "l": "outdoor"
+   }
+  ],
+  "bestFor": [
+   "Budget home and small-shop systems",
+   "Replacing old analogue cameras on coax",
+   "DVR kits"
+  ],
+  "notFor": [
+   "Long views (20 m IR)",
+   "Vandal-prone spots (plastic housing)"
+  ],
+  "features": [
+   "Switchable CVI/TVI/AHD/CVBS output",
+   "Smart IR",
+   "12 V ±30% wide-voltage input",
+   "Up to 700 m over coax"
+  ],
+  "specs": [
+   [
+    "Lens",
+    "2.8 mm fixed · F2.0 · 100° H"
+   ],
+   [
+    "Power",
+    "12 VDC · max 2.8 W"
+   ],
+   [
+    "Housing",
+    "Plastic · IP67"
+   ],
+   [
+    "Size / weight",
+    "149 × 70 × 70 mm · 0.14 kg"
+   ]
+  ],
+  "coverage": {
+   "title": "DORI distances (2.8 mm)",
+   "rows": [
+    [
+     "Detect",
+     "44.7 m"
+    ],
+    [
+     "Observe",
+     "17.9 m"
+    ],
+    [
+     "Recognise",
+     "8.9 m"
+    ],
+    [
+     "Identify",
+     "4.5 m",
+     true
+    ]
+   ]
+  },
+  "models": [
+   [
+    "HAC-B1A21",
+    "Bullet — <b>this unit</b>",
+    true
+   ],
+   [
+    "HAC-T1A21",
+    "Eyeball version"
+   ]
+  ],
+  "qa": [
+   [
+    "Old DVR?",
+    "Works if it reads CVI, TVI, AHD or CVBS."
+   ],
+   [
+    "Sound?",
+    "No."
+   ],
+   [
+    "Outdoors?",
+    "Yes, IP67."
+   ]
+  ],
+  "source": "Dahua DH-HAC-B1A21 datasheet.",
+  "image": "products/51HAC-B1A21P-0280B/image.png",
+  "onepager": "products/51HAC-B1A21P-0280B/onepager.pdf"
+ },
+ {
+  "code": "51HAC-T1A21P-U-0280B",
+  "name": "Dahua 2MP Cooper HDCVI Eyeball 2.8 mm",
+  "brand": "Dahua",
+  "category": "Surveillance › Analogue cameras",
+  "subtitle": "DH-HAC-T1A21-U · 4-in-1 · IR 25 m · plastic",
+  "tagline": "Quick-to-install 2MP coax eyeball — the budget dome for kits and small sites.",
+  "keywords": [
+   "T1A21",
+   "HAC-T1A21",
+   "Cooper",
+   "eyeball",
+   "dome",
+   "turret",
+   "HDCVI",
+   "2MP",
+   "analogue",
+   "coax",
+   "Dahua",
+   "budget"
+  ],
+  "kpis": [
+   {
+    "v": "2 MP",
+    "l": "1080p"
+   },
+   {
+    "v": "25 m",
+    "l": "Smart IR"
+   },
+   {
+    "v": "4-in-1",
+    "l": "CVI/TVI/AHD/CVBS"
+   },
+   {
+    "v": "0.11 kg",
+    "l": "light"
+   }
+  ],
+  "bestFor": [
+   "Indoor rooms, passages, shops",
+   "Budget DVR kits",
+   "Ceiling or wall mounting"
+  ],
+  "notFor": [
+   "Exposed outdoor spots (no IP rating on datasheet)",
+   "Audio"
+  ],
+  "features": [
+   "Switchable CVI/TVI/AHD/CVBS output",
+   "Smart IR",
+   "Quick-install eyeball design",
+   "12 V ±30% wide-voltage input"
+  ],
+  "specs": [
+   [
+    "Lens",
+    "2.8 mm fixed · 100° H"
+   ],
+   [
+    "Power",
+    "12 VDC · max 2.3 W"
+   ],
+   [
+    "Housing",
+    "Plastic"
+   ],
+   [
+    "Size / weight",
+    "Ø85 × 77 mm · 0.11 kg"
+   ]
+  ],
+  "coverage": {
+   "title": "DORI distances (2.8 mm)",
+   "rows": [
+    [
+     "Detect",
+     "44.7 m"
+    ],
+    [
+     "Observe",
+     "17.9 m"
+    ],
+    [
+     "Recognise",
+     "8.9 m"
+    ],
+    [
+     "Identify",
+     "4.5 m",
+     true
+    ]
+   ]
+  },
+  "models": [
+   [
+    "HAC-T1A21",
+    "Eyeball — <b>this unit</b>",
+    true
+   ],
+   [
+    "HAC-B1A21",
+    "Bullet version, IP67"
+   ]
+  ],
+  "qa": [
+   [
+    "Outdoors?",
+    "Datasheet gives no IP rating — check first."
+   ],
+   [
+    "Old DVR?",
+    "Works with CVI, TVI, AHD or CVBS."
+   ],
+   [
+    "Sound?",
+    "No."
+   ]
+  ],
+  "source": "Dahua DH-HAC-T1A21-U datasheet.",
+  "image": "products/51HAC-T1A21P-U-0280B/image.png",
+  "onepager": "products/51HAC-T1A21P-U-0280B/onepager.pdf"
+ },
+ {
+  "code": "51XVR5104HS-I",
+  "name": "Dahua 4-Ch 5MP WizSense XVR",
+  "brand": "Dahua",
+  "category": "Surveillance › Recorders (XVR)",
+  "subtitle": "DH-XVR5104HS-I3 · 4-ch Penta-brid 5MP Value / 1080p · 1 HDD",
+  "tagline": "Small 4-camera coax recorder with AI — SMD Plus, perimeter protection and face recognition.",
+  "keywords": [
+   "XVR5104",
+   "XVR5104HS",
+   "XVR",
+   "DVR",
+   "recorder",
+   "4 channel",
+   "5MP",
+   "Dahua",
+   "WizSense",
+   "face recognition"
+  ],
+  "kpis": [
+   {
+    "v": "4 + 2",
+    "l": "analogue + IP ch"
+   },
+   {
+    "v": "5MP",
+    "l": "cameras"
+   },
+   {
+    "v": "16 TB",
+    "l": "1 × HDD max"
+   },
+   {
+    "v": "SMD+",
+    "l": "4 ch"
+   }
+  ],
+  "bestFor": [
+   "Homes and small shops with up to 4 cameras",
+   "Cutting false alarms (human/vehicle)",
+   "Face recognition at the front door"
+  ],
+  "notFor": [
+   "Full-frame-rate 5MP",
+   "More than 6 cameras"
+  ],
+  "features": [
+   "<b>Penta-brid</b> — HDCVI, AHD, TVI, CVBS, IP (up to 6 IP ch)",
+   "<b>SMD Plus</b> + <b>perimeter</b> on 4 ch",
+   "<b>Face recognition</b> on 1 channel",
+   "AI Coding saves storage"
+  ],
+  "specs": [
+   [
+    "Recording",
+    "5M-N on all ch (1–12 fps)"
+   ],
+   [
+    "IP cameras",
+    "Up to 6, each up to 6MP, 32 Mbps"
+   ],
+   [
+    "Storage",
+    "1 × SATA, up to 16 TB"
+   ],
+   [
+    "Power",
+    "12 VDC 1.5 A · <5 W"
+   ],
+   [
+    "Hardware",
+    "Version 3.0 (I3)"
+   ]
+  ],
+  "models": [
+   [
+    "XVR5104HS-I3",
+    "4 ch — <b>this unit</b>",
+    true
+   ],
+   [
+    "XVR5108HE-I3",
+    "8 ch"
+   ],
+   [
+    "XVR5116HE-I3",
+    "16 ch"
+   ]
+  ],
+  "qa": [
+   [
+    "Hard drive?",
+    "Not included — up to 16 TB."
+   ],
+   [
+    "Full 5MP?",
+    "Only at low frame rates."
+   ],
+   [
+    "Face recognition?",
+    "Yes, 1 channel."
+   ]
+  ],
+  "source": "Dahua DH-XVR5104HS-I3 datasheet (HW v3.0).",
+  "image": "products/51XVR5104HS-I/image.png",
+  "onepager": "products/51XVR5104HS-I/onepager.pdf"
+ },
+ {
+  "code": "51NVR4108HS-8P-4KS2",
+  "name": "Dahua 8-Ch 8-PoE 4K Lite NVR",
+  "brand": "Dahua",
+  "category": "Surveillance › Recorders (NVR)",
+  "subtitle": "DHI-NVR4108HS-8P-4KS2 · 8 channels · 8 PoE ports · 1 HDD",
+  "tagline": "Plug-and-play 8-camera NVR — cameras plug straight into the built-in PoE ports.",
+  "keywords": [
+   "NVR4108HS-8P",
+   "NVR4108",
+   "NVR",
+   "recorder",
+   "8 channel",
+   "PoE",
+   "4K",
+   "Lite",
+   "Dahua"
+  ],
+  "kpis": [
+   {
+    "v": "8",
+    "l": "IP channels"
+   },
+   {
+    "v": "8 PoE",
+    "l": "ports, 72 W"
+   },
+   {
+    "v": "8MP",
+    "l": "cameras"
+   },
+   {
+    "v": "10 TB",
+    "l": "1 × HDD max"
+   }
+  ],
+  "bestFor": [
+   "Simple 8-camera IP installs",
+   "Homes and small businesses",
+   "Upgrading to IP without a PoE switch"
+  ],
+  "notFor": [
+   "AI on the recorder (AI is by camera only)",
+   "More than 8 cameras"
+  ],
+  "features": [
+   "<b>8 PoE ports</b> — plug in and go",
+   "4K HDMI output",
+   "AI by camera: perimeter, SMD Plus, people counting",
+   "ANR — fills gaps from camera SD after a network drop"
+  ],
+  "specs": [
+   [
+    "Bandwidth",
+    "80 Mbps in"
+   ],
+   [
+    "Storage",
+    "1 × SATA, up to 10 TB"
+   ],
+   [
+    "PoE",
+    "8 ports 802.3at/af · 72 W total"
+   ],
+   [
+    "Power",
+    "48 VDC 2 A"
+   ],
+   [
+    "Size / weight",
+    "260 × 233 × 48 mm · 0.8 kg"
+   ]
+  ],
+  "models": [
+   [
+    "NVR4108HS-8P-4KS2",
+    "8 ch, 8 PoE — <b>this unit</b>",
+    true
+   ],
+   [
+    "NVR4116HS-8P-4KS2",
+    "16 ch, 8 PoE"
+   ],
+   [
+    "NVR4108HS-EI",
+    "8 ch AI, no PoE"
+   ]
+  ],
+  "qa": [
+   [
+    "Need a PoE switch?",
+    "No — 8 PoE ports built in."
+   ],
+   [
+    "Hard drive?",
+    "Not included — up to 10 TB."
+   ],
+   [
+    "Face recognition?",
+    "Only with AI cameras."
+   ]
+  ],
+  "source": "Dahua DHI-NVR4108/4116HS-8P-4KS2 datasheet.",
+  "image": "products/51NVR4108HS-8P-4KS2/image.png",
+  "onepager": "products/51NVR4108HS-8P-4KS2/onepager.pdf"
+ },
+ {
+  "code": "51PFA130-E",
+  "name": "Dahua PFA130-E Junction Box",
+  "brand": "Dahua",
+  "category": "Surveillance › Brackets & mounts",
+  "subtitle": "Waterproof aluminium junction box · IP66 · white",
+  "tagline": "Neat waterproof base that hides the cable joints behind a Dahua dome or eyeball.",
+  "keywords": [
+   "PFA130-E",
+   "PFA130",
+   "junction box",
+   "back box",
+   "mount",
+   "bracket",
+   "Dahua",
+   "waterproof"
+  ],
+  "kpis": [
+   {
+    "v": "IP66",
+    "l": "waterproof"
+   },
+   {
+    "v": "3 kg",
+    "l": "load"
+   },
+   {
+    "v": "Ø124 mm",
+    "l": "size"
+   },
+   {
+    "v": "Alu",
+    "l": "aluminium"
+   }
+  ],
+  "bestFor": [
+   "Outdoor domes and eyeballs",
+   "Hiding connectors and baluns",
+   "Neat wall or ceiling installs"
+  ],
+  "notFor": [
+   "Cameras it isn't listed for (check accessory guide)"
+  ],
+  "features": [
+   "Aluminium, white",
+   "G¾\" conduit thread",
+   "Screws, anchors and wrench included"
+  ],
+  "specs": [
+   [
+    "Size",
+    "Ø124 × 41 mm"
+   ],
+   [
+    "Weight",
+    "0.35 kg"
+   ],
+   [
+    "Load",
+    "3 kg"
+   ],
+   [
+    "Operating temp",
+    "−40 to +60 °C"
+   ]
+  ],
+  "qa": [
+   [
+    "Which cameras?",
+    "Check Dahua's accessory selection — e.g. HDW2439T."
+   ],
+   [
+    "Outdoor?",
+    "Yes, IP66."
+   ],
+   [
+    "Conduit?",
+    "G¾\" thread."
+   ]
+  ],
+  "source": "Dahua DH-PFA130-E datasheet.",
+  "image": "products/51PFA130-E/image.png",
+  "onepager": "products/51PFA130-E/onepager.pdf"
+ },
+ {
+  "code": "51ST4000VX005",
+  "name": "Seagate 4 TB Surveillance HDD",
+  "brand": "Seagate",
+  "category": "Surveillance › Hard drives",
+  "subtitle": "3.5\" SATA surveillance hard drive · 24/7 · 4 TB",
+  "tagline": "24/7 surveillance drive for DVRs and NVRs — up to 32 cameras per drive.",
+  "note": "Datasheet on file is the older Seagate Surveillance HDD (model ST4000VX000). Specs may differ slightly for ST4000VX005.",
+  "imageNote": "Image shows the 6 TB model",
+  "keywords": [
+   "ST4000VX005",
+   "4TB",
+   "4 TB",
+   "hard drive",
+   "HDD",
+   "Seagate",
+   "surveillance",
+   "SkyHawk",
+   "DVR",
+   "NVR"
+  ],
+  "kpis": [
+   {
+    "v": "4 TB",
+    "l": "capacity"
+   },
+   {
+    "v": "24/7",
+    "l": "rated"
+   },
+   {
+    "v": "32",
+    "l": "cameras / drive"
+   },
+   {
+    "v": "3 yrs",
+    "l": "warranty"
+   }
+  ],
+  "bestFor": [
+   "DVRs and NVRs",
+   "Recording 24/7",
+   "Up to 16-bay systems"
+  ],
+  "notFor": [
+   "Desktop PCs (use a desktop drive)"
+  ],
+  "features": [
+   "Tuned for high write workloads",
+   "RV sensors for multi-drive systems",
+   "1M hours MTBF"
+  ],
+  "specs": [
+   [
+    "Interface",
+    "SATA 6 Gb/s"
+   ],
+   [
+    "Cache",
+    "64 MB"
+   ],
+   [
+    "Power",
+    "5.6 W operating · 4 W idle"
+   ],
+   [
+    "Operating temp",
+    "0 to 70 °C (drive case)"
+   ],
+   [
+    "Drive bays",
+    "1 to 16"
+   ]
+  ],
+  "qa": [
+   [
+    "Fits a Dahua NVR?",
+    "Yes — standard 3.5\" SATA."
+   ],
+   [
+    "Warranty?",
+    "3 years (limited)."
+   ],
+   [
+    "How many cameras?",
+    "Up to 32 per drive."
+   ]
+  ],
+  "source": "Seagate Surveillance HDD data sheet.",
+  "image": "products/51ST4000VX005/image.png",
+  "onepager": "products/51ST4000VX005/onepager.pdf"
+ },
+ {
+  "code": "38TC-R3220-P",
+  "name": "Tiandy 20-Ch 16-PoE Pro NVR",
+  "brand": "Tiandy",
+  "category": "Surveillance › Recorders (NVR)",
+  "subtitle": "TC-R3220 · 20 IP channels · 16 PoE · 2 × HDD · 4K HDMI",
+  "tagline": "16-camera plug-and-play recorder — 16 PoE ports with 200 W budget and 2 drive bays.",
+  "keywords": [
+   "TC-R3220",
+   "R3220",
+   "NVR",
+   "recorder",
+   "20 channel",
+   "16 PoE",
+   "PoE",
+   "Tiandy",
+   "Pro"
+  ],
+  "kpis": [
+   {
+    "v": "20",
+    "l": "IP channels"
+   },
+   {
+    "v": "16 PoE",
+    "l": "200 W budget"
+   },
+   {
+    "v": "2 × 10 TB",
+    "l": "HDD bays"
+   },
+   {
+    "v": "4K",
+    "l": "HDMI"
+   }
+  ],
+  "bestFor": [
+   "Medium sites with up to 16 PoE cameras",
+   "Schools, shops, small warehouses",
+   "Tiandy camera systems"
+  ],
+  "notFor": [
+   "Very large sites (TC-R3440)",
+   "RAID protection"
+  ],
+  "features": [
+   "<b>16 PoE ports</b> — 30 W per port, 200 W total",
+   "2 SATA bays, up to 10 TB each",
+   "HDMI (4K) + VGA",
+   "16-ch synchronous playback"
+  ],
+  "specs": [
+   [
+    "Bandwidth",
+    "160 Mbps in / 64 Mbps out"
+   ],
+   [
+    "Decoding",
+    "2 × 8MP · 4 × 4MP @30 fps"
+   ],
+   [
+    "Power",
+    "100–240 VAC · <10 W (no HDD/PoE)"
+   ],
+   [
+    "Size / weight",
+    "440 × 277 × 48 mm · 3 kg"
+   ]
+  ],
+  "models": [
+   [
+    "TC-R3220",
+    "20 ch, 16 PoE — <b>this unit</b>",
+    true
+   ],
+   [
+    "TC-R3440",
+    "40 ch, 4 bays, RAID"
+   ]
+  ],
+  "qa": [
+   [
+    "Need a PoE switch?",
+    "No — 16 PoE ports built in."
+   ],
+   [
+    "Hard drives?",
+    "Not included — 2 bays, up to 10 TB each."
+   ],
+   [
+    "Other brands?",
+    "Yes, ONVIF / RTSP."
+   ]
+  ],
+  "source": "Tiandy TC-R3220 spec sheet (V3.1).",
+  "image": "products/38TC-R3220-P/image.png",
+  "onepager": "products/38TC-R3220-P/onepager.pdf"
+ },
+ {
+  "code": "38TC-H363N 9DA-4",
+  "name": "Tiandy 4G Dual-Lens PT Camera",
+  "brand": "Tiandy",
+  "category": "Surveillance › IP cameras",
+  "subtitle": "TC-H363N 9DA-4 · 2 × 3MP · pan/tilt · 4G · IP65",
+  "tagline": "4G pan-tilt camera with two lenses — one panorama, one tracking — plus talk-back and red/blue flash.",
+  "note": "Datasheet doesn't list 4G bands, SIM, battery or solar details. Confirm network support and what's in the box before quoting.",
+  "keywords": [
+   "TC-H363N",
+   "H363N",
+   "4G",
+   "PT camera",
+   "pan tilt",
+   "dual lens",
+   "solar",
+   "Tiandy",
+   "auto tracking",
+   "speaker"
+  ],
+  "kpis": [
+   {
+    "v": "2 × 3MP",
+    "l": "panorama + detail"
+   },
+   {
+    "v": "4G",
+    "l": "cellular"
+   },
+   {
+    "v": "30 m",
+    "l": "IR / 20 m light"
+   },
+   {
+    "v": "IP65",
+    "l": "outdoor"
+   }
+  ],
+  "bestFor": [
+   "Sites without cabled internet",
+   "Building sites, farms, gates",
+   "Remote monitoring with talk-back"
+  ],
+  "notFor": [
+   "Areas with no cellular signal",
+   "Long-distance zoom (fixed 4 mm lenses)"
+  ],
+  "features": [
+   "<b>Auto-tracking</b> of people & vehicles",
+   "<b>Mic + speaker</b> for two-way audio",
+   "Red & blue alarm flash",
+   "MicroSD up to 256 GB",
+   "EasyLive Plus mobile app"
+  ],
+  "specs": [
+   [
+    "Lenses",
+    "2 × 4 mm · 80° H"
+   ],
+   [
+    "Pan / tilt",
+    "0–345° / 0–90° · 64 presets"
+   ],
+   [
+    "Power",
+    "5 VDC · max 10 W"
+   ],
+   [
+    "Operating temp",
+    "−20 to +50 °C"
+   ],
+   [
+    "Size / weight",
+    "183 × 105 × 202 mm · 1.66 kg"
+   ]
+  ],
+  "coverage": {
+   "title": "DORI distances (4 mm)",
+   "rows": [
+    [
+     "Detect",
+     "59.3 m"
+    ],
+    [
+     "Observe",
+     "23.5 m"
+    ],
+    [
+     "Recognise",
+     "11.9 m"
+    ],
+    [
+     "Identify",
+     "5.9 m",
+     true
+    ]
+   ]
+  },
+  "qa": [
+   [
+    "Needs a SIM?",
+    "Yes — 4G model; confirm network bands with Tiandy."
+   ],
+   [
+    "Talk to intruders?",
+    "Yes, built-in speaker and mic."
+   ],
+   [
+    "Recording?",
+    "MicroSD up to 256 GB."
+   ]
+  ],
+  "source": "Tiandy TC-H363N 9DA-4 spec sheet (2025-12).",
+  "image": "products/38TC-H363N-9DA-4/image.png",
+  "onepager": "products/38TC-H363N-9DA-4/onepager.pdf",
+  "slug": "38TC-H363N-9DA-4"
+ },
+ {
+  "code": "39KT-1",
+  "name": "Kantech KT-1 One-Door Controller (single-gang)",
+  "brand": "Kantech",
+  "category": "Access Control › Controllers",
+  "subtitle": "Ethernet-ready 1-door controller · PoE or 12 V · standalone, EntraPass or Cloudvue",
+  "tagline": "One-door IP controller that runs standalone from a web browser — or grows into EntraPass.",
+  "keywords": [
+   "KT-1",
+   "KT1",
+   "Kantech",
+   "controller",
+   "one door",
+   "1 door",
+   "EntraPass",
+   "PoE",
+   "Cloudvue",
+   "access control"
+  ],
+  "kpis": [
+   {
+    "v": "1 door",
+    "l": "2 readers"
+   },
+   {
+    "v": "2,000",
+    "l": "cardholders (standalone)"
+   },
+   {
+    "v": "PoE",
+    "l": "or 12 V"
+   },
+   {
+    "v": "AES",
+    "l": "128-bit"
+   }
+  ],
+  "bestFor": [
+   "Single doors in offices and shops",
+   "Starting small and growing into EntraPass",
+   "Sites with PoE switches"
+  ],
+  "notFor": [
+   "DSC alarm integration (needs KT-1-PCB)",
+   "Many doors on one controller"
+  ],
+  "features": [
+   "<b>3 modes</b> — standalone web, EntraPass, Cloudvue",
+   "One-touch enrolment into EntraPass v6.02+",
+   "Head controller for up to 31 more in EntraPass",
+   "Encrypted with ioSmart readers & cards"
+  ],
+  "specs": [
+   [
+    "Standalone users",
+    "2,000 · 60,000 events"
+   ],
+   [
+    "I/O",
+    "4 inputs · 4 aux outputs"
+   ],
+   [
+    "Power",
+    "PoE, PoE+ or 12 VDC"
+   ],
+   [
+    "Mounting",
+    "Single-gang (KT-1) or cabinet (KT-1-PCB)"
+   ]
+  ],
+  "models": [
+   [
+    "KT-1",
+    "Single-gang mount — <b>this unit</b>",
+    true
+   ],
+   [
+    "KT-1-PCB",
+    "Cabinet board, DSC integration"
+   ],
+   [
+    "KT-1-EU-MET-POE",
+    "Metal housing, PoE"
+   ]
+  ],
+  "qa": [
+   [
+    "Software needed?",
+    "No — standalone via web browser."
+   ],
+   [
+    "Power?",
+    "PoE or 12 V."
+   ],
+   [
+    "Readers?",
+    "2 (in and out); ioSmart for end-to-end encryption."
+   ]
+  ],
+  "source": "Kantech KT-1 data sheet.",
+  "image": "products/39KT-1/image.png",
+  "onepager": "products/39KT-1/onepager.pdf"
+ },
+ {
+  "code": "41AFK-0006",
+  "name": "Texecom Premier Elite MR Mirror PIR",
+  "brand": "Texecom",
+  "category": "Intrusion › Detectors",
+  "subtitle": "Wired digital PIR with mirrored optics · 15 m · Grade 2",
+  "tagline": "Premium mirror-optic PIR — double the signal of standard PIRs for fast catch and fewer false alarms.",
+  "keywords": [
+   "Premier Elite MR",
+   "MR",
+   "AFK",
+   "mirror",
+   "mirror optic",
+   "PIR",
+   "Texecom",
+   "wired detector"
+  ],
+  "kpis": [
+   {
+    "v": "15 m",
+    "l": "90° volumetric"
+   },
+   {
+    "v": "10 mA",
+    "l": "typical"
+   },
+   {
+    "v": "1.5–3.1 m",
+    "l": "mount height"
+   },
+   {
+    "v": "Grade 2",
+    "l": "Class II"
+   }
+  ],
+  "bestFor": [
+   "Offices, shops, homes",
+   "Rooms with draughts or bright light",
+   "Customers wanting top-end PIRs"
+  ],
+  "notFor": [
+   "Pets roaming (not pet-tolerant)",
+   "Outdoor use"
+  ],
+  "features": [
+   "<b>Mirrored optics</b> — sealed optical chamber",
+   "Digital temperature compensation",
+   "Remote LED disable",
+   "First-to-alarm & latch input",
+   "White light immunity above 15,000 lux"
+  ],
+  "specs": [
+   [
+    "Power",
+    "9–16 VDC · 10 mA"
+   ],
+   [
+    "Alarm relay",
+    "N.C. <24 VDC 50 mA"
+   ],
+   [
+    "Size",
+    "112 × 60 × 40 mm"
+   ],
+   [
+    "RF immunity",
+    "80 MHz–2 GHz at 30 V/m"
+   ]
+  ],
+  "qa": [
+   [
+    "Long corridor?",
+    "A 32 m long-range version exists."
+   ],
+   [
+    "Brackets?",
+    "Sold separately."
+   ],
+   [
+    "Pets?",
+    "No — not pet-tolerant."
+   ]
+  ],
+  "source": "Texecom Premier Elite MR datasheet (LIT-0167).",
+  "image": "products/41AFK-0006/image.png",
+  "onepager": "products/41AFK-0006/onepager.pdf"
+ },
+ {
+  "code": "41AKD-0001",
+  "name": "Texecom CloakWise Detector (White)",
+  "brand": "Texecom",
+  "category": "Intrusion › Detectors",
+  "subtitle": "Quad PIR + K-band microwave · 20 m · Grade 2",
+  "tagline": "Dual-tech detector with Dual Tech, PetWise and CloakWise modes in one unit.",
+  "note": "The datasheet on file is a short web summary. Electrical specs and mode details aren't stated — check before quoting.",
+  "keywords": [
+   "CloakWise",
+   "AKD-0001",
+   "dual tech",
+   "microwave",
+   "PIR",
+   "PetWise",
+   "Texecom",
+   "anti cloak"
+  ],
+  "kpis": [
+   {
+    "v": "20 m",
+    "l": "85° volumetric"
+   },
+   {
+    "v": "PIR + MW",
+    "l": "quad + K-band"
+   },
+   {
+    "v": "3 modes",
+    "l": "DT / Pet / Cloak"
+   },
+   {
+    "v": "Grade 2",
+    "l": "EN50131"
+   }
+  ],
+  "bestFor": [
+   "Sites where intruders may try to mask body heat",
+   "Rooms needing dual-tech stability",
+   "Homes with pets (PetWise mode)"
+  ],
+  "notFor": [
+   "Quoting electrical details without the install sheet"
+  ],
+  "features": [
+   "<b>Quad pyro + K-band microwave</b>",
+   "Switchable Dual Tech / PetWise / CloakWise modes",
+   "EN50131-2-4 & PD6662:2017 Grade 2"
+  ],
+  "specs": [
+   [
+    "Coverage",
+    "20 m / 85°"
+   ],
+   [
+    "Colour",
+    "White (AKD-0001) · Black AKD-0006"
+   ]
+  ],
+  "qa": [
+   [
+    "Black version?",
+    "Yes — AKD-0006."
+   ],
+   [
+    "Pets?",
+    "Use PetWise mode."
+   ],
+   [
+    "Power draw?",
+    "Not in this summary — check install sheet."
+   ]
+  ],
+  "source": "Texecom CloakWise web summary.",
+  "image": "products/41AKD-0001/image.png",
+  "onepager": "products/41AKD-0001/onepager.pdf"
+ },
+ {
+  "code": "41GBN-0001",
+  "name": "Texecom Premier Elite OH-W Wireless Smoke/Heat",
+  "brand": "Texecom",
+  "category": "Intrusion › Wireless detectors",
+  "subtitle": "Ricochet wireless optical + heat fire detector · 85 dB sounder",
+  "tagline": "Wireless smoke and heat detector for Premier Elite systems — made with Apollo.",
+  "keywords": [
+   "OH-W",
+   "GBN-0001",
+   "smoke detector",
+   "heat detector",
+   "fire",
+   "wireless",
+   "Ricochet",
+   "Texecom",
+   "Apollo"
+  ],
+  "kpis": [
+   {
+    "v": "Optical + heat",
+    "l": "fire sensing"
+   },
+   {
+    "v": "85 dB",
+    "l": "built-in sounder"
+   },
+   {
+    "v": "1.5 yr",
+    "l": "battery"
+   },
+   {
+    "v": "Grade 2",
+    "l": "EN14604"
+   }
+  ],
+  "bestFor": [
+   "Adding fire detection to a Premier Elite alarm",
+   "Homes without a fire panel",
+   "Retrofits with no cabling"
+  ],
+  "notFor": [
+   "Panels older than V2.11",
+   "Certified commercial fire systems"
+  ],
+  "features": [
+   "<b>Apollo</b> optical + heat sensing",
+   "<b>Ricochet mesh</b> — relays and self-heals",
+   "Built-in 85 dB(A) sounder",
+   "3 × AAA batteries included"
+  ],
+  "specs": [
+   [
+    "Panels",
+    "Premier Elite V2.11 and above"
+   ],
+   [
+    "Battery",
+    "3 × AAA (included) · 1.5 years"
+   ],
+   [
+    "Standards",
+    "EN14604 · EN50131 · PD6662 Grade 2"
+   ]
+  ],
+  "qa": [
+   [
+    "Which panels?",
+    "Premier Elite V2.11 or later."
+   ],
+   [
+    "Batteries?",
+    "3 × AAA, about 1.5 years."
+   ],
+   [
+    "Sounds locally?",
+    "Yes, 85 dB."
+   ]
+  ],
+  "source": "Texecom Premier Elite OH-W datasheet.",
+  "image": "products/41GBN-0001/image.png",
+  "onepager": "products/41GBN-0001/onepager.pdf"
+ },
+ {
+  "code": "42ZKinBio260Pro",
+  "name": "ZKTeco inBio-260 Pro Controller",
+  "brand": "ZKTeco",
+  "category": "Access Control › Controllers",
+  "subtitle": "2-door biometric access controller · TCP/IP · 30,000 cards",
+  "tagline": "2-door controller that matches fingerprints on the panel — pair with FR1200/FR1300 readers.",
+  "keywords": [
+   "inBio-260 Pro",
+   "inBio260",
+   "InBio 260",
+   "controller",
+   "2 door",
+   "ZKTeco",
+   "biometric",
+   "ZKBioSecurity",
+   "ZKAccess"
+  ],
+  "kpis": [
+   {
+    "v": "2 doors",
+    "l": "8 readers"
+   },
+   {
+    "v": "30,000",
+    "l": "cards"
+   },
+   {
+    "v": "3,000",
+    "l": "fingerprints"
+   },
+   {
+    "v": "100,000",
+    "l": "events"
+   }
+  ],
+  "bestFor": [
+   "2-door sites (or 1 door in + out)",
+   "Fingerprint + card access",
+   "ZKBioSecurity / ZKAccess software"
+  ],
+  "notFor": [
+   "Standalone use without software",
+   "Non-Wiegand / non-FR readers"
+  ],
+  "features": [
+   "<b>Fingerprint matching on the panel</b>",
+   "4 RS-485 FR readers + 4 Wiegand readers",
+   "Anti-passback, first-card, multi-card, duress",
+   "Aux relays for lights, alarms, gates"
+  ],
+  "specs": [
+   [
+    "Inputs",
+    "6 — 2 exit, 2 door status, 2 aux"
+   ],
+   [
+    "Outputs",
+    "4 Form C — 2 lock, 2 aux"
+   ],
+   [
+    "Comms",
+    "TCP/IP"
+   ],
+   [
+    "Power",
+    "9.6–14.4 VDC"
+   ]
+  ],
+  "models": [
+   [
+    "inBio-160 Pro",
+    "1 door"
+   ],
+   [
+    "inBio-260 Pro",
+    "2 doors — <b>this unit</b>",
+    true
+   ],
+   [
+    "inBio-460 Pro",
+    "4 doors"
+   ]
+  ],
+  "qa": [
+   [
+    "Fingerprint readers?",
+    "FR1200 / FR1300 via RS-485."
+   ],
+   [
+    "Software?",
+    "ZKBioSecurity or ZKAccess."
+   ],
+   [
+    "More fingerprints?",
+    "Optional 20,000."
+   ]
+  ],
+  "source": "ZKTeco InBio Pro Series datasheet.",
+  "image": "products/42ZKinBio260Pro/image.png",
+  "onepager": "products/42ZKinBio260Pro/onepager.pdf"
+ },
+ {
+  "code": "42KR310",
+  "name": "ZKTeco KR310 Dual-Frequency Reader",
+  "brand": "ZKTeco",
+  "category": "Access Control › Readers",
+  "subtitle": "EM 125 kHz + MIFARE 13.56 MHz Wiegand reader · IP65",
+  "tagline": "Slim outdoor card reader for both EM and MIFARE cards — Wiegand 34 out.",
+  "keywords": [
+   "KR310",
+   "reader",
+   "card reader",
+   "RFID",
+   "EM",
+   "MIFARE",
+   "DESFire",
+   "Wiegand",
+   "ZKTeco",
+   "dual frequency",
+   "outdoor"
+  ],
+  "kpis": [
+   {
+    "v": "EM + MF",
+    "l": "dual frequency"
+   },
+   {
+    "v": "IP65",
+    "l": "outdoor"
+   },
+   {
+    "v": "10 cm",
+    "l": "read range"
+   },
+   {
+    "v": "W34",
+    "l": "Wiegand"
+   }
+  ],
+  "bestFor": [
+   "Exit or entry side of ZKTeco controllers",
+   "Outdoor gates and doors",
+   "Sites with mixed EM and MIFARE cards"
+  ],
+  "notFor": [
+   "Encrypted DESFire security (reads card number)",
+   "Non-Wiegand systems"
+  ],
+  "features": [
+   "<b>Reads EM, MIFARE Classic and DESFire</b>",
+   "Green/red LED for access granted/denied",
+   "−10 to +70 °C"
+  ],
+  "specs": [
+   [
+    "Output",
+    "Wiegand 34 bit"
+   ],
+   [
+    "Power",
+    "6–14 VDC · max 70 mA"
+   ],
+   [
+    "Read time",
+    "<300 ms"
+   ],
+   [
+    "Size",
+    "77.5 × 42.8 × 16.5 mm"
+   ]
+  ],
+  "qa": [
+   [
+    "MIFARE cards?",
+    "Yes, and EM 125 kHz."
+   ],
+   [
+    "Outdoor?",
+    "Yes, IP65."
+   ],
+   [
+    "Wiring?",
+    "Wiegand to the controller."
+   ]
+  ],
+  "source": "ZKTeco KR310 datasheet (ZKTeco SA).",
+  "image": "products/42KR310/image.png",
+  "onepager": "products/42KR310/onepager.pdf"
+ },
+ {
+  "code": "74BS3-DB",
+  "name": "Suprema BioStation 3 Face Terminal",
+  "brand": "Suprema",
+  "category": "Access Control › Readers",
+  "subtitle": "BS3-DB · AI face recognition · 5.5\" touchscreen · EM + MIFARE · IP65",
+  "tagline": "Premium face-recognition terminal with mobile access, QR codes and cards — 50,000 faces.",
+  "keywords": [
+   "BioStation 3",
+   "BS3",
+   "BS3-DB",
+   "face",
+   "facial recognition",
+   "Suprema",
+   "terminal",
+   "biometric",
+   "QR",
+   "mobile access"
+  ],
+  "kpis": [
+   {
+    "v": "50,000",
+    "l": "faces (1:N)"
+   },
+   {
+    "v": "5.5\"",
+    "l": "touchscreen"
+   },
+   {
+    "v": "IP65",
+    "l": "IK06"
+   },
+   {
+    "v": "100,000",
+    "l": "users"
+   }
+  ],
+  "bestFor": [
+   "Offices and estates going touch-free",
+   "Mixed credentials — face, mobile, QR, card",
+   "Main entrances"
+  ],
+  "notFor": [
+   "HID Prox / iCLASS (sell BS3-APWB)",
+   "PoE-only installs (DB has no PoE)"
+  ],
+  "features": [
+   "<b>AI face recognition</b> with live-face anti-spoofing",
+   "Mobile access (NFC, BLE)",
+   "QR / barcode (licence)",
+   "OSDP RS-485, Wiegand in/out, 1 relay"
+  ],
+  "specs": [
+   [
+    "Cards",
+    "EM, MIFARE, MIFARE Plus, DESFire, FeliCa"
+   ],
+   [
+    "Power",
+    "12 VDC 1 A or 24 VDC 0.65 A"
+   ],
+   [
+    "Network",
+    "Gigabit Ethernet (no Wi-Fi on DB)"
+   ],
+   [
+    "Logs",
+    "5M text · 50k image"
+   ],
+   [
+    "Size",
+    "82.5 × 171 × 23.4 mm"
+   ]
+  ],
+  "models": [
+   [
+    "BS3-DB",
+    "EM + MIFARE, no PoE/Wi-Fi — <b>this unit</b>",
+    true
+   ],
+   [
+    "BS3-APWB",
+    "Adds HID Prox/iCLASS, PoE+, Wi-Fi"
+   ]
+  ],
+  "qa": [
+   [
+    "PoE?",
+    "Not on the DB — use 12/24 V."
+   ],
+   [
+    "HID cards?",
+    "No — sell BS3-APWB."
+   ],
+   [
+    "Outdoors?",
+    "IP65, but IK06 — protect from knocks."
+   ]
+  ],
+  "source": "Suprema BioStation 3 brochure (REV12).",
+  "image": "products/74BS3-DB/image.png",
+  "onepager": "products/74BS3-DB/onepager.pdf"
+ },
+ {
+  "code": "68293722301",
+  "name": "Idemia MorphoWave XP MD",
+  "brand": "Idemia",
+  "category": "Access Control › Readers",
+  "subtitle": "Touchless 4-finger wave scanner · MIFARE/DESFire · IP65",
+  "tagline": "Wave your hand to get in — scans 4 fingers in under a second, up to 60 people a minute.",
+  "keywords": [
+   "MorphoWave",
+   "MorphoWave XP",
+   "XP MD",
+   "Idemia",
+   "Morpho",
+   "touchless",
+   "contactless fingerprint",
+   "biometric",
+   "turnstile"
+  ],
+  "kpis": [
+   {
+    "v": "<1 s",
+    "l": "4-finger scan"
+   },
+   {
+    "v": "60/min",
+    "l": "throughput"
+   },
+   {
+    "v": "40,000",
+    "l": "users (to 100k)"
+   },
+   {
+    "v": "IP65",
+    "l": "rated"
+   }
+  ],
+  "bestFor": [
+   "High-traffic entrances and turnstiles",
+   "Mines, factories, hygiene-sensitive sites",
+   "Wet, dry or damaged fingers"
+  ],
+  "notFor": [
+   "Direct sun or rain (use a canopy)",
+   "HID Prox / iClass cards (MDPI model)"
+  ],
+  "features": [
+   "<b>3D touchless scan of 4 fingers</b>",
+   "Copes with wet, dry or damaged fingers",
+   "Touchscreen, speaker & mic",
+   "Ethernet, RS-485, Wiegand in/out, relay"
+  ],
+  "specs": [
+   [
+    "Cards",
+    "MIFARE / DESFire (MD model)"
+   ],
+   [
+    "Users",
+    "40,000 · extendable to 100,000"
+   ],
+   [
+    "Power",
+    "PoE+"
+   ],
+   [
+    "Operating temp",
+    "−10 to +55 °C"
+   ],
+   [
+    "Size / weight",
+    "250 × 152 × 216 mm · 2.2 kg"
+   ]
+  ],
+  "models": [
+   [
+    "XP MD",
+    "MIFARE/DESFire — <b>this unit</b>",
+    true
+   ],
+   [
+    "XP MDPI",
+    "Adds iClass & HID Prox"
+   ],
+   [
+    "XP MDPI-M",
+    "Adds HID iClass SE/Seos"
+   ]
+  ],
+  "qa": [
+   [
+    "Touch the reader?",
+    "No — wave the hand through."
+   ],
+   [
+    "Outdoors?",
+    "Yes, but keep the sensor out of direct sun and rain."
+   ],
+   [
+    "HID cards?",
+    "No — MDPI version."
+   ]
+  ],
+  "source": "Idemia MorphoWave XP brochure.",
+  "image": "products/68293722301/image.png",
+  "onepager": "products/68293722301/onepager.pdf"
+ },
+ {
+  "code": "78BEL600S",
+  "name": "Ebelco 600-S Maglock",
+  "brand": "Ebelco",
+  "category": "Access Control › Locks",
+  "subtitle": "600 lb electromagnetic lock · 12/24 V · standard (no LED/sensor)",
+  "tagline": "Standard 600 lb maglock for single doors — dual voltage, anodised aluminium.",
+  "keywords": [
+   "maglock",
+   "600S",
+   "600-S",
+   "BEL600S",
+   "Ebelco",
+   "electromagnetic lock",
+   "magnetic lock"
+  ],
+  "kpis": [
+   {
+    "v": "600 lb",
+    "l": "272 kg"
+   },
+   {
+    "v": "12/24 V",
+    "l": "selectable"
+   },
+   {
+    "v": "480 mA",
+    "l": "@ 12 V"
+   },
+   {
+    "v": "1.9 kg",
+    "l": "weight"
+   }
+  ],
+  "bestFor": [
+   "Standard single doors",
+   "Offices, shops, gates with exit button",
+   "Budget access-control jobs"
+  ],
+  "notFor": [
+   "Door-status monitoring (sell BEL600LED)",
+   "Fail-secure needs"
+  ],
+  "features": [
+   "Dual voltage 12/24 V (jumper)",
+   "Anti-tamper jam nuts · surge protection",
+   "Anti-residual magnetism kick-off",
+   "Optional brackets (L, Z, U)"
+  ],
+  "specs": [
+   [
+    "Current",
+    "12 V: 480 mA · 24 V: 240 mA"
+   ],
+   [
+    "Magnet size",
+    "250 × 42 × 25 mm"
+   ],
+   [
+    "Armature",
+    "180 × 38 × 11 mm"
+   ],
+   [
+    "Operating temp",
+    "0 to 55 °C"
+   ]
+  ],
+  "models": [
+   [
+    "BEL600S",
+    "600 lb standard — <b>this unit</b>",
+    true
+   ],
+   [
+    "BEL600LED",
+    "600 lb with LED & sensor"
+   ],
+   [
+    "BEL600D",
+    "600 lb double door"
+   ]
+  ],
+  "qa": [
+   [
+    "Door status?",
+    "No — BEL600LED has a sensor."
+   ],
+   [
+    "Power cut?",
+    "Releases — add battery backup."
+   ],
+   [
+    "Brackets?",
+    "LS / ZL / U1 600 brackets."
+   ]
+  ],
+  "source": "Ebelco 600-S Electromagnetic Lock datasheet.",
+  "image": "products/78BEL600S/image.png",
+  "onepager": "products/78BEL600S/onepager.pdf"
+ },
+ {
+  "code": "94IX-DV",
+  "name": "Aiphone IX-DV IP Video Door Station",
+  "brand": "Aiphone",
+  "category": "Access Control › Intercoms",
+  "subtitle": "IX Series SIP video door station · surface · PoE · IP54/IK08",
+  "tagline": "IP addressable video door station for the IX system — PoE, SIP and ONVIF.",
+  "keywords": [
+   "IX-DV",
+   "IXDV",
+   "Aiphone",
+   "IX series",
+   "door station",
+   "video intercom",
+   "SIP",
+   "IP intercom",
+   "PoE"
+  ],
+  "kpis": [
+   {
+    "v": "PoE",
+    "l": "802.3af"
+   },
+   {
+    "v": "SIP 2.0",
+    "l": "compliant"
+   },
+   {
+    "v": "IP54",
+    "l": "IK08"
+   },
+   {
+    "v": "20",
+    "l": "call targets"
+   }
+  ],
+  "bestFor": [
+   "Commercial IP intercom systems",
+   "Sites with SIP phones or VMS",
+   "Entrances needing vandal resistance"
+  ],
+  "notFor": [
+   "Analogue JO/JP/GT systems",
+   "Flush mounting (sell IX-DVF)"
+  ],
+  "features": [
+   "1.23 MP colour camera with white LED",
+   "ONVIF Profile S / RTSP video",
+   "2 contact outputs · 6 inputs",
+   "MicroSD audio/video capture",
+   "PoE pass-through"
+  ],
+  "specs": [
+   [
+    "Power",
+    "PoE 802.3af or 24 VDC (PS-2420) · 5.3 W"
+   ],
+   [
+    "Housing",
+    "Anodised aluminium"
+   ],
+   [
+    "Operating temp",
+    "−40 to +60 °C"
+   ],
+   [
+    "Size",
+    "205 × 114 × 52 mm"
+   ]
+  ],
+  "models": [
+   [
+    "IX-DV",
+    "Surface, aluminium, IP54 — <b>this unit</b>",
+    true
+   ],
+   [
+    "IX-DVF",
+    "Flush, stainless, IP65"
+   ]
+  ],
+  "qa": [
+   [
+    "Works with SIP phones?",
+    "Yes, SIP 2.0."
+   ],
+   [
+    "Power?",
+    "PoE or 24 V."
+   ],
+   [
+    "Weatherproof?",
+    "IP54 — IX-DVF is IP65."
+   ]
+  ],
+  "source": "Aiphone IX-DV/IX-DVF spec sheet.",
+  "image": "products/94IX-DV/image.png",
+  "onepager": "products/94IX-DV/onepager.pdf"
+ },
+ {
+  "code": "94JOS-1VW",
+  "name": "Aiphone JOS-1VW Wi-Fi Video Intercom Kit",
+  "brand": "Aiphone",
+  "category": "Access Control › Intercoms",
+  "subtitle": "JO Series kit · 7\" touchscreen master (Wi-Fi) + JO-DV door station",
+  "tagline": "Hands-free 7-inch video intercom that also rings your phone — answer the door from anywhere.",
+  "note": "Boxed set is JO-1MDW + JO-DV. The PS-1820 power supply isn't listed as included — confirm before quoting.",
+  "keywords": [
+   "JOS-1VW",
+   "JO series",
+   "JO-1MDW",
+   "JO-DV",
+   "Aiphone",
+   "video intercom",
+   "Wi-Fi",
+   "app",
+   "kit"
+  ],
+  "kpis": [
+   {
+    "v": "7\"",
+    "l": "touchscreen"
+   },
+   {
+    "v": "App",
+    "l": "smartphone"
+   },
+   {
+    "v": "1,000",
+    "l": "calls on SD"
+   },
+   {
+    "v": "IP54",
+    "l": "IK08 door"
+   }
+  ],
+  "bestFor": [
+   "Homes and small offices",
+   "Answering the door when away",
+   "Upgrading an old audio intercom"
+  ],
+  "notFor": [
+   "Multi-tenant buildings (use GT/IX)",
+   "Sites without Wi-Fi for the app"
+  ],
+  "features": [
+   "<b>Smartphone app</b> — answer, monitor, open the door",
+   "Hands-free 7\" touchscreen with zoom",
+   "Records visitors — 10 internal, 1,000 on microSD",
+   "Zinc door station with night LED"
+  ],
+  "specs": [
+   [
+    "Kit",
+    "JO-1MDW master + JO-DV door station"
+   ],
+   [
+    "Power",
+    "18 VDC from PS-1820 · 450 mA max"
+   ],
+   [
+    "Door release",
+    "24 V AC/DC 1 A dry contact"
+   ],
+   [
+    "Door station",
+    "IP54 / IK08 · −20 to +60 °C"
+   ]
+  ],
+  "models": [
+   [
+    "JOS-1AW",
+    "Wi-Fi + JO-DA (plastic)"
+   ],
+   [
+    "JOS-1VW",
+    "Wi-Fi + JO-DV (zinc) — <b>this kit</b>",
+    true
+   ],
+   [
+    "JOS-1FW",
+    "Wi-Fi + JO-DVF (stainless flush)"
+   ],
+   [
+    "JOS-1V",
+    "Non-Wi-Fi + JO-DV"
+   ]
+  ],
+  "qa": [
+   [
+    "Phone app?",
+    "Yes — Intercom App Type B (iOS/Android)."
+   ],
+   [
+    "Second monitor?",
+    "Add a JO-1FD."
+   ],
+   [
+    "Power supply?",
+    "PS-1820 — check it's included."
+   ]
+  ],
+  "source": "Aiphone JO Series brochure.",
+  "image": "products/94JOS-1VW/image.png",
+  "onepager": "products/94JOS-1VW/onepager.pdf"
  }
 ]
