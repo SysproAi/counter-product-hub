@@ -13697,5 +13697,2334 @@
   "source": "Ebelco 1200-LED Electromagnetic Lock datasheet (2019).",
   "image": "products/78BEL1200LED/image.png",
   "onepager": "products/78BEL1200LED/onepager.pdf"
+ },
+ {
+  "code": "06AS12-4.5",
+  "name": "Forbatt FB4.5-12 Battery 12 V 4.5 Ah",
+  "brand": "Forbatt",
+  "category": "Power & Energy › Batteries",
+  "subtitle": "Sealed lead-acid (AGM-VRLA) · compact standby battery",
+  "tagline": "Small 12 V standby battery for alarm panels, gate keypads and small power supplies.",
+  "keywords": [
+   "FB4.5-12",
+   "4.5Ah",
+   "4.5 Ah",
+   "battery",
+   "12V",
+   "lead acid",
+   "SLA",
+   "AGM",
+   "Forbatt",
+   "alarm battery"
+  ],
+  "kpis": [
+   {
+    "v": "12 V",
+    "l": "nominal"
+   },
+   {
+    "v": "4.5 Ah",
+    "l": "20 h rate"
+   },
+   {
+    "v": "1.44 kg",
+    "l": "weight"
+   },
+   {
+    "v": "AGM",
+    "l": "sealed VRLA"
+   }
+  ],
+  "bestFor": [
+   "Small alarm panels and power supplies",
+   "Access-control keypads and readers",
+   "Replacing a 4–4.5 Ah standby battery"
+  ],
+  "notFor": [
+   "Gate motors (too small)",
+   "Long backup on big loads — use 7 Ah or bigger"
+  ],
+  "features": [
+   "Maintenance-free sealed AGM",
+   "Standby charge 13.5–13.8 V",
+   "Low self-discharge — 90% after 3 months"
+  ],
+  "specs": [
+   [
+    "Size",
+    "90 × 70 × 101 mm (107 mm with terminals)"
+   ],
+   [
+    "Weight",
+    "1.44 kg"
+   ],
+   [
+    "Charge (standby)",
+    "13.5–13.8 V · max 1.35 A"
+   ],
+   [
+    "Internal resistance",
+    "50 mΩ"
+   ]
+  ],
+  "models": [
+   [
+    "FB4.5-12",
+    "4.5 Ah — <b>this unit</b>",
+    true
+   ],
+   [
+    "FB7.2-12",
+    "7.2 Ah"
+   ],
+   [
+    "FB9-12",
+    "9 Ah"
+   ]
+  ],
+  "qa": [
+   [
+    "Fits in a 7 Ah slot?",
+    "No — it's smaller (90 × 70 × 101 mm)."
+   ],
+   [
+    "Charge current?",
+    "Max 1.35 A to start."
+   ],
+   [
+    "Cold weather?",
+    "About 85% capacity at 0 °C."
+   ]
+  ],
+  "source": "Forbatt FB4.5-12 datasheet.",
+  "image": "products/06AS12-4.5/image.png",
+  "onepager": "products/06AS12-4.5/onepager.pdf"
+ },
+ {
+  "code": "07AX130TN",
+  "name": "Optex AX-130TN Outdoor Beam (40 m)",
+  "brand": "Optex",
+  "category": "Intrusion › Outdoor beams",
+  "subtitle": "Wired photoelectric beam pair · 40 m outdoor · IP65",
+  "tagline": "Compact wired beam for walls, gates and perimeters — 40 m outdoors.",
+  "keywords": [
+   "AX-130TN",
+   "AX130TN",
+   "beam",
+   "photoelectric",
+   "infrared beam",
+   "perimeter",
+   "Optex",
+   "AX-TN"
+  ],
+  "kpis": [
+   {
+    "v": "40 m",
+    "l": "outdoor range"
+   },
+   {
+    "v": "IP65",
+    "l": "weatherproof"
+   },
+   {
+    "v": "41 mA",
+    "l": "Tx + Rx"
+   },
+   {
+    "v": "99%",
+    "l": "beam loss tolerance"
+   }
+  ],
+  "bestFor": [
+   "Walls, fences and gate lines",
+   "Driveways and side passages",
+   "Wired alarm systems"
+  ],
+  "notFor": [
+   "Runs over 40 m (use AX-200TN)",
+   "Sites without cabling (use a wireless beam)"
+  ],
+  "features": [
+   "<b>IP65</b> sealed with rubber packing",
+   "Works with up to 99% beam loss (rain, fog)",
+   "AGC adjusts to changing weather",
+   "Lightning protection over 14 kV",
+   "Adjustable interruption time"
+  ],
+  "specs": [
+   [
+    "Power",
+    "10.5–28 VDC · 41 mA (Tx + Rx)"
+   ],
+   [
+    "Alarm output",
+    "N.C. 28 VDC 0.2 A"
+   ],
+   [
+    "Response",
+    "50 / 100 / 250 / 500 ms"
+   ],
+   [
+    "Operating temp",
+    "−35 to +60 °C"
+   ],
+   [
+    "Weight",
+    "650 g (pair)"
+   ]
+  ],
+  "models": [
+   [
+    "AX-70TN",
+    "20 m"
+   ],
+   [
+    "AX-130TN",
+    "40 m — <b>this unit</b>",
+    true
+   ],
+   [
+    "AX-200TN",
+    "60 m"
+   ]
+  ],
+  "qa": [
+   [
+    "Range?",
+    "40 m outdoors."
+   ],
+   [
+    "Pole mount?",
+    "Yes — wall or pole. BC-3 / PSC-3 covers optional."
+   ],
+   [
+    "Cold or frost?",
+    "Add the HU-3 heater kit."
+   ]
+  ],
+  "source": "Optex AX-TN series datasheet.",
+  "image": "products/07AX130TN/image.png",
+  "onepager": "products/07AX130TN/onepager.pdf"
+ },
+ {
+  "code": "07SL-200QN",
+  "name": "Optex SL-200QN Quad Beam (60 m)",
+  "brand": "Optex",
+  "category": "Intrusion › Outdoor beams",
+  "subtitle": "Smart Line quad photoelectric beam · 60 m · IP65",
+  "tagline": "Premium quad-beam with a wide beam pitch — fewer false alarms from birds and leaves.",
+  "keywords": [
+   "SL-200QN",
+   "SL200QN",
+   "Smart Line",
+   "quad beam",
+   "beam",
+   "photoelectric",
+   "perimeter",
+   "Optex"
+  ],
+  "kpis": [
+   {
+    "v": "60 m",
+    "l": "outdoor range"
+   },
+   {
+    "v": "4",
+    "l": "beams (quad)"
+   },
+   {
+    "v": "IP65",
+    "l": "weatherproof"
+   },
+   {
+    "v": "38 mA",
+    "l": "Tx + Rx"
+   }
+  ],
+  "bestFor": [
+   "Commercial and estate perimeters",
+   "Sites with birds or blowing leaves",
+   "High-security fence lines"
+  ],
+  "notFor": [
+   "Runs over 60 m (SL-350QN / SL-650QN)",
+   "Budget jobs (AX-TN is cheaper)"
+  ],
+  "features": [
+   "<b>Quad beam</b> with aspherical lenses",
+   "<b>Sniper viewfinder</b> (2×) for fast alignment",
+   "Anti-frost hoods · tool-free alignment dial",
+   "Form C alarm relay"
+  ],
+  "specs": [
+   [
+    "Power",
+    "10.5–30 VDC · 38 mA (Tx + Rx)"
+   ],
+   [
+    "Alarm output",
+    "Form C 30 VDC 0.2 A"
+   ],
+   [
+    "Response",
+    "50 / 100 / 250 / 500 ms"
+   ],
+   [
+    "Operating temp",
+    "−25 to +60 °C"
+   ],
+   [
+    "Size / weight",
+    "448 × 79 × 96 mm · 2.4 kg (pair)"
+   ]
+  ],
+  "models": [
+   [
+    "SL-200QN",
+    "60 m — <b>this unit</b>",
+    true
+   ],
+   [
+    "SL-350QN",
+    "100 m"
+   ],
+   [
+    "SL-650QN",
+    "200 m"
+   ]
+  ],
+  "qa": [
+   [
+    "Range?",
+    "60 m outdoors."
+   ],
+   [
+    "Options?",
+    "Anti-bird cap, back cover, pole side cover, HU-3 heater."
+   ],
+   [
+    "Alignment?",
+    "Built-in 2× viewfinder."
+   ]
+  ],
+  "source": "Optex SL-200QN/350QN/650QN datasheet (preliminary).",
+  "image": "products/07SL-200QN/image.png",
+  "onepager": "products/07SL-200QN/onepager.pdf"
+ },
+ {
+  "code": "07QXI-ST",
+  "name": "Optex QXI-ST Outdoor PIR",
+  "brand": "Optex",
+  "category": "Intrusion › Outdoor detectors",
+  "subtitle": "QX Infinity wired outdoor PIR · 12 m 120° · IP54",
+  "tagline": "Compact outdoor PIR — 12 m wide coverage with small-animal tolerance.",
+  "keywords": [
+   "QXI-ST",
+   "QXI",
+   "QX Infinity",
+   "outdoor PIR",
+   "external PIR",
+   "Optex",
+   "pet"
+  ],
+  "kpis": [
+   {
+    "v": "12 m",
+    "l": "120° wide"
+   },
+   {
+    "v": "IP54",
+    "l": "outdoor"
+   },
+   {
+    "v": "20 mA",
+    "l": "@ 12 V"
+   },
+   {
+    "v": "Quad",
+    "l": "AND logic"
+   }
+  ],
+  "bestFor": [
+   "Gardens, patios, walkways",
+   "Homes and small businesses",
+   "Early warning before doors and windows"
+  ],
+  "notFor": [
+   "Masking-prone sites (no anti-mask on ST)",
+   "Large dogs roaming the area"
+  ],
+  "features": [
+   "<b>SMDA logic</b> filters weather & vegetation",
+   "<b>Quad pyro</b> with AND logic",
+   "Multi-level or pet-alley mounting",
+   "Double conductive shielding · UV-resistant body"
+  ],
+  "specs": [
+   [
+    "Power",
+    "9.5–16 VDC · 20 mA"
+   ],
+   [
+    "Alarm output",
+    "N.C./N.O. 28 VDC 0.1 A"
+   ],
+   [
+    "Mount height",
+    "2.2–2.7 m (multi-level) · 0.8–1.2 m (pet alley)"
+   ],
+   [
+    "Operating temp",
+    "−40 to +60 °C"
+   ],
+   [
+    "Size / weight",
+    "145 × 78 × 59 mm · 180 g"
+   ]
+  ],
+  "models": [
+   [
+    "QXI-ST",
+    "Wired PIR — <b>this unit</b>",
+    true
+   ],
+   [
+    "QXI-DT",
+    "Wired dual-tech + anti-blocking"
+   ],
+   [
+    "QXI-R",
+    "Battery PIR (for wireless TX)"
+   ],
+   [
+    "QXI-RDT",
+    "Battery dual-tech"
+   ]
+  ],
+  "qa": [
+   [
+    "Pets?",
+    "Mount at 2.2–2.7 m to ignore small animals."
+   ],
+   [
+    "Wireless?",
+    "Use the QXI-R with a transmitter."
+   ],
+   [
+    "Brackets?",
+    "CA-1W wall or CA-2C ceiling."
+   ]
+  ],
+  "source": "Optex QX Infinity (QXI) datasheet (2019).",
+  "image": "products/07QXI-ST/image.png",
+  "onepager": "products/07QXI-ST/onepager.pdf"
+ },
+ {
+  "code": "07VXI-ST",
+  "name": "Optex VXI-ST Outdoor PIR",
+  "brand": "Optex",
+  "category": "Intrusion › Outdoor detectors",
+  "subtitle": "VX Infinity wired outdoor PIR · 12 m 90° · IP55",
+  "tagline": "Proven outdoor PIR with double-layer detection — upper and lower zones must both trigger.",
+  "keywords": [
+   "VXI-ST",
+   "VXI",
+   "VX Infinity",
+   "outdoor PIR",
+   "external PIR",
+   "Optex",
+   "VX-402"
+  ],
+  "kpis": [
+   {
+    "v": "12 m",
+    "l": "90° · 16 zones"
+   },
+   {
+    "v": "IP55",
+    "l": "outdoor"
+   },
+   {
+    "v": "20 mA",
+    "l": "@ 12 V"
+   },
+   {
+    "v": "5",
+    "l": "range settings"
+   }
+  ],
+  "bestFor": [
+   "Gardens, driveways, yards",
+   "Sites with small animals (double-layer)",
+   "Wall or pole mounting"
+  ],
+  "notFor": [
+   "Masking-prone sites (VXI-AM has anti-mask)",
+   "Mount heights above 1.2 m"
+  ],
+  "features": [
+   "<b>Digital double-layer</b> detection",
+   "SMDA logic for weather & vegetation",
+   "Range adjustable 2.5–12 m",
+   "Back box for transmitters/EOL modules",
+   "5 masking seals included"
+  ],
+  "specs": [
+   [
+    "Power",
+    "9.5–18 VDC · 20 mA"
+   ],
+   [
+    "Alarm output",
+    "N.C./N.O. 28 VDC 0.1 A"
+   ],
+   [
+    "Mount height",
+    "0.8–1.2 m"
+   ],
+   [
+    "Operating temp",
+    "−30 to +60 °C"
+   ],
+   [
+    "Weight",
+    "500 g"
+   ]
+  ],
+  "models": [
+   [
+    "VXI-ST",
+    "Wired PIR — <b>this unit</b>",
+    true
+   ],
+   [
+    "VXI-AM",
+    "Wired with anti-masking"
+   ],
+   [
+    "VXI-DAM",
+    "Wired PIR + microwave, anti-mask"
+   ],
+   [
+    "VXI-R / RAM / RDAM",
+    "Battery versions"
+   ]
+  ],
+  "qa": [
+   [
+    "Anti-mask?",
+    "No — sell VXI-AM."
+   ],
+   [
+    "Wireless?",
+    "Use VXI-R with a transmitter in the back box."
+   ],
+   [
+    "180° cover?",
+    "Two units on the optional T-bracket."
+   ]
+  ],
+  "source": "Optex VX Infinity series brochure.",
+  "image": "products/07VXI-ST/image.png",
+  "onepager": "products/07VXI-ST/onepager.pdf"
+ },
+ {
+  "code": "07FTN-ST",
+  "name": "Optex FTN-ST Fit Outdoor PIR",
+  "brand": "Optex",
+  "category": "Intrusion › Outdoor detectors",
+  "subtitle": "Compact narrow outdoor PIR · 5 m or 2 m · 190° adjustable",
+  "tagline": "Slim curtain-style outdoor PIR for windows, balconies and walls.",
+  "keywords": [
+   "FTN-ST",
+   "FTN",
+   "Fit",
+   "fit series",
+   "curtain",
+   "outdoor PIR",
+   "narrow",
+   "balcony",
+   "Optex"
+  ],
+  "kpis": [
+   {
+    "v": "5 × 1 m",
+    "l": "narrow zone"
+   },
+   {
+    "v": "190°",
+    "l": "adjustable"
+   },
+   {
+    "v": "IP55",
+    "l": "outdoor"
+   },
+   {
+    "v": "17 mA",
+    "l": "@ 12 V"
+   }
+  ],
+  "bestFor": [
+   "Windows, balconies, walls",
+   "Narrow side passages",
+   "Homes with pets (narrow beam)"
+  ],
+  "notFor": [
+   "Open yards (use QXI or VXI)",
+   "Mounting above 1.2 m"
+  ],
+  "features": [
+   "<b>Narrow 5 m or 2 m</b> detection",
+   "190° horizontal adjustment",
+   "SMDA logic · intelligent AND logic",
+   "Double conductive shielding"
+  ],
+  "specs": [
+   [
+    "Power",
+    "9.5–18 VDC · 17 mA"
+   ],
+   [
+    "Alarm output",
+    "N.C./N.O. 28 VDC 0.1 A"
+   ],
+   [
+    "Mount height",
+    "0.8–1.2 m"
+   ],
+   [
+    "Operating temp",
+    "−20 to +60 °C"
+   ],
+   [
+    "Weight",
+    "100 g"
+   ]
+  ],
+  "models": [
+   [
+    "FTN-ST",
+    "Wired — <b>this unit</b>",
+    true
+   ],
+   [
+    "FTN-AM",
+    "Wired with anti-masking"
+   ],
+   [
+    "FTN-R / RAM",
+    "Battery versions"
+   ]
+  ],
+  "qa": [
+   [
+    "Range?",
+    "5 m or 2 m, selectable."
+   ],
+   [
+    "Anti-mask?",
+    "No — FTN-AM."
+   ],
+   [
+    "Wireless?",
+    "FTN-R with a transmitter."
+   ]
+  ],
+  "source": "Optex Fit series (FTN) brochure.",
+  "image": "products/07FTN-ST/image.png",
+  "onepager": "products/07FTN-ST/onepager.pdf"
+ },
+ {
+  "code": "07CX702C",
+  "name": "Optex CX-702 Indoor PIR",
+  "brand": "Optex",
+  "category": "Intrusion › Detectors",
+  "subtitle": "Indoor PIR for harsh environments · wide 21 m or long 45 m",
+  "tagline": "Indoor PIR for warehouses and storage units — switch between wide-angle and long-range lenses.",
+  "keywords": [
+   "CX-702",
+   "CX702",
+   "CX702C",
+   "warehouse",
+   "long range",
+   "indoor PIR",
+   "Optex"
+  ],
+  "kpis": [
+   {
+    "v": "21 × 21 m",
+    "l": "wide angle"
+   },
+   {
+    "v": "45 m",
+    "l": "long range"
+   },
+   {
+    "v": "68",
+    "l": "zones"
+   },
+   {
+    "v": "12 V",
+    "l": "8–11 mA"
+   }
+  ],
+  "bestFor": [
+   "Warehouses and aisles",
+   "Storage units and corridors",
+   "Hot or low-contrast rooms"
+  ],
+  "notFor": [
+   "Outdoor use",
+   "Rooms with pets roaming"
+  ],
+  "features": [
+   "<b>Dual-purpose lens</b> — wide 85° or 45 m long range",
+   "Temperature compensation",
+   "Sealed optics against drafts and insects",
+   "Multi-focus optics"
+  ],
+  "specs": [
+   [
+    "Power",
+    "9.5–16 VDC · 8/11 mA"
+   ],
+   [
+    "Alarm output",
+    "N.C. 28 VDC 0.2 A"
+   ],
+   [
+    "Mount height",
+    "1.5–3.6 m"
+   ],
+   [
+    "Operating temp",
+    "−20 to +50 °C"
+   ]
+  ],
+  "models": [
+   [
+    "CX-702",
+    "Wired — <b>this unit</b>",
+    true
+   ],
+   [
+    "CX-702RS / Ri",
+    "Battery versions"
+   ]
+  ],
+  "qa": [
+   [
+    "Long corridor?",
+    "Rotate the lens to the 45 m pattern."
+   ],
+   [
+    "Brackets?",
+    "CA-1W wall or CA-2C ceiling."
+   ],
+   [
+    "Outdoor?",
+    "No — indoor only."
+   ]
+  ],
+  "source": "Optex CX-702 Series brochure.",
+  "image": "products/07CX702C/image.png",
+  "onepager": "products/07CX702C/onepager.pdf"
+ },
+ {
+  "code": "10LFP12-50",
+  "name": "Uniross LFP12-50 Lithium Battery",
+  "brand": "Uniross",
+  "category": "Power & Energy › Batteries",
+  "subtitle": "12.8 V 50 Ah LiFePO4 lithium battery with built-in BMS",
+  "tagline": "Big lithium battery for gate motors, solar and backup — 2000+ cycles at a third of the lead-acid weight.",
+  "keywords": [
+   "LFP12-50",
+   "50Ah",
+   "lithium",
+   "LiFePO4",
+   "battery",
+   "12V",
+   "Uniross",
+   "solar",
+   "backup"
+  ],
+  "kpis": [
+   {
+    "v": "50 Ah",
+    "l": "capacity"
+   },
+   {
+    "v": "2000+",
+    "l": "cycles"
+   },
+   {
+    "v": "6 kg",
+    "l": "weight"
+   },
+   {
+    "v": "640 Wh",
+    "l": "energy"
+   }
+  ],
+  "bestFor": [
+   "Solar and inverter backup",
+   "Long-runtime security backup",
+   "Replacing heavy lead-acid banks"
+  ],
+  "notFor": [
+   "Charging below 0 °C",
+   "Chargers without a lithium/14.4 V profile"
+  ],
+  "features": [
+   "<b>Built-in BMS</b> — over-charge, over-discharge, short-circuit, temperature",
+   "Cell balancing",
+   "IP56 ABS case",
+   "M6 terminals"
+  ],
+  "specs": [
+   [
+    "Charge",
+    "14.4 V ±0.2 · 10 A standard, 50 A max"
+   ],
+   [
+    "Discharge",
+    "50 A continuous / pulse"
+   ],
+   [
+    "Size",
+    "229 × 138 × 215 mm"
+   ],
+   [
+    "Temp",
+    "Charge 0–45 °C · discharge −20–60 °C"
+   ]
+  ],
+  "models": [
+   [
+    "LFP12-20",
+    "20 Ah"
+   ],
+   [
+    "LFP12-50",
+    "50 Ah — <b>this unit</b>",
+    true
+   ],
+   [
+    "LFP12-100",
+    "100 Ah"
+   ]
+  ],
+  "qa": [
+   [
+    "Charger?",
+    "Use a lithium (LiFePO4) profile, 14.4 V."
+   ],
+   [
+    "Max load?",
+    "50 A continuous."
+   ],
+   [
+    "Outdoor box?",
+    "IP56 case, but keep it out of direct weather."
+   ]
+  ],
+  "source": "Uniross LFP12-50 datasheet.",
+  "image": "products/10LFP12-50/image.png",
+  "onepager": "products/10LFP12-50/onepager.pdf"
+ },
+ {
+  "code": "12BG1240",
+  "name": "CSB GP12400 Battery 12 V 40 Ah",
+  "brand": "CSB",
+  "category": "Power & Energy › Batteries",
+  "subtitle": "Sealed lead-acid (AGM) standby battery · GP series",
+  "tagline": "High-capacity 40 Ah standby battery for UPS, solar and large security systems.",
+  "keywords": [
+   "GP12400",
+   "GP 12400",
+   "40Ah",
+   "40 Ah",
+   "battery",
+   "12V",
+   "lead acid",
+   "AGM",
+   "CSB",
+   "UPS"
+  ],
+  "kpis": [
+   {
+    "v": "12 V",
+    "l": "nominal"
+   },
+   {
+    "v": "40 Ah",
+    "l": "20 h rate"
+   },
+   {
+    "v": "12.6 kg",
+    "l": "weight"
+   },
+   {
+    "v": "M6",
+    "l": "bolt terminals"
+   }
+  ],
+  "bestFor": [
+   "UPS and inverter backup",
+   "Large alarm / CCTV standby",
+   "Gate motor battery banks"
+  ],
+  "notFor": [
+   "Deep daily cycling (standby design)",
+   "Small cabinets — 197 × 165 × 170 mm"
+  ],
+  "features": [
+   "AGM, up to 99% gas recombination",
+   "Up to 5 years standby design life",
+   "400 A max discharge (5 s)"
+  ],
+  "specs": [
+   [
+    "Size",
+    "197 × 165 × 170.4 mm"
+   ],
+   [
+    "Weight",
+    "12.63 kg"
+   ],
+   [
+    "Float charge",
+    "13.5–13.8 V · max 12 A"
+   ],
+   [
+    "Internal resistance",
+    "8.5 mΩ"
+   ],
+   [
+    "Operating temp",
+    "Discharge −15 to +50 °C"
+   ]
+  ],
+  "models": [
+   [
+    "GP12170",
+    "17 Ah"
+   ],
+   [
+    "GP12260",
+    "26 Ah"
+   ],
+   [
+    "GP12400",
+    "40 Ah — <b>this unit</b>",
+    true
+   ]
+  ],
+  "qa": [
+   [
+    "Terminals?",
+    "I2 — takes an M6 bolt."
+   ],
+   [
+    "Max charge?",
+    "12 A."
+   ],
+   [
+    "Life?",
+    "Up to 5 years on standby at 25 °C."
+   ]
+  ],
+  "source": "CSB GP12400 datasheet (issued 170830).",
+  "image": "products/12BG1240/image.png",
+  "onepager": "products/12BG1240/onepager.pdf"
+ },
+ {
+  "code": "13400WHITE",
+  "name": "GRI 400 Industrial Surface Contact (White)",
+  "brand": "GRI",
+  "category": "Intrusion › Detectors",
+  "subtitle": "Heavy-duty screw-mount magnetic contact · concealed terminals",
+  "tagline": "Industrial surface contact for steel doors — hidden terminals and up to 38 mm gap.",
+  "imageNote": "Dimension drawing — no photo in the datasheet",
+  "keywords": [
+   "GRI 400",
+   "400",
+   "13400",
+   "surface contact",
+   "magnetic contact",
+   "door contact",
+   "industrial",
+   "steel door",
+   "GRI"
+  ],
+  "kpis": [
+   {
+    "v": "38 mm",
+    "l": "gap (1½\")"
+   },
+   {
+    "v": "Closed",
+    "l": "loop"
+   },
+   {
+    "v": "UL / ULC",
+    "l": "listed"
+   },
+   {
+    "v": "Lifetime",
+    "l": "warranty"
+   }
+  ],
+  "bestFor": [
+   "Steel doors and frames",
+   "Commercial and industrial sites",
+   "Tamper-resistant installs"
+  ],
+  "notFor": [
+   "Gaps over 38 mm (wide-gap 400WG)",
+   "Wireless systems"
+  ],
+  "features": [
+   "<b>Concealed terminals</b> in recessed back",
+   "Spacers and mounting hardware included",
+   "EOL resistors on request",
+   "Colours: white, brown, grey"
+  ],
+  "specs": [
+   [
+    "Loop",
+    "Closed loop"
+   ],
+   [
+    "Gap",
+    "Up to 1½\" (38 mm)"
+   ],
+   [
+    "Mounting",
+    "Screw-down surface"
+   ],
+   [
+    "Approvals",
+    "UL, ULC"
+   ]
+  ],
+  "models": [
+   [
+    "400",
+    "Closed loop, concealed terminals — <b>this unit</b>",
+    true
+   ],
+   [
+    "410",
+    "Terminals on the side"
+   ],
+   [
+    "410P",
+    "36\" (0.9 m) cable"
+   ],
+   [
+    "400WG",
+    "Wide gap up to 3¼\""
+   ]
+  ],
+  "qa": [
+   [
+    "Wide gap?",
+    "Sell the 400WG (up to 3¼\")."
+   ],
+   [
+    "Pre-wired?",
+    "410P has a 0.9 m cable."
+   ],
+   [
+    "Warranty?",
+    "Lifetime."
+   ]
+  ],
+  "source": "GRI 400/410/410P Series spec sheet.",
+  "image": "products/13400WHITE/image.png",
+  "onepager": "products/13400WHITE/onepager.pdf"
+ },
+ {
+  "code": "14SHTX4",
+  "name": "Sherlotronics TX4 4-Button Remote",
+  "brand": "Sherlotronics",
+  "category": "Access Control › Remotes & receivers",
+  "subtitle": "Code-hopping keyring remote · 4 buttons · 500 m",
+  "tagline": "Tough, long-range 4-button remote for gates, garages, alarms and lights.",
+  "keywords": [
+   "TX4",
+   "SHTX4",
+   "remote",
+   "keyring",
+   "transmitter",
+   "Sherlotronics",
+   "gate remote",
+   "code hopping"
+  ],
+  "kpis": [
+   {
+    "v": "4",
+    "l": "buttons"
+   },
+   {
+    "v": "500 m",
+    "l": "open air"
+   },
+   {
+    "v": "2 yrs",
+    "l": "battery"
+   },
+   {
+    "v": "23A",
+    "l": "12 V battery"
+   }
+  ],
+  "bestFor": [
+   "Gate and garage doors",
+   "Arming / disarming alarms",
+   "Lights, generators, panic"
+  ],
+  "notFor": [
+   "Non-Sherlotronics receivers"
+  ],
+  "features": [
+   "<b>Code-hopping</b> encryption",
+   "Low-battery LED",
+   "Rubber buttons with positive click",
+   "Crystal-controlled frequency"
+  ],
+  "specs": [
+   [
+    "Frequency",
+    "403 MHz / 433 MHz"
+   ],
+   [
+    "Battery",
+    "12 V 23A alkaline"
+   ],
+   [
+    "Size / weight",
+    "70 × 37 × 18 mm · 31 g"
+   ],
+   [
+    "Operating temp",
+    "−3 to +65 °C"
+   ],
+   [
+    "Warranty",
+    "24 months"
+   ]
+  ],
+  "models": [
+   [
+    "TX1",
+    "1 button"
+   ],
+   [
+    "TX2",
+    "2 button"
+   ],
+   [
+    "TX4",
+    "4 button — <b>this unit</b>",
+    true
+   ],
+   [
+    "TX6 / TX6 ICON",
+    "6 button"
+   ]
+  ],
+  "qa": [
+   [
+    "Battery?",
+    "12 V 23A — about 2 years or 10,000 presses."
+   ],
+   [
+    "Range?",
+    "Up to 500 m open air."
+   ],
+   [
+    "Which receivers?",
+    "Sherlotronics RX range."
+   ]
+  ],
+  "source": "Sherlotronics Keyring Remotes datasheet.",
+  "image": "products/14SHTX4/image.png",
+  "onepager": "products/14SHTX4/onepager.pdf"
+ },
+ {
+  "code": "14SHRX1-150",
+  "name": "Sherlotronics RX1-150 Receiver",
+  "brand": "Sherlotronics",
+  "category": "Access Control › Remotes & receivers",
+  "subtitle": "1-channel code-hopping receiver · 150 m",
+  "tagline": "Simple single-relay receiver for one gate, door or light — up to 80 remotes.",
+  "image": null,
+  "imageNote": "No product photo in the datasheet",
+  "keywords": [
+   "RX1-150",
+   "RX1",
+   "receiver",
+   "Sherlotronics",
+   "1 channel",
+   "gate receiver",
+   "code hopping"
+  ],
+  "kpis": [
+   {
+    "v": "1",
+    "l": "relay channel"
+   },
+   {
+    "v": "150 m",
+    "l": "line of sight"
+   },
+   {
+    "v": "80",
+    "l": "remotes"
+   },
+   {
+    "v": "12 V",
+    "l": "10–16 VDC"
+   }
+  ],
+  "bestFor": [
+   "Single gate or garage",
+   "Switching one light or lock",
+   "Adding remotes to an existing motor"
+  ],
+  "notFor": [
+   "More than one output (RX2 / RX4)",
+   "Over 80 remotes"
+  ],
+  "features": [
+   "<b>Code-hopping</b> decoding",
+   "Relay N.O./N.C., 3 A",
+   "Pulse 0.5 / 1 / 3 s, latch or 3 min",
+   "Erase individual remotes"
+  ],
+  "specs": [
+   [
+    "Frequency",
+    "403 MHz (local) / 433 MHz (export)"
+   ],
+   [
+    "Power",
+    "10–16 VDC · 14 mA standby, 50 mA active"
+   ],
+   [
+    "Relay",
+    "3 A @ 24 VDC / 120 VAC"
+   ],
+   [
+    "Size",
+    "100 × 60 × 25 mm"
+   ],
+   [
+    "Operating temp",
+    "−3 to +49 °C"
+   ]
+  ],
+  "models": [
+   [
+    "RX1-150",
+    "1 channel — <b>this unit</b>",
+    true
+   ],
+   [
+    "RX2-150",
+    "2 channel"
+   ],
+   [
+    "RX4-500",
+    "4 channel, 500 m"
+   ]
+  ],
+  "qa": [
+   [
+    "How many remotes?",
+    "Up to 80."
+   ],
+   [
+    "Latching?",
+    "Yes — set by jumpers."
+   ],
+   [
+    "Indoors range?",
+    "About 60 m."
+   ]
+  ],
+  "source": "Sherlotronics RX1-150 installation instructions.",
+  "onepager": "products/14SHRX1-150/onepager.pdf"
+ },
+ {
+  "code": "1702122-000",
+  "name": "ET Nice DC Blue Advanced Garage Motor",
+  "brand": "ET Nice",
+  "category": "Access Control › Gate & garage motors",
+  "subtitle": "Overhead sectional garage door operator · up to 15 m²",
+  "tagline": "Reliable 24 V garage door motor with battery backup and built-in ET-Blu Mix receiver.",
+  "note": "Brochure covers the DC Blue Advanced Pico, standard and Hi-Speed. Specs shown are for the standard model — confirm this stock code.",
+  "keywords": [
+   "DC Blue",
+   "DC Blue Advanced",
+   "garage motor",
+   "garage door operator",
+   "ET Nice",
+   "Nice",
+   "ET",
+   "sectional door",
+   "tip-up"
+  ],
+  "kpis": [
+   {
+    "v": "15 m²",
+    "l": "max door"
+   },
+   {
+    "v": "1000 N",
+    "l": "max pull"
+   },
+   {
+    "v": "100",
+    "l": "ops on battery"
+   },
+   {
+    "v": "24 V",
+    "l": "DC motor"
+   }
+  ],
+  "bestFor": [
+   "Residential sectional and tip-up doors",
+   "Areas with load-shedding (battery backup)",
+   "Customers with ET-Blu remotes"
+  ],
+  "notFor": [
+   "Roll-up doors (DC Blue Advanced Roll-Up)",
+   "Commercial doors over 15 m² (SOON / SUMO)"
+  ],
+  "features": [
+   "<b>Battery backup</b> — 100 ops in 24 h (3.5 Ah)",
+   "<b>ET-Blu Mix</b> rolling-code receiver built in",
+   "7-segment display for setup & faults",
+   "Safety beam input · auto-close · LED light",
+   "Chain or silent belt drive"
+  ],
+  "specs": [
+   [
+    "Input",
+    "220–240 VAC, 50/60 Hz"
+   ],
+   [
+    "Duty cycle",
+    "50 cycles / 24 h"
+   ],
+   [
+    "Speed",
+    "8 m/min"
+   ],
+   [
+    "Running distance",
+    "3 m max"
+   ],
+   [
+    "Receiver",
+    "433.92 MHz · 35 buttons"
+   ]
+  ],
+  "models": [
+   [
+    "DC Blue Advanced Pico",
+    "10 m², 600 N"
+   ],
+   [
+    "DC Blue Advanced",
+    "15 m², 1000 N — <b>specs shown</b>",
+    true
+   ],
+   [
+    "DC Blue Advanced Hi-Speed",
+    "10 m², 11 m/min"
+   ]
+  ],
+  "qa": [
+   [
+    "Works in a power cut?",
+    "Yes — about 100 operations from a 3.5 Ah battery."
+   ],
+   [
+    "Remotes?",
+    "ET-Blu Mix and ET Blue."
+   ],
+   [
+    "Belt or chain?",
+    "Both available."
+   ]
+  ],
+  "source": "ET Nice Residential & Commercial Garage Door Operators brochure.",
+  "image": "products/1702122-000/image.png",
+  "onepager": "products/1702122-000/onepager.pdf"
+ },
+ {
+  "code": "1702392-000",
+  "name": "Accentronix Infinity Wireless Intercom",
+  "brand": "Accentronix",
+  "category": "Access Control › Intercoms",
+  "subtitle": "LTE/4G GSM gate intercom · Bluetooth · app · 10,000 users",
+  "tagline": "Gate intercom that calls residents' cellphones — with app control, OTP visitor codes and NICE remotes.",
+  "note": "The datasheet covers Complex, Index, Mini and 2-Button versions. Confirm which one this stock code is.",
+  "keywords": [
+   "Infinity",
+   "Accentronix",
+   "GSM intercom",
+   "intercom",
+   "LTE",
+   "4G",
+   "gate",
+   "app",
+   "OTP",
+   "Cellswitch"
+  ],
+  "kpis": [
+   {
+    "v": "LTE",
+    "l": "4G / VoLTE"
+   },
+   {
+    "v": "10,000",
+    "l": "users"
+   },
+   {
+    "v": "3",
+    "l": "relays"
+   },
+   {
+    "v": "BLE",
+    "l": "app nearby"
+   }
+  ],
+  "bestFor": [
+   "Estates and complexes",
+   "Homes without a cabled intercom",
+   "Visitor control with one-time PINs"
+  ],
+  "notFor": [
+   "Sites with no cellular signal",
+   "Powering from the gate AUX output"
+  ],
+  "features": [
+   "<b>Calls residents' cellphones</b> (VoLTE)",
+   "<b>Visitor OTP</b> via SMS or WhatsApp",
+   "Built-in NICE receiver for remotes & wireless keypads",
+   "Smart Home app — control, logs, alerts",
+   "Marine-grade stainless enclosure",
+   "SIM (Vodacom or MTN) and 1 year subscription included"
+  ],
+  "specs": [
+   [
+    "Power",
+    "12–24 VDC · 200 mA idle, up to 2 A pulses"
+   ],
+   [
+    "Outputs",
+    "3 relays, 2 A @ 50 VDC"
+   ],
+   [
+    "Inputs",
+    "2 (12/24 V trigger)"
+   ],
+   [
+    "Size",
+    "Complex/Index 262 × 190 × 120 · Mini/2-Button 182 × 135 × 85 mm"
+   ]
+  ],
+  "qa": [
+   [
+    "Power?",
+    "Connect straight to the gate battery, not the AUX output."
+   ],
+   [
+    "Airtime?",
+    "Load at least R30 on the SIM before registering."
+   ],
+   [
+    "Tags?",
+    "Yes, with the Accentronix MIFARE tag reader."
+   ]
+  ],
+  "source": "Accentronix Infinity Wireless Intercom brochure.",
+  "image": "products/1702392-000/image.png",
+  "onepager": "products/1702392-000/onepager.pdf"
+ },
+ {
+  "code": "1938244-40-BL1",
+  "name": "Ajax Hub 2 Plus (Black)",
+  "brand": "Ajax",
+  "category": "Intrusion › Alarm panels",
+  "subtitle": "Jeweller wireless control panel · 2 SIM 4G, Wi-Fi, Ethernet · photo verification",
+  "tagline": "Top Ajax hub — 200 devices, four connection paths and MotionCam photo verification.",
+  "keywords": [
+   "Hub 2 Plus",
+   "Hub2 Plus",
+   "Ajax",
+   "hub",
+   "control panel",
+   "wireless alarm",
+   "Jeweller",
+   "Wings",
+   "4G",
+   "LTE",
+   "black"
+  ],
+  "kpis": [
+   {
+    "v": "200",
+    "l": "devices"
+   },
+   {
+    "v": "4 paths",
+    "l": "LAN · Wi-Fi · 2 SIM"
+   },
+   {
+    "v": "15 h",
+    "l": "backup battery"
+   },
+   {
+    "v": "2 km",
+    "l": "radio (open air)"
+   }
+  ],
+  "bestFor": [
+   "Larger homes and businesses",
+   "Sites needing photo verification",
+   "Customers wanting the app-based Ajax system"
+  ],
+  "notFor": [
+   "Wired detectors without a transmitter",
+   "Outdoor mounting (indoor only)"
+  ],
+  "features": [
+   "<b>Jeweller + Wings</b> radio — alarms and photos",
+   "Ethernet, Wi-Fi and 2 × micro-SIM (2G/3G/LTE)",
+   "Up to 100 IP cameras (Dahua, Hikvision, EZVIZ, RTSP)",
+   "64 automation scenarios · 25 groups · 200 users"
+  ],
+  "specs": [
+   [
+    "Power",
+    "110–240 VAC · Li-ion 3 Ah backup"
+   ],
+   [
+    "Size / weight",
+    "163 × 163 × 36 mm · 351 g"
+   ],
+   [
+    "Operating temp",
+    "−10 to +40 °C"
+   ],
+   [
+    "Limits",
+    "10 sirens/keypads · 5 range extenders"
+   ]
+  ],
+  "qa": [
+   [
+    "App?",
+    "Yes — Ajax apps for users and installers."
+   ],
+   [
+    "Photo alarms?",
+    "Yes, with MotionCam detectors."
+   ],
+   [
+    "Colours?",
+    "Black (this unit) and white."
+   ]
+  ],
+  "source": "Ajax Hub 2 Plus Jeweller tech specs (web).",
+  "image": "products/1938244-40-BL1/image.png",
+  "onepager": "products/1938244-40-BL1/onepager.pdf"
+ },
+ {
+  "code": "22HS2064NKZAM0",
+  "name": "DSC PowerSeries Neo HS2064 Panel",
+  "brand": "DSC",
+  "category": "Intrusion › Alarm panels",
+  "subtitle": "Hybrid wired + PowerG wireless alarm panel · 8 to 64 zones",
+  "tagline": "Mid-size PowerSeries Neo panel — 64 zones, 8 partitions, 500 users, same keypads as the rest of the range.",
+  "note": "Confirm what this stock code includes (board, cabinet, transformer, keypad) before quoting.",
+  "keywords": [
+   "HS2064",
+   "Neo",
+   "PowerSeries",
+   "panel",
+   "control panel",
+   "alarm panel",
+   "DSC",
+   "hybrid",
+   "PowerG"
+  ],
+  "kpis": [
+   {
+    "v": "8→64",
+    "l": "zones"
+   },
+   {
+    "v": "8",
+    "l": "partitions"
+   },
+   {
+    "v": "500",
+    "l": "user codes"
+   },
+   {
+    "v": "500",
+    "l": "event log"
+   }
+  ],
+  "bestFor": [
+   "Medium businesses and large homes",
+   "Multiple partitions (e.g. office + warehouse)",
+   "Mixing wired and PowerG wireless"
+  ],
+  "notFor": [
+   "Small homes (HS2016 is enough)",
+   "Over 64 zones (HS2128)"
+  ],
+  "features": [
+   "<b>Hybrid</b> — wired zones plus PowerG wireless",
+   "<b>128-bit AES</b> encryption",
+   "4 on-board PGMs (3 high-current)",
+   "Remote programming via DLS 5",
+   "Alarm.com compatible"
+  ],
+  "specs": [
+   [
+    "Power supply",
+    "16.5 VAC / 40 VA transformer"
+   ],
+   [
+    "Keypads",
+    "Up to 8 wired + 8 wireless"
+   ],
+   [
+    "Repeaters",
+    "Up to 8"
+   ],
+   [
+    "Operating temp",
+    "0 to 49 °C · 93% RH"
+   ]
+  ],
+  "models": [
+   [
+    "HS2016",
+    "6 → 16 zones, 2 partitions"
+   ],
+   [
+    "HS2032",
+    "8 → 32 zones, 4 partitions"
+   ],
+   [
+    "HS2064",
+    "8 → 64 zones, 8 partitions — <b>this panel</b>",
+    true
+   ],
+   [
+    "HS2128",
+    "8 → 128 zones, 8 partitions"
+   ]
+  ],
+  "qa": [
+   [
+    "Battery?",
+    "Yes, a 12 V standby battery is required."
+   ],
+   [
+    "Wireless?",
+    "Add an HSM2HOST or RF keypad."
+   ],
+   [
+    "Internet?",
+    "Add a TL280 or TL280LE communicator."
+   ]
+  ],
+  "source": "DSC PowerSeries Neo Control Panels datasheet (PN 330001878).",
+  "image": "products/22HS2064NKZAM0/image.png",
+  "onepager": "products/22HS2064NKZAM0/onepager.pdf"
+ },
+ {
+  "code": "22TL280LE",
+  "name": "DSC TL280LE LTE + IP Dual-Path Communicator",
+  "brand": "DSC",
+  "category": "Intrusion › Communicators",
+  "subtitle": "PowerSeries Neo cellular (LTE/HSPA) + Internet alarm communicator",
+  "tagline": "Dual-path communicator for Neo panels — reports over LTE and the Internet, no phone line needed.",
+  "note": "This datasheet is the North American version (AT&T / Bell / Rogers SIM). Confirm local network and SIM support before selling.",
+  "keywords": [
+   "TL280LE",
+   "LE2080",
+   "communicator",
+   "dual path",
+   "LTE",
+   "4G",
+   "GSM",
+   "IP",
+   "DSC",
+   "Neo"
+  ],
+  "kpis": [
+   {
+    "v": "LTE + IP",
+    "l": "dual path"
+   },
+   {
+    "v": "AES",
+    "l": "128-bit"
+   },
+   {
+    "v": "90 mA",
+    "l": "current"
+   },
+   {
+    "v": "Neo",
+    "l": "HS2016–HS2128"
+   }
+  ],
+  "bestFor": [
+   "Monitored Neo systems",
+   "Sites with no phone line",
+   "Upgrading a phone-line panel to dual path"
+  ],
+  "notFor": [
+   "Non-Neo panels",
+   "Areas with poor cellular signal (use antenna kit or remote mounting)"
+  ],
+  "features": [
+   "<b>Cellular + Internet</b> fully redundant paths",
+   "Remote upload/download via DLS",
+   "Visual verification support",
+   "SMS command and control",
+   "Antenna extension kits available"
+  ],
+  "specs": [
+   [
+    "Compatible panels",
+    "HS2016 / HS2032 / HS2064 / HS2128"
+   ],
+   [
+    "Receivers",
+    "Sur-Gard System I-IP to 5"
+   ],
+   [
+    "Current draw",
+    "90 mA"
+   ],
+   [
+    "Size / weight",
+    "150 × 115 mm · 310 g"
+   ],
+   [
+    "Operating temp",
+    "5 to 40 °C"
+   ]
+  ],
+  "models": [
+   [
+    "TL280E",
+    "Internet only"
+   ],
+   [
+    "LE2080E",
+    "Cellular only"
+   ],
+   [
+    "TL280LE",
+    "Cellular + Internet — <b>this unit</b>",
+    true
+   ]
+  ],
+  "qa": [
+   [
+    "Phone line needed?",
+    "No."
+   ],
+   [
+    "Connects how?",
+    "PC-Link header on the Neo panel."
+   ],
+   [
+    "Weak signal?",
+    "Use LT-15/25/50ANT antenna kits or remote mount."
+   ]
+  ],
+  "source": "DSC LE2080(R)E/TL280LE(R)E datasheet (PN 30002025).",
+  "image": "products/22TL280LE/image.png",
+  "onepager": "products/22TL280LE/onepager.pdf"
+ },
+ {
+  "code": "38TC-C32XS",
+  "name": "Tiandy 2MP Lite Turret IP Camera 2.8 mm",
+  "brand": "Tiandy",
+  "category": "Surveillance › IP cameras",
+  "subtitle": "TC-C32XS · dual light IR 30 m / white 15 m · mic · IP66",
+  "tagline": "2MP turret with smart dual light — IR at night, switches to colour when something moves.",
+  "keywords": [
+   "TC-C32XS",
+   "C32XS",
+   "turret",
+   "IP camera",
+   "2MP",
+   "Tiandy",
+   "Lite",
+   "dual light",
+   "mic"
+  ],
+  "kpis": [
+   {
+    "v": "2 MP",
+    "l": "1080p"
+   },
+   {
+    "v": "30 m",
+    "l": "IR / 15 m white"
+   },
+   {
+    "v": "IP66",
+    "l": "outdoor"
+   },
+   {
+    "v": "512 GB",
+    "l": "microSD"
+   }
+  ],
+  "bestFor": [
+   "Homes, shopfronts, entrances",
+   "Colour footage of events at night",
+   "Tiandy NVR systems"
+  ],
+  "notFor": [
+   "Long views or plates",
+   "Sites where a visible light would annoy neighbours"
+  ],
+  "features": [
+   "<b>Smart dual light</b> — IR + warm light",
+   "<b>Built-in mic</b>",
+   "Human / vehicle classification",
+   "MicroSD up to 512 GB"
+  ],
+  "specs": [
+   [
+    "Sensor",
+    "1/2.8\" CMOS · 1920 × 1080"
+   ],
+   [
+    "Lens",
+    "2.8 mm fixed · F1.6 · 105° H"
+   ],
+   [
+    "Power",
+    "12 VDC (4 W) or PoE 802.3af (5 W)"
+   ],
+   [
+    "Size / weight",
+    "117 × 117 × 96 mm · 0.53 kg"
+   ]
+  ],
+  "coverage": {
+   "title": "DORI distances (2.8 mm)",
+   "rows": [
+    [
+     "Detect",
+     "38.6 m"
+    ],
+    [
+     "Observe",
+     "15.3 m"
+    ],
+    [
+     "Recognise",
+     "7.7 m"
+    ],
+    [
+     "Identify",
+     "3.8 m",
+     true
+    ]
+   ]
+  },
+  "models": [
+   [
+    "TC-C320N",
+    "AK turret, PoE only, no SD"
+   ],
+   [
+    "TC-C32XS",
+    "Lite, dual light, SD — <b>this unit</b>",
+    true
+   ]
+  ],
+  "qa": [
+   [
+    "Sound?",
+    "Yes, built-in mic."
+   ],
+   [
+    "SD card?",
+    "Up to 512 GB."
+   ],
+   [
+    "Outdoors?",
+    "Yes, IP66."
+   ]
+  ],
+  "source": "Tiandy TC-C32XS spec sheet (V5.0).",
+  "image": "products/38TC-C32XS/image.png",
+  "onepager": "products/38TC-C32XS/onepager.pdf"
+ },
+ {
+  "code": "38TC-C34QN",
+  "name": "Tiandy 4MP SuperLite Bullet IP Camera 2.8 mm",
+  "brand": "Tiandy",
+  "category": "Surveillance › IP cameras",
+  "subtitle": "TC-C34QN · IR 50 m / white 15 m · mic · IP67",
+  "tagline": "Budget 4MP bullet with 50 m IR and a built-in mic.",
+  "keywords": [
+   "TC-C34QN",
+   "C34QN",
+   "bullet",
+   "IP camera",
+   "4MP",
+   "Tiandy",
+   "SuperLite",
+   "mic"
+  ],
+  "kpis": [
+   {
+    "v": "4 MP",
+    "l": "2688×1520"
+   },
+   {
+    "v": "50 m",
+    "l": "IR night"
+   },
+   {
+    "v": "IP67",
+    "l": "outdoor"
+   },
+   {
+    "v": "PoE",
+    "l": "or 12 V"
+   }
+  ],
+  "bestFor": [
+   "Driveways, yards, perimeters",
+   "Budget 4MP IP systems",
+   "Sites wanting audio"
+  ],
+  "notFor": [
+   "Local SD recording (none listed)",
+   "Number plates"
+  ],
+  "features": [
+   "<b>4MP</b> with 50 m IR",
+   "<b>Built-in mic</b>",
+   "Warm light up to 15 m",
+   "S+265 compression"
+  ],
+  "specs": [
+   [
+    "Sensor",
+    "1/2.9\" CMOS"
+   ],
+   [
+    "Lens",
+    "2.8 mm fixed · F1.6 · 100° H"
+   ],
+   [
+    "Power",
+    "12 VDC (6.5 W) or PoE 802.3af (7 W)"
+   ],
+   [
+    "Size / weight",
+    "164 × 73 × 73 mm · 0.3 kg"
+   ]
+  ],
+  "coverage": {
+   "title": "DORI distances (2.8 mm)",
+   "rows": [
+    [
+     "Detect",
+     "56 m"
+    ],
+    [
+     "Observe",
+     "22.2 m"
+    ],
+    [
+     "Recognise",
+     "11.2 m"
+    ],
+    [
+     "Identify",
+     "5.6 m",
+     true
+    ]
+   ]
+  },
+  "qa": [
+   [
+    "Sound?",
+    "Yes, built-in mic."
+   ],
+   [
+    "SD card?",
+    "Not listed on the datasheet."
+   ],
+   [
+    "Outdoors?",
+    "Yes, IP67, −30 to +60 °C."
+   ]
+  ],
+  "source": "Tiandy TC-C34QN spec sheet (V4.2).",
+  "image": "products/38TC-C34QN/image.png",
+  "onepager": "products/38TC-C34QN/onepager.pdf"
+ },
+ {
+  "code": "22PG8994",
+  "name": "DSC PowerG Outdoor PIR",
+  "brand": "DSC",
+  "category": "Intrusion › Wireless detectors",
+  "subtitle": "PG8994 wireless outdoor mirror-optic PIR · anti-mask · 868 MHz",
+  "tagline": "Wireless outdoor PIR that tells people apart from swaying trees and small animals — ideal for gardens and driveways.",
+  "image": "products/22PG8994/image.png",
+  "keywords": [
+   "PG4994",
+   "PG8994",
+   "outdoor PIR",
+   "external",
+   "wireless",
+   "PowerG",
+   "anti mask",
+   "Octa-Quad",
+   "DSC",
+   "garden"
+  ],
+  "kpis": [
+   {
+    "v": "12 × 12 m",
+    "l": "coverage (90°)"
+   },
+   {
+    "v": "18 kg",
+    "l": "pet immunity"
+   },
+   {
+    "v": "3 yrs",
+    "l": "battery life"
+   },
+   {
+    "v": "−40–70 °C",
+    "l": "operating"
+   }
+  ],
+  "bestFor": [
+   "Gardens, driveways and yards on Neo systems",
+   "Early warning before intruders reach the house",
+   "Homes with dogs up to 18 kg",
+   "Sites where outdoor cabling isn't practical"
+  ],
+  "notFor": [
+   "Non-Neo panels",
+   "Areas with dogs over 18 kg roaming",
+   "Facing busy roads or public walkways"
+  ],
+  "features": [
+   "<b>Octa-Quad</b> — 8 PIR sensors tell people from trees & animals",
+   "<b>Anti-masking</b> — alerts if it's covered or sprayed",
+   "Black mirror optics — ignores sunlight over 25,000 lux",
+   "Link-quality LED, set up from the keypad"
+  ],
+  "coverage": {
+   "title": "Coverage",
+   "image": "products/22PG8994/coverage.png",
+   "rows": [
+    [
+     "Area",
+     "12 m × 12 m / 90°",
+     true
+    ],
+    [
+     "Mount height",
+     "1.5 – 3 m"
+    ],
+    [
+     "Pet immunity",
+     "18 kg / 40 lb",
+     true
+    ]
+   ]
+  },
+  "specs": [
+   [
+    "Battery",
+    "2 × 3 V CR123A lithium"
+   ],
+   [
+    "Battery life",
+    "About 3 years (typical use)"
+   ],
+   [
+    "Size",
+    "157 × 147 × 124 mm"
+   ],
+   [
+    "Weight",
+    "600 g with batteries"
+   ],
+   [
+    "Operating temp",
+    "−40 to +70 °C"
+   ]
+  ],
+  "models": [
+   [
+    "PG4994",
+    "433 MHz version"
+   ],
+   [
+    "PG8994",
+    "868 MHz — <b>this unit</b>",
+    true
+   ],
+   [
+    "PG4944",
+    "Outdoor PIR with camera"
+   ]
+  ],
+  "qa": [
+   [
+    "Big dogs?",
+    "Pet immune to 18 kg only — keep larger dogs out of the area."
+   ],
+   [
+    "Batteries?",
+    "2 × CR123A, about 3 years."
+   ],
+   [
+    "Camera?",
+    "No — the PG4944 has a camera."
+   ]
+  ],
+  "source": "DSC PG8994/PG4994 datasheet (PN 30002196).",
+  "onepager": "products/22PG8994/onepager.pdf",
+  "note": "This is the 868 MHz model. Check it matches the customer's PowerG receiver frequency."
+ },
+ {
+  "code": "22PG8936",
+  "name": "DSC PowerG Smoke & Heat Detector",
+  "brand": "DSC",
+  "category": "Intrusion › Wireless detectors",
+  "subtitle": "PG8936 wireless photoelectric smoke + heat detector · 868 MHz",
+  "tagline": "Wireless smoke and heat alarm that sounds locally and reports to the alarm system and control room.",
+  "image": "products/22PG8936/image.png",
+  "keywords": [
+   "PG4936",
+   "PG8936",
+   "smoke detector",
+   "heat detector",
+   "fire",
+   "wireless",
+   "PowerG",
+   "DSC",
+   "smoke alarm"
+  ],
+  "kpis": [
+   {
+    "v": "Smoke+Heat",
+    "l": "photoelectric"
+   },
+   {
+    "v": "57 °C",
+    "l": "heat alarm"
+   },
+   {
+    "v": "85 dB",
+    "l": "built-in buzzer"
+   },
+   {
+    "v": "AES",
+    "l": "128-bit"
+   }
+  ],
+  "bestFor": [
+   "Adding fire detection to a Neo or iotega alarm",
+   "Homes and small offices without a fire panel",
+   "Bedrooms, passages, lounges"
+  ],
+  "notFor": [
+   "Buildings needing a certified fire panel system",
+   "Kitchens and bathrooms (steam / cooking smoke)",
+   "Non-PowerG systems"
+  ],
+  "features": [
+   "<b>Photoelectric smoke</b> + <b>heat</b> sensor (above 57 °C)",
+   "<b>85 dB buzzer</b> + flashing LED on the unit",
+   "Triggers the alarm siren and notifies the control room",
+   "Alerts for low battery, dirty sensor, tamper",
+   "Quick wireless install, no repeater usually needed"
+  ],
+  "specs": [
+   [
+    "Detection",
+    "Photoelectric smoke, fixed heat 57 °C"
+   ],
+   [
+    "Local alarm",
+    "85 dB buzzer + LED"
+   ],
+   [
+    "Compatibility",
+    "PowerSeries Neo, iotega, PowerMaster"
+   ],
+   [
+    "Radio",
+    "PowerG 2-way, 128-bit AES"
+   ]
+  ],
+  "models": [
+   [
+    "PG4936",
+    "433 MHz version"
+   ],
+   [
+    "PG8936",
+    "868 MHz — <b>this unit</b>",
+    true
+   ]
+  ],
+  "qa": [
+   [
+    "Does it beep itself?",
+    "Yes — 85 dB buzzer plus the alarm siren."
+   ],
+   [
+    "Kitchen?",
+    "No — nuisance alarms from cooking."
+   ],
+   [
+    "Battery details?",
+    "Not in this brochure — check the install sheet."
+   ]
+  ],
+  "source": "DSC PowerG Wireless Smoke & Heat Detector brochure (PN 30002484).",
+  "onepager": "products/22PG8936/onepager.pdf",
+  "note": "This is the 868 MHz model. Check it matches the customer's PowerG receiver frequency."
+ },
+ {
+  "code": "22PG8945",
+  "name": "DSC PowerG Door/Window Contact",
+  "brand": "DSC",
+  "category": "Intrusion › Wireless detectors",
+  "subtitle": "PG8945 wireless door/window contact with auxiliary input · 868 MHz",
+  "tagline": "Wireless magnetic contact for doors and windows — with a spare input to connect a wired contact too.",
+  "image": "products/22PG8945/image.png",
+  "keywords": [
+   "PG4945",
+   "PG8945",
+   "door contact",
+   "window contact",
+   "magnetic contact",
+   "reed",
+   "PowerG",
+   "wireless",
+   "DSC"
+  ],
+  "kpis": [
+   {
+    "v": "8 yrs",
+    "l": "battery life"
+   },
+   {
+    "v": "2 km",
+    "l": "radio (open air)"
+   },
+   {
+    "v": "+1",
+    "l": "aux wired input"
+   },
+   {
+    "v": "AES",
+    "l": "128-bit"
+   }
+  ],
+  "bestFor": [
+   "Doors and windows on PowerSeries Neo systems",
+   "Places where cabling is hard",
+   "Adding a nearby wired contact via the aux input",
+   "Tight frames where the magnet gap is an issue"
+  ],
+  "notFor": [
+   "Non-Neo / non-PowerG panels",
+   "Outdoor gates (use PG8312 outdoor contact)",
+   "Metal frames without testing the gap"
+  ],
+  "features": [
+   "<b>Link-quality LED</b> on the device — find the best spot fast",
+   "<b>Aux input</b> — N/O, N/C or EOL wired contact",
+   "Configured from the keypad — no DIP switches",
+   "Fully supervised, frequency hopping, 128-bit AES"
+  ],
+  "specs": [
+   [
+    "Battery",
+    "3 V CR123A lithium"
+   ],
+   [
+    "Battery life",
+    "Up to 8 years (typical use)"
+   ],
+   [
+    "Size / weight",
+    "81 × 34 × 25 mm · 53 g"
+   ],
+   [
+    "Operating temp",
+    "−10 to +55 °C"
+   ],
+   [
+    "Compatibility",
+    "PowerSeries Neo"
+   ]
+  ],
+  "models": [
+   [
+    "PG4945",
+    "433 MHz version"
+   ],
+   [
+    "PG8945",
+    "868 MHz — <b>this unit</b>",
+    true
+   ]
+  ],
+  "qa": [
+   [
+    "Battery?",
+    "CR123A 3 V lithium — about 8 years."
+   ],
+   [
+    "Wired contact on the same door?",
+    "Yes, use the aux input."
+   ],
+   [
+    "Which panel?",
+    "PowerSeries Neo with a PowerG receiver."
+   ]
+  ],
+  "source": "DSC PG8945/PG4945 datasheet (PN 30002190).",
+  "onepager": "products/22PG8945/onepager.pdf",
+  "note": "This is the 868 MHz model. Check it matches the customer's PowerG receiver frequency."
  }
 ]
