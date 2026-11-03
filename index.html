@@ -31,13 +31,20 @@
   chips.onclick = e => { const b = e.target.closest('.chip'); if (!b) return; cat = b.dataset.c;
     chips.querySelectorAll('.chip').forEach(x => x.classList.toggle('on', x === b)); render(); };
 
+  // Order by the leading number of the stock code (07… before 22… before 51…), then the rest of the code
+  function byCode(a, b) {
+    const na = parseInt(a, 10), nb = parseInt(b, 10);
+    const xa = isNaN(na) ? Infinity : na, xb = isNaN(nb) ? Infinity : nb;
+    return xa - xb || a.localeCompare(b, undefined, { numeric: true, sensitivity: 'base' });
+  }
+
   function render() {
     const terms = q.value.trim().toLowerCase().split(/\s+/).filter(Boolean);
     const list = products
       .filter(p => cat === 'All' || p.category.startsWith(cat))
       .map(p => ({ p, s: score(p, terms) }))
       .filter(x => !terms.length || x.s > 0)
-      .sort((a, b) => b.s - a.s || a.p.name.localeCompare(b.p.name));
+      .sort((a, b) => (terms.length ? b.s - a.s : 0) || byCode(a.p.code, b.p.code));
     count.textContent = `${list.length} product${list.length === 1 ? '' : 's'}`;
     grid.innerHTML = list.length ? list.map(({ p }) => `
       <a class="card" href="product.html?code=${encodeURIComponent(p.code)}">
