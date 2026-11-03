@@ -11,6 +11,8 @@ button,.btn{font:inherit;cursor:pointer;border:0;border-radius:8px;padding:9px 1
 .top .in{max-width:1100px;margin:0 auto}
 .brand{display:flex;justify-content:space-between;align-items:center;gap:12px;flex-wrap:wrap}
 .brand h1{font-size:22px;letter-spacing:-.3px}
+.brand .logo{display:flex;align-items:center;gap:14px}
+.brand .logo img{height:58px;width:auto;border-radius:6px}
 .brand h1 span{color:var(--mid)}
 .brand small{color:#d3e0f0;font-size:13px}
 .search{margin-top:16px;position:relative}
@@ -43,7 +45,8 @@ mark{background:#d6e4f5;color:inherit;border-radius:2px}
 .hdr h1{font-size:25pt;letter-spacing:-.5px;line-height:1.05}
 .hdr .sub{font-size:11pt;color:#d3e0f0;margin-top:2mm}
 .hdr .lbl{color:var(--mid)!important;font-size:7.5pt;letter-spacing:1.5px;text-transform:uppercase;color:#d3e0f0;text-align:right}
-.hdr > div:first-child{flex:1;min-width:0}
+.hdr > div:first-of-type{flex:1;min-width:0}
+.hdr .logo{height:19mm;width:auto;align-self:center;border-radius:1.5mm;flex-shrink:0}
 .hdr > div:last-child{flex-shrink:0;text-align:right}
 .hdr .v.long{font-size:13pt}
 .hdr .v{white-space:nowrap;font-size:19pt;font-weight:700;background:#fff;color:var(--navy);padding:1mm 4mm;border-radius:2mm;margin-top:1mm;display:inline-block;cursor:copy}
@@ -86,6 +89,7 @@ mark{background:#d6e4f5;color:inherit;border-radius:2px}
   .hdr,.strip,.wrap,.lower{padding-left:16px;padding-right:16px}
   .hdr{flex-direction:column;align-items:flex-start}
   .hdr .lbl{color:var(--mid)!important;text-align:left}
+  .hdr .logo{height:56px;align-self:flex-start}
   .wrap,.lower,.cov{grid-template-columns:1fr}
   .kpis{grid-template-columns:repeat(2,1fr)}
   .sheet table{font-size:10.5pt}
