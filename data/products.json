@@ -26098,5 +26098,1979 @@
   ],
   "source": "Aiphone JP-DA spec sheet (2014).",
   "onepager": "products/94JP-DA/onepager.pdf"
+ },
+ {
+  "code": "22PG8872",
+  "name": "DSC PowerG 360° Ceiling PIR (Long Range)",
+  "brand": "DSC",
+  "category": "Intrusion › Wireless detectors",
+  "subtitle": "PG8872 wireless ceiling-mount PIR · 20 m diameter · 868 MHz",
+  "tagline": "Wireless ceiling PIR covering a 20 m circle — for warehouses, halls and open-plan offices.",
+  "note": "This is the 868 MHz model. Check it matches the customer's PowerG receiver frequency.",
+  "keywords": [
+   "PG8872",
+   "PG4872",
+   "ceiling PIR",
+   "360",
+   "PowerG",
+   "wireless",
+   "DSC",
+   "high ceiling"
+  ],
+  "kpis": [
+   {
+    "v": "20 m",
+    "l": "Ø coverage"
+   },
+   {
+    "v": "2–6 m",
+    "l": "mount height"
+   },
+   {
+    "v": "3 yrs",
+    "l": "CR123A"
+   },
+   {
+    "v": "360°",
+    "l": "ceiling"
+   }
+  ],
+  "bestFor": [
+   "Large open areas and halls",
+   "High ceilings up to 6 m",
+   "Commercial PowerSeries Neo / Pro sites"
+  ],
+  "notFor": [
+   "Non-PowerG panels"
+  ],
+  "features": [
+   "<b>360° coverage</b> up to 20 m diameter",
+   "Pull-tab auto-enrolment",
+   "Temperature reporting (PowerSeries Pro)",
+   "PowerG 2-way, AES encrypted"
+  ],
+  "specs": [
+   [
+    "Battery",
+    "3 V CR123A · ~3 years"
+   ],
+   [
+    "Size / weight",
+    "Ø150 mm · 110 g"
+   ],
+   [
+    "Mount height",
+    "2–6 m"
+   ],
+   [
+    "Operating temp",
+    "−10 to +50 °C"
+   ]
+  ],
+  "models": [
+   [
+    "PG8862",
+    "Ceiling PIR, up to 10 m Ø"
+   ],
+   [
+    "PG8872",
+    "Long range, 20 m Ø — <b>this unit</b>",
+    true
+   ]
+  ],
+  "qa": [
+   [
+    "Mount height?",
+    "2–6 m."
+   ],
+   [
+    "Battery?",
+    "CR123A, about 3 years."
+   ],
+   [
+    "Frequency?",
+    "868 MHz — match the panel."
+   ]
+  ],
+  "source": "DSC PowerG Long Range 360° Ceiling-mount PIR datasheet.",
+  "image": "products/22PG8872/image.png",
+  "onepager": "products/22PG8872/onepager.pdf"
+ },
+ {
+  "code": "22PG8902",
+  "name": "DSC PowerG Outdoor Curtain PIR",
+  "brand": "DSC",
+  "category": "Intrusion › Wireless detectors",
+  "subtitle": "PG8902 wireless outdoor curtain · 8 m · anti-mask · pet-immune · IP55",
+  "tagline": "Wireless outdoor curtain detector for windows, doors and walls — pet-immune with anti-masking.",
+  "note": "This is the 868 MHz model. Check it matches the customer's PowerG receiver frequency.",
+  "keywords": [
+   "PG8902",
+   "PG4902",
+   "curtain",
+   "outdoor PIR",
+   "PowerG",
+   "wireless",
+   "DSC",
+   "anti mask",
+   "pet"
+  ],
+  "kpis": [
+   {
+    "v": "8 m",
+    "l": "curtain range"
+   },
+   {
+    "v": "IP55",
+    "l": "outdoor"
+   },
+   {
+    "v": "Anti-mask",
+    "l": "built in"
+   },
+   {
+    "v": "3 yrs",
+    "l": "2 × CR123A"
+   }
+  ],
+  "bestFor": [
+   "Windows, doors and walls outside the house",
+   "Homes with pets",
+   "Wireless Neo / Pro systems"
+  ],
+  "notFor": [
+   "Open gardens (use PG8994)"
+  ],
+  "features": [
+   "<b>Target-specific</b> pet immunity",
+   "<b>Anti-masking</b>",
+   "Weatherproof IP55",
+   "PowerG 2-way, AES encrypted"
+  ],
+  "specs": [
+   [
+    "Battery",
+    "2 × 3 V CR123A · ~3 years"
+   ],
+   [
+    "Size / weight",
+    "145 × 71 × 62 mm · 283 g"
+   ],
+   [
+    "Mount height",
+    "2 m"
+   ],
+   [
+    "Operating temp",
+    "−35 to +60 °C"
+   ]
+  ],
+  "qa": [
+   [
+    "Pets?",
+    "Pet-immune — tells humans from animals."
+   ],
+   [
+    "Anti-mask?",
+    "Yes."
+   ],
+   [
+    "Frequency?",
+    "868 MHz — match the panel."
+   ]
+  ],
+  "source": "DSC PowerG Advanced Outdoor Curtain PIR datasheet.",
+  "image": "products/22PG8902/image.png",
+  "onepager": "products/22PG8902/onepager.pdf"
+ },
+ {
+  "code": "22PG8929",
+  "name": "DSC PowerG 4-Button Key Fob",
+  "brand": "DSC",
+  "category": "Intrusion › Wireless detectors",
+  "subtitle": "PG8929 two-way keyfob · arm/disarm · panic · status LED",
+  "tagline": "Two-way keyfob that confirms the system status — arm, disarm and panic.",
+  "note": "This is the 868 MHz model. Check it matches the customer's PowerG receiver frequency.",
+  "keywords": [
+   "PG8929",
+   "PG4929",
+   "keyfob",
+   "remote",
+   "key",
+   "PowerG",
+   "DSC",
+   "panic"
+  ],
+  "kpis": [
+   {
+    "v": "4",
+    "l": "buttons"
+   },
+   {
+    "v": "2-way",
+    "l": "status"
+   },
+   {
+    "v": "5 yrs",
+    "l": "CR2032"
+   },
+   {
+    "v": "25 g",
+    "l": "light"
+   }
+  ],
+  "bestFor": [
+   "Arming from the car or driveway",
+   "Panic button on the go",
+   "Neo systems"
+  ],
+  "notFor": [
+   "Non-PowerG panels"
+  ],
+  "features": [
+   "<b>Visual & audible confirmation</b>",
+   "3-second panic hold prevents false panics",
+   "1-second delay on other keys",
+   "PowerG encrypted"
+  ],
+  "specs": [
+   [
+    "Battery",
+    "CR2032 · 5 years typical"
+   ],
+   [
+    "Size / weight",
+    "67 × 27.6 × 12 mm · 25 g"
+   ],
+   [
+    "Operating temp",
+    "−10 to +55 °C"
+   ]
+  ],
+  "qa": [
+   [
+    "Accidental panic?",
+    "Panic needs a 3-second hold."
+   ],
+   [
+    "Status?",
+    "LED + sounder confirm."
+   ],
+   [
+    "Frequency?",
+    "868 MHz — match the panel."
+   ]
+  ],
+  "source": "DSC PG8929 Wireless PowerG 4-Button Key datasheet.",
+  "image": "products/22PG8929/image.png",
+  "onepager": "products/22PG8929/onepager.pdf"
+ },
+ {
+  "code": "22PG8974P",
+  "name": "DSC PowerG Mirror-Optic Pet PIR",
+  "brand": "DSC",
+  "category": "Intrusion › Wireless detectors",
+  "subtitle": "PGx974P wireless mirror PIR · 15 m · pet-immune to 40 kg",
+  "tagline": "Wireless mirror-optic PIR with pet immunity up to 40 kg — homes with big dogs.",
+  "note": "Stock code is the 868 MHz PG8974P; the datasheet on file is the PG9974P (915 MHz) version. Check frequency against the customer's receiver.",
+  "keywords": [
+   "PG8974P",
+   "PG9974P",
+   "PG4974P",
+   "mirror PIR",
+   "pet immune",
+   "PowerG",
+   "wireless",
+   "DSC"
+  ],
+  "kpis": [
+   {
+    "v": "15 m",
+    "l": "90°"
+   },
+   {
+    "v": "40 kg",
+    "l": "pet immunity"
+   },
+   {
+    "v": "7 yrs",
+    "l": "CR123A"
+   },
+   {
+    "v": "Mirror",
+    "l": "optics"
+   }
+  ],
+  "bestFor": [
+   "Homes with large dogs",
+   "Lounges, passages, garages",
+   "Neo systems"
+  ],
+  "notFor": [
+   "Non-PowerG panels"
+  ],
+  "features": [
+   "<b>Mirror optics</b> — longer range",
+   "Black-mirror white-light filter",
+   "Digital temperature compensation",
+   "Link-quality LED"
+  ],
+  "specs": [
+   [
+    "Battery",
+    "3 V CR123A · 7 years typical"
+   ],
+   [
+    "Size",
+    "115 × 60 × 48 mm"
+   ]
+  ],
+  "qa": [
+   [
+    "Big dogs?",
+    "Pet-immune up to 40 kg."
+   ],
+   [
+    "Battery?",
+    "CR123A, ~7 years."
+   ],
+   [
+    "Frequency?",
+    "Check — sheet is 915 MHz version."
+   ]
+  ],
+  "source": "DSC PG9974P Wireless PowerG Mirror Optic PIR datasheet.",
+  "image": "products/22PG8974P/image.png",
+  "onepager": "products/22PG8974P/onepager.pdf"
+ },
+ {
+  "code": "22PG8975",
+  "name": "DSC PowerG Slim Door/Window Contact",
+  "brand": "DSC",
+  "category": "Intrusion › Wireless detectors",
+  "subtitle": "PG8975 slim wireless contact · 868 MHz",
+  "tagline": "Ultra-slim wireless contact that blends into door and window frames.",
+  "note": "This is the 868 MHz model. Check it matches the customer's PowerG receiver frequency.",
+  "keywords": [
+   "PG8975",
+   "PG4975",
+   "contact",
+   "door contact",
+   "slim contact",
+   "PowerG",
+   "wireless",
+   "DSC"
+  ],
+  "kpis": [
+   {
+    "v": "6.6 mm",
+    "l": "slim"
+   },
+   {
+    "v": "3 yrs",
+    "l": "CR2032"
+   },
+   {
+    "v": "12 g",
+    "l": "weight"
+   },
+   {
+    "v": "868 MHz",
+    "l": "PowerG"
+   }
+  ],
+  "bestFor": [
+   "Doors and windows where looks matter",
+   "Neo systems"
+  ],
+  "notFor": [
+   "Outdoor gates (PG8312)",
+   "Wired contact input (use PG8945)"
+  ],
+  "features": [
+   "<b>Very slim</b> case",
+   "Link-quality LED",
+   "PowerG encrypted"
+  ],
+  "specs": [
+   [
+    "Size",
+    "62.2 × 25.4 × 6.6 mm"
+   ],
+   [
+    "Battery",
+    "CR2032 · 3 years"
+   ],
+   [
+    "Operating temp",
+    "0 to +55 °C"
+   ]
+  ],
+  "models": [
+   [
+    "PG4975",
+    "433 MHz"
+   ],
+   [
+    "PG8975",
+    "868 MHz — <b>this unit</b>",
+    true
+   ],
+   [
+    "PG8945",
+    "Contact with aux input"
+   ]
+  ],
+  "qa": [
+   [
+    "Battery?",
+    "CR2032, ~3 years."
+   ],
+   [
+    "Aux input?",
+    "No — PG8945 has one."
+   ],
+   [
+    "Frequency?",
+    "868 MHz — match the panel."
+   ]
+  ],
+  "source": "DSC PGx975 Wireless PowerG Door/Window Contact datasheet.",
+  "image": "products/22PG8975/image.png",
+  "onepager": "products/22PG8975/onepager.pdf"
+ },
+ {
+  "code": "22HS3128BASEZA",
+  "name": "DSC PowerSeries Pro HS3128 Panel",
+  "brand": "DSC",
+  "category": "Intrusion › Alarm panels",
+  "subtitle": "Commercial wired + PowerG panel · 128 zones · 8 partitions · IP on board",
+  "tagline": "Commercial alarm panel — 128 zones, 1000 users, built-in Ethernet and PowerG wireless.",
+  "image": null,
+  "imageNote": "No product photo in the datasheet",
+  "note": "Stock code suggests a base kit. Confirm contents (board, cabinet, PSU, keypad) before quoting.",
+  "keywords": [
+   "HS3128",
+   "PowerSeries Pro",
+   "Pro",
+   "panel",
+   "commercial",
+   "DSC",
+   "PowerG",
+   "128 zones"
+  ],
+  "kpis": [
+   {
+    "v": "128",
+    "l": "zones"
+   },
+   {
+    "v": "8",
+    "l": "partitions"
+   },
+   {
+    "v": "1000",
+    "l": "users"
+   },
+   {
+    "v": "Ethernet",
+    "l": "on board"
+   }
+  ],
+  "bestFor": [
+   "Commercial sites and multi-building businesses",
+   "Kantech access integration",
+   "Mostly wireless commercial installs"
+  ],
+  "notFor": [
+   "Small homes (Neo is enough)"
+  ],
+  "features": [
+   "<b>PowerG</b> long-range encrypted wireless",
+   "Triple EOL + anti-masking",
+   "On-board Ethernet · cellular plug-in",
+   "Kantech, BMS and Alarm.com integration"
+  ],
+  "specs": [
+   [
+    "Wireless zones",
+    "Up to 128"
+   ],
+   [
+    "PGMs",
+    "4 on board, expandable"
+   ],
+   [
+    "Event buffer",
+    "1000 + 2000 priority"
+   ],
+   [
+    "USB",
+    "2 connectors"
+   ]
+  ],
+  "models": [
+   [
+    "HS3032",
+    "32 zones, 4 partitions"
+   ],
+   [
+    "HS3128",
+    "128 zones, 8 partitions — <b>this panel</b>",
+    true
+   ],
+   [
+    "HS3248",
+    "248 zones, 32 partitions"
+   ]
+  ],
+  "qa": [
+   [
+    "Wireless?",
+    "Yes, PowerG."
+   ],
+   [
+    "Access control?",
+    "Integrates with Kantech."
+   ],
+   [
+    "Internet?",
+    "Ethernet built in."
+   ]
+  ],
+  "source": "DSC PowerSeries Pro datasheet.",
+  "onepager": "products/22HS3128BASEZA/onepager.pdf"
+ },
+ {
+  "code": "22HS2LEDE1",
+  "name": "DSC Neo LED Keypad (16 Zone)",
+  "brand": "DSC",
+  "category": "Intrusion › Keypads",
+  "subtitle": "HS2LED · 16-zone LED keypad · prox ready · Grade 2",
+  "tagline": "Simple LED keypad for PowerSeries Neo — large keys and fire/medical/panic buttons.",
+  "keywords": [
+   "HS2LED",
+   "HS2LEDE1",
+   "keypad",
+   "LED keypad",
+   "Neo",
+   "PowerSeries",
+   "DSC"
+  ],
+  "kpis": [
+   {
+    "v": "16",
+    "l": "zone LEDs"
+   },
+   {
+    "v": "5",
+    "l": "function keys"
+   },
+   {
+    "v": "Prox",
+    "l": "MPT tags"
+   },
+   {
+    "v": "Grade 2",
+    "l": "EN50131"
+   }
+  ],
+  "bestFor": [
+   "Homes and small offices on Neo",
+   "Customers who prefer simple LED displays"
+  ],
+  "notFor": [
+   "Systems over 16 zones needing zone display (use LCD)"
+  ],
+  "features": [
+   "Low-profile landscape design",
+   "Fire, medical and panic keys",
+   "Input/output terminal",
+   "Adjustable lighting and sound"
+  ],
+  "specs": [
+   [
+    "Panels",
+    "PowerSeries Neo"
+   ],
+   [
+    "Prox",
+    "MPT mini tags"
+   ]
+  ],
+  "qa": [
+   [
+    "Over 16 zones?",
+    "Use an LCD keypad."
+   ],
+   [
+    "Tags?",
+    "MPT mini tags."
+   ],
+   [
+    "Panic?",
+    "Yes, F/M/P keys."
+   ]
+  ],
+  "source": "DSC Neo LED keyboard description.",
+  "image": "products/22HS2LEDE1/image.png",
+  "onepager": "products/22HS2LEDE1/onepager.pdf"
+ },
+ {
+  "code": "22TL2803G",
+  "name": "DSC TL2803G IP + 3G Dual-Path Communicator",
+  "brand": "DSC",
+  "category": "Intrusion › Communicators",
+  "subtitle": "PowerSeries Neo Internet + HSPA (3G) alarm communicator",
+  "tagline": "Dual-path communicator for Neo panels — reports over Internet and 3G cellular.",
+  "note": "This is an HSPA (3G) cellular communicator. Confirm local 3G network availability before selling — the TL280LE (LTE) may be the better choice.",
+  "keywords": [
+   "TL2803G",
+   "TL2803GE",
+   "communicator",
+   "dual path",
+   "3G",
+   "HSPA",
+   "IP",
+   "DSC",
+   "Neo"
+  ],
+  "kpis": [
+   {
+    "v": "IP + 3G",
+    "l": "dual path"
+   },
+   {
+    "v": "AES",
+    "l": "128-bit"
+   },
+   {
+    "v": "SIM",
+    "l": "included"
+   },
+   {
+    "v": "Neo",
+    "l": "HS2016–2128"
+   }
+  ],
+  "bestFor": [
+   "Monitored Neo systems",
+   "Sites with no phone line"
+  ],
+  "notFor": [
+   "Areas where 3G is switched off (use TL280LE)"
+  ],
+  "features": [
+   "<b>Fully redundant</b> Internet + cellular",
+   "Remote programming via DLS",
+   "Visual verification support",
+   "PC-Link connection to panel"
+  ],
+  "specs": [
+   [
+    "Panels",
+    "HS2016 / HS2032 / HS2064 / HS2128"
+   ],
+   [
+    "Antenna",
+    "GS-50ANTQ extension available"
+   ]
+  ],
+  "models": [
+   [
+    "TL280E",
+    "Internet only"
+   ],
+   [
+    "TL2803G",
+    "Internet + 3G — <b>this unit</b>",
+    true
+   ],
+   [
+    "TL280LE",
+    "Internet + LTE"
+   ]
+  ],
+  "qa": [
+   [
+    "3G still OK?",
+    "Check local network — LTE model may be safer."
+   ],
+   [
+    "SIM?",
+    "Included (needs active account)."
+   ],
+   [
+    "Phone line?",
+    "Not needed."
+   ]
+  ],
+  "source": "DSC TL2803G(R)E datasheet.",
+  "image": "products/22TL2803G/image.png",
+  "onepager": "products/22TL2803G/onepager.pdf"
+ },
+ {
+  "code": "22INT-ADC-VDB780B",
+  "name": "Alarm.com Wireless Video Doorbell",
+  "brand": "Alarm.com",
+  "category": "Surveillance › IP cameras",
+  "subtitle": "ADC-VDB780B · battery doorbell camera · 1080p · 160° · IP66",
+  "tagline": "Battery video doorbell for Alarm.com systems — answer the door from your phone.",
+  "note": "Needs an Alarm.com Smart Chime (ADC-W115C) or Smart Gateway (ADC-SG130), sold separately, and an Alarm.com service plan.",
+  "keywords": [
+   "VDB780B",
+   "ADC-VDB780B",
+   "doorbell",
+   "video doorbell",
+   "Alarm.com",
+   "wireless",
+   "battery",
+   "DSC"
+  ],
+  "kpis": [
+   {
+    "v": "1080p",
+    "l": "HD"
+   },
+   {
+    "v": "160°",
+    "l": "field of view"
+   },
+   {
+    "v": "~6 mths",
+    "l": "rechargeable battery"
+   },
+   {
+    "v": "IP66",
+    "l": "weatherproof"
+   }
+  ],
+  "bestFor": [
+   "Alarm.com customers",
+   "Doors without doorbell wiring",
+   "Package and visitor checks"
+  ],
+  "notFor": [
+   "Customers without Alarm.com service"
+  ],
+  "features": [
+   "<b>Completely wireless</b> — rechargeable battery",
+   "Two-way audio in the app",
+   "People-detection video analytics",
+   "PIR motion sensor"
+  ],
+  "specs": [
+   [
+    "Wi-Fi",
+    "802.11 b/g/n 2.4 GHz"
+   ],
+   [
+    "Charging",
+    "Micro USB, 5 V 1.5 A"
+   ],
+   [
+    "Compression",
+    "H.264"
+   ]
+  ],
+  "qa": [
+   [
+    "Wiring?",
+    "None — battery."
+   ],
+   [
+    "Extra hardware?",
+    "Smart Chime or Smart Gateway."
+   ],
+   [
+    "App?",
+    "Alarm.com app."
+   ]
+  ],
+  "source": "Alarm.com ADC-VDB780B data sheet (2023).",
+  "image": "products/22INT-ADC-VDB780B/image.png",
+  "onepager": "products/22INT-ADC-VDB780B/onepager.pdf"
+ },
+ {
+  "code": "51NVR5216-8P-4KS2E",
+  "name": "Dahua 16-Ch 8-PoE Pro NVR",
+  "brand": "Dahua",
+  "category": "Surveillance › Recorders (NVR)",
+  "subtitle": "DHI-NVR5216-8P-4KS2E · 16 channels · 8 PoE · 2 × HDD · 4K",
+  "tagline": "16-camera Pro NVR with 8 PoE ports and 320 Mbps for high-res cameras.",
+  "keywords": [
+   "NVR5216-8P",
+   "NVR5216",
+   "NVR",
+   "recorder",
+   "16 channel",
+   "8 PoE",
+   "Pro",
+   "Dahua",
+   "4K"
+  ],
+  "kpis": [
+   {
+    "v": "16",
+    "l": "IP channels"
+   },
+   {
+    "v": "8 PoE",
+    "l": "130 W"
+   },
+   {
+    "v": "320 Mbps",
+    "l": "bandwidth"
+   },
+   {
+    "v": "2 × 10 TB",
+    "l": "HDD bays"
+   }
+  ],
+  "bestFor": [
+   "Medium sites with up to 16 cameras",
+   "Up to 12MP cameras",
+   "AI camera systems"
+  ],
+  "notFor": [
+   "More than 8 cameras without a PoE switch"
+  ],
+  "features": [
+   "<b>8 PoE ports</b> (ePoE & EoC)",
+   "Fisheye dewarping",
+   "AI by camera: face, perimeter, ANPR, people counting",
+   "4 alarm inputs"
+  ],
+  "specs": [
+   [
+    "Decoding",
+    "16 × 1080p"
+   ],
+   [
+    "Storage",
+    "2 × SATA, up to 10 TB each"
+   ],
+   [
+    "Power",
+    "100–240 VAC · PoE 130 W"
+   ],
+   [
+    "Weight",
+    "2.6 kg"
+   ]
+  ],
+  "models": [
+   [
+    "NVR4108HS-8P-4KS2",
+    "8 ch, Lite"
+   ],
+   [
+    "NVR5216-8P-4KS2E",
+    "16 ch, Pro — <b>this unit</b>",
+    true
+   ]
+  ],
+  "qa": [
+   [
+    "16 cameras on PoE?",
+    "8 built in — add a switch for the rest."
+   ],
+   [
+    "Hard drives?",
+    "Not included — 2 bays."
+   ],
+   [
+    "Face recognition?",
+    "With AI cameras."
+   ]
+  ],
+  "source": "Dahua DHI-NVR5208/5216-8P-4KS2E datasheet.",
+  "image": "products/51NVR5216-8P-4KS2E/image.png",
+  "onepager": "products/51NVR5216-8P-4KS2E/onepager.pdf"
+ },
+ {
+  "code": "51SD5A232GB-HNR",
+  "name": "Dahua 2MP 32× WizSense PTZ",
+  "brand": "Dahua",
+  "category": "Surveillance › IP cameras",
+  "subtitle": "DH-SD5A232GB-HNR · 32× zoom · IR 150 m · IP67",
+  "tagline": "Mid-range PTZ with 32× zoom, 150 m IR and auto-tracking.",
+  "keywords": [
+   "SD5A232GB",
+   "SD5A232",
+   "PTZ",
+   "speed dome",
+   "32x",
+   "zoom",
+   "Dahua",
+   "WizSense",
+   "auto tracking"
+  ],
+  "kpis": [
+   {
+    "v": "32×",
+    "l": "optical zoom"
+   },
+   {
+    "v": "150 m",
+    "l": "IR"
+   },
+   {
+    "v": "2 MP",
+    "l": "1080p"
+   },
+   {
+    "v": "300",
+    "l": "presets"
+   }
+  ],
+  "bestFor": [
+   "Car parks, estates, yards",
+   "Tracking people and vehicles",
+   "Medium-range views"
+  ],
+  "notFor": [
+   "802.3af PoE (needs PoE+ or 24 V)"
+  ],
+  "features": [
+   "<b>Auto-tracking 3.0</b>",
+   "Perimeter protection · face detection · SMD 4.0",
+   "MicroSD up to 512 GB",
+   "IP67, 6 kV TVS"
+  ],
+  "specs": [
+   [
+    "Lens",
+    "4.5–144 mm"
+   ],
+   [
+    "Preset speed",
+    "400°/s pan · 300°/s tilt"
+   ],
+   [
+    "Power",
+    "24 VDC 2.5 A or PoE+ (802.3at)"
+   ]
+  ],
+  "models": [
+   [
+    "SD49225DB-HNY",
+    "2MP 25×, IR 100 m"
+   ],
+   [
+    "SD5A232GB-HNR",
+    "2MP 32×, IR 150 m — <b>this unit</b>",
+    true
+   ],
+   [
+    "SD6CE445GB-HNR",
+    "4MP 45×, IR 250 m"
+   ]
+  ],
+  "qa": [
+   [
+    "Power?",
+    "24 V adapter or PoE+."
+   ],
+   [
+    "Night range?",
+    "150 m IR."
+   ],
+   [
+    "Bracket?",
+    "Sold separately."
+   ]
+  ],
+  "source": "Dahua DH-SD5A232GB-HNR datasheet.",
+  "image": "products/51SD5A232GB-HNR/image.png",
+  "onepager": "products/51SD5A232GB-HNR/onepager.pdf"
+ },
+ {
+  "code": "51IPC-HFW5241EP-ZE-0735",
+  "name": "Dahua 2MP WizMind Bullet 7–35 mm",
+  "brand": "Dahua",
+  "category": "Surveillance › IP cameras",
+  "subtitle": "DH-IPC-HFW5241E-Z5E · 7–35 mm motorised · IR 120 m · IP67/IK10",
+  "tagline": "Long-range WizMind bullet — 7–35 mm zoom, 120 m IR and advanced AI analytics.",
+  "keywords": [
+   "HFW5241E",
+   "5241",
+   "WizMind",
+   "bullet",
+   "varifocal",
+   "long range",
+   "Dahua",
+   "2MP"
+  ],
+  "kpis": [
+   {
+    "v": "7–35 mm",
+    "l": "motorised"
+   },
+   {
+    "v": "120 m",
+    "l": "IR"
+   },
+   {
+    "v": "IK10",
+    "l": "IP67"
+   },
+   {
+    "v": "I/O",
+    "l": "2 in / 1 out"
+   }
+  ],
+  "bestFor": [
+   "Long perimeters and approach roads",
+   "Vehicle and face attributes at distance",
+   "Projects needing advanced AI"
+  ],
+  "notFor": [
+   "Wide close-up views"
+  ],
+  "features": [
+   "<b>WizMind</b> — metadata, face, people counting",
+   "120 m IR",
+   "Alarm 2 in / 1 out · audio 1 in / 1 out",
+   "MicroSD up to 512 GB"
+  ],
+  "specs": [
+   [
+    "Lens",
+    "7–35 mm motorised"
+   ],
+   [
+    "Power",
+    "12 VDC / PoE / ePoE"
+   ]
+  ],
+  "qa": [
+   [
+    "Range?",
+    "IR up to 120 m."
+   ],
+   [
+    "Audio?",
+    "1 in / 1 out terminals."
+   ],
+   [
+    "Vandal proof?",
+    "IK10."
+   ]
+  ],
+  "source": "Dahua DH-IPC-HFW5241E-Z5E datasheet (S3).",
+  "image": "products/51IPC-HFW5241EP-ZE-0735/image.png",
+  "onepager": "products/51IPC-HFW5241EP-ZE-0735/onepager.pdf"
+ },
+ {
+  "code": "51IPC-HDBW3441FP-AS-0280B-S2",
+  "name": "Dahua 4MP WizSense Mini Dome 2.8 mm",
+  "brand": "Dahua",
+  "category": "Surveillance › IP cameras",
+  "subtitle": "DH-IPC-HDBW3441F-AS-M · IR 30 m · mic · IP67/IK10",
+  "tagline": "Low-profile vandal dome with AI — great for ceilings, lifts and corridors.",
+  "keywords": [
+   "HDBW3441F",
+   "3441F",
+   "mini dome",
+   "wedge",
+   "dome",
+   "WizSense",
+   "4MP",
+   "Dahua",
+   "mic",
+   "IK10"
+  ],
+  "kpis": [
+   {
+    "v": "4 MP",
+    "l": "WizSense"
+   },
+   {
+    "v": "30 m",
+    "l": "IR"
+   },
+   {
+    "v": "IK10",
+    "l": "IP67"
+   },
+   {
+    "v": "PoE",
+    "l": "or 12 V"
+   }
+  ],
+  "bestFor": [
+   "Low ceilings, lifts, corridors",
+   "Shops and offices",
+   "Discreet installs"
+  ],
+  "notFor": [
+   "Long views"
+  ],
+  "features": [
+   "<b>WizSense</b> — SMD & human/vehicle filtering",
+   "Built-in mic",
+   "MicroSD up to 256 GB",
+   "IP67 + IK10"
+  ],
+  "specs": [
+   [
+    "Lens",
+    "2.8 mm"
+   ],
+   [
+    "Power",
+    "12 VDC / PoE"
+   ]
+  ],
+  "coverage": {
+   "title": "DORI distances (2.8 mm)",
+   "rows": [
+    [
+     "Detect",
+     "56 m"
+    ],
+    [
+     "Observe",
+     "22.4 m"
+    ],
+    [
+     "Recognise",
+     "11.2 m"
+    ],
+    [
+     "Identify",
+     "5.6 m",
+     true
+    ]
+   ]
+  },
+  "qa": [
+   [
+    "Sound?",
+    "Built-in mic."
+   ],
+   [
+    "Vandal proof?",
+    "IK10."
+   ],
+   [
+    "AI?",
+    "Human/vehicle filtering."
+   ]
+  ],
+  "source": "Dahua DH-IPC-HDBW3441F-AS-M datasheet.",
+  "image": "products/51IPC-HDBW3441FP-AS-0280B-S2/image.png",
+  "onepager": "products/51IPC-HDBW3441FP-AS-0280B-S2/onepager.pdf"
+ },
+ {
+  "code": "38TC-R3880",
+  "name": "Tiandy 80-Ch 8-Bay Pro NVR",
+  "brand": "Tiandy",
+  "category": "Surveillance › Recorders (NVR)",
+  "subtitle": "TC-R3880 · 80 channels · 8 × HDD · RAID · 640 Mbps",
+  "tagline": "Enterprise Tiandy recorder — 80 cameras, 8 drive bays with RAID.",
+  "keywords": [
+   "TC-R3880",
+   "R3880",
+   "NVR",
+   "recorder",
+   "80 channel",
+   "RAID",
+   "8 bay",
+   "Tiandy",
+   "Pro"
+  ],
+  "kpis": [
+   {
+    "v": "80",
+    "l": "IP channels"
+   },
+   {
+    "v": "640 Mbps",
+    "l": "incoming"
+   },
+   {
+    "v": "8 × 18 TB",
+    "l": "HDD bays"
+   },
+   {
+    "v": "RAID",
+    "l": "0/1/5/6/10"
+   }
+  ],
+  "bestFor": [
+   "Large sites and campuses",
+   "Long retention with RAID",
+   "Face recognition with Tiandy cameras"
+  ],
+  "notFor": [
+   "Small jobs"
+  ],
+  "features": [
+   "<b>8 SATA bays</b>, up to 18 TB each",
+   "RAID 0/1/5/6/10 · eSATA",
+   "Decodes up to 16MP",
+   "16 alarm in / 4 relay out"
+  ],
+  "specs": [
+   [
+    "Outgoing",
+    "320 Mbps"
+   ],
+   [
+    "Power",
+    "100–240 VAC · <18 W (no HDD)"
+   ]
+  ],
+  "models": [
+   [
+    "TC-R3440",
+    "40 ch, 4 bays"
+   ],
+   [
+    "TC-R3880",
+    "80 ch, 8 bays — <b>this unit</b>",
+    true
+   ]
+  ],
+  "qa": [
+   [
+    "Hard drives?",
+    "Not included — 8 bays."
+   ],
+   [
+    "RAID?",
+    "Yes."
+   ],
+   [
+    "PoE?",
+    "No — use switches."
+   ]
+  ],
+  "source": "Tiandy TC-R3880 spec sheet (V4.0).",
+  "image": "products/38TC-R3880/image.png",
+  "onepager": "products/38TC-R3880/onepager.pdf"
+ },
+ {
+  "code": "38TC-C32SS",
+  "name": "Tiandy 2MP Pro Varifocal Turret",
+  "brand": "Tiandy",
+  "category": "Surveillance › IP cameras",
+  "subtitle": "TC-C32SS · 2.7–13.5 mm motorised · IR 30 m · mic · IP66",
+  "tagline": "2MP turret with a motorised zoom lens and built-in mic.",
+  "keywords": [
+   "TC-C32SS",
+   "C32SS",
+   "turret",
+   "varifocal",
+   "motorised",
+   "2MP",
+   "Tiandy",
+   "Pro",
+   "mic"
+  ],
+  "kpis": [
+   {
+    "v": "2 MP",
+    "l": "1080p"
+   },
+   {
+    "v": "2.7–13.5",
+    "l": "mm motorised"
+   },
+   {
+    "v": "30 m",
+    "l": "IR"
+   },
+   {
+    "v": "512 GB",
+    "l": "microSD"
+   }
+  ],
+  "bestFor": [
+   "Entrances, receptions, car ports",
+   "Views that need adjusting after install"
+  ],
+  "notFor": [
+   "Long-range night views"
+  ],
+  "features": [
+   "<b>Motorised zoom</b>",
+   "Built-in mic",
+   "Metal housing · IP66"
+  ],
+  "specs": [
+   [
+    "Field of view",
+    "103°–31° H"
+   ],
+   [
+    "Power",
+    "12 VDC (7.5 W) / PoE 802.3af (8.5 W)"
+   ],
+   [
+    "Size",
+    "132 × 132 × 108 mm"
+   ]
+  ],
+  "coverage": {
+   "title": "Detection (wide–tele)",
+   "rows": [
+    [
+     "Detect",
+     "38.5–165.5 m",
+     true
+    ]
+   ]
+  },
+  "models": [
+   [
+    "TC-C32SS",
+    "2MP — <b>this unit</b>",
+    true
+   ],
+   [
+    "TC-C35SS",
+    "5MP version"
+   ]
+  ],
+  "qa": [
+   [
+    "Zoom?",
+    "Motorised 2.7–13.5 mm."
+   ],
+   [
+    "Sound?",
+    "Built-in mic."
+   ],
+   [
+    "Outdoor?",
+    "IP66."
+   ]
+  ],
+  "source": "Tiandy TC-C32SS spec sheet (V4.0).",
+  "image": "products/38TC-C32SS/image.png",
+  "onepager": "products/38TC-C32SS/onepager.pdf"
+ },
+ {
+  "code": "41ACC-0001",
+  "name": "Texecom Premier 360 QD Ceiling PIR",
+  "brand": "Texecom",
+  "category": "Intrusion › Detectors",
+  "subtitle": "Wired 360° quad ceiling detector · 9.3 m Ø · Grade 2",
+  "tagline": "Ceiling quad PIR with true 360° pickup — for rooms where wall mounting doesn't work.",
+  "keywords": [
+   "Premier 360 QD",
+   "360",
+   "ceiling PIR",
+   "ACC-0001",
+   "quad",
+   "Texecom"
+  ],
+  "kpis": [
+   {
+    "v": "360°",
+    "l": "quad pyro"
+   },
+   {
+    "v": "9.3 m",
+    "l": "Ø coverage"
+   },
+   {
+    "v": "3.6 m",
+    "l": "max height"
+   },
+   {
+    "v": "Grade 2",
+    "l": "Class II"
+   }
+  ],
+  "bestFor": [
+   "Open-plan rooms and shops",
+   "Rooms with lots of windows/doors",
+   "Ceiling installs"
+  ],
+  "notFor": [
+   "Ceilings over 3.6 m"
+  ],
+  "features": [
+   "<b>Omni-directional quad</b> element",
+   "Neural environment learning",
+   "Digital temperature compensation"
+  ],
+  "specs": [
+   [
+    "Coverage",
+    "9.3 m diameter"
+   ],
+   [
+    "Mount height",
+    "Up to 3.6 m"
+   ],
+   [
+    "Operating temp",
+    "−10 to +55 °C"
+   ]
+  ],
+  "models": [
+   [
+    "Premier 360 QD",
+    "Wired — <b>this unit</b>",
+    true
+   ],
+   [
+    "Premier 360 QD-W",
+    "Wireless"
+   ]
+  ],
+  "qa": [
+   [
+    "Height?",
+    "Up to 3.6 m."
+   ],
+   [
+    "Wireless?",
+    "360 QD-W."
+   ],
+   [
+    "Grade?",
+    "Grade 2."
+   ]
+  ],
+  "source": "Texecom Premier 360 QD datasheet.",
+  "image": "products/41ACC-0001/image.png",
+  "onepager": "products/41ACC-0001/onepager.pdf"
+ },
+ {
+  "code": "41GBX-0001",
+  "name": "Texecom Premier Elite 5Ci-W Wireless Sounder",
+  "brand": "Texecom",
+  "category": "Intrusion › Sirens",
+  "subtitle": "Internal wireless sounder + strobe · 105 dB · Ricochet",
+  "tagline": "Wireless internal siren with bright LED strobe — no cabling to the panel.",
+  "keywords": [
+   "5Ci-W",
+   "GBX-0001",
+   "siren",
+   "sounder",
+   "internal",
+   "wireless",
+   "Ricochet",
+   "Texecom",
+   "strobe"
+  ],
+  "kpis": [
+   {
+    "v": "105 dB",
+    "l": "at 1 m"
+   },
+   {
+    "v": "320 lm",
+    "l": "LED strobe"
+   },
+   {
+    "v": "2–5 yrs",
+    "l": "8 × AA lithium"
+   },
+   {
+    "v": "Grade 2",
+    "l": "Class II"
+   }
+  ],
+  "bestFor": [
+   "Flats, shops, offices",
+   "Wireless Premier Elite systems",
+   "System upgrades"
+  ],
+  "notFor": [
+   "Outdoor use"
+  ],
+  "features": [
+   "<b>Piezo sounder</b> + high-brightness strobe",
+   "Comfort LEDs",
+   "Wall and lid tamper",
+   "Batteries included"
+  ],
+  "specs": [
+   [
+    "Battery",
+    "8 × AA lithium (included)"
+   ],
+   [
+    "Size",
+    "189 × 186 mm · 835 g"
+   ],
+   [
+    "Frequency",
+    "868 MHz"
+   ],
+   [
+    "Operating temp",
+    "−25 to +55 °C"
+   ]
+  ],
+  "qa": [
+   [
+    "Outdoor?",
+    "No — internal."
+   ],
+   [
+    "Batteries?",
+    "8 × AA lithium, included."
+   ],
+   [
+    "Panel?",
+    "Premier Elite with Ricochet."
+   ]
+  ],
+  "source": "Texecom Premier Elite 5Ci-W datasheet (LIT-0226).",
+  "image": "products/41GBX-0001/image.png",
+  "onepager": "products/41GBX-0001/onepager.pdf"
+ },
+ {
+  "code": "78BEL300D",
+  "name": "Ebelco 300D Double-Door Maglock",
+  "brand": "Ebelco",
+  "category": "Access Control › Locks",
+  "subtitle": "Double maglock · 2 × 300 lb · 12/24 V preset",
+  "tagline": "Compact double maglock for light double doors — 300 lb on each leaf.",
+  "keywords": [
+   "300D",
+   "BEL300D",
+   "300D-S",
+   "maglock",
+   "double maglock",
+   "Ebelco",
+   "double door"
+  ],
+  "kpis": [
+   {
+    "v": "2 × 300 lb",
+    "l": "136 kg each"
+   },
+   {
+    "v": "12/24 V",
+    "l": "factory preset"
+   },
+   {
+    "v": "340 mm",
+    "l": "long"
+   },
+   {
+    "v": "2.65 kg",
+    "l": "weight"
+   }
+  ],
+  "bestFor": [
+   "Light double doors (internal)",
+   "Offices and passages"
+  ],
+  "notFor": [
+   "Heavy external doors (600D)",
+   "Fail-secure needs"
+  ],
+  "features": [
+   "Two 300 lb magnets in one housing",
+   "Zero residual magnetism design",
+   "Surge protection · anodised aluminium"
+  ],
+  "specs": [
+   [
+    "Current",
+    "12 V: 300 mA × 2 · 24 V: 150 mA × 2"
+   ],
+   [
+    "Magnet",
+    "340 × 35 × 21 mm"
+   ],
+   [
+    "Armature",
+    "130 × 33 × 11 mm (× 2)"
+   ],
+   [
+    "Operating temp",
+    "0 to 55 °C"
+   ]
+  ],
+  "models": [
+   [
+    "BEL300D",
+    "300 lb double — <b>this unit</b>",
+    true
+   ],
+   [
+    "BEL600D",
+    "600 lb double"
+   ]
+  ],
+  "qa": [
+   [
+    "Voltage?",
+    "Preset at factory — specify 12 or 24 V."
+   ],
+   [
+    "Power cut?",
+    "Releases — add backup."
+   ],
+   [
+    "Heavier doors?",
+    "Use 600D."
+   ]
+  ],
+  "source": "Ebelco 300D-S Electromagnetic Lock datasheet.",
+  "image": "products/78BEL300D/image.png",
+  "onepager": "products/78BEL300D/onepager.pdf"
+ },
+ {
+  "code": "94JO-1FD",
+  "name": "Aiphone JO-1FD Expansion Monitor",
+  "brand": "Aiphone",
+  "category": "Access Control › Intercoms",
+  "subtitle": "JO Series 7\" hands-free expansion monitor",
+  "tagline": "Second 7-inch monitor for a JO Series intercom — answer the door from another room.",
+  "image": null,
+  "imageNote": "No product photo in the datasheet",
+  "keywords": [
+   "JO-1FD",
+   "Aiphone",
+   "JO series",
+   "monitor",
+   "expansion",
+   "sub monitor",
+   "video intercom"
+  ],
+  "kpis": [
+   {
+    "v": "7\"",
+    "l": "colour LCD"
+   },
+   {
+    "v": "18 V",
+    "l": "DC"
+   },
+   {
+    "v": "1",
+    "l": "per system"
+   },
+   {
+    "v": "480 g",
+    "l": "weight"
+   }
+  ],
+  "bestFor": [
+   "Adding a second room to a JO system"
+  ],
+  "notFor": [
+   "Non-JO systems"
+  ],
+  "features": [
+   "Hands-free talk",
+   "Monitor the door station",
+   "Door release"
+  ],
+  "specs": [
+   [
+    "Power",
+    "18 VDC from PS-1820 · 38–420 mA"
+   ],
+   [
+    "Mounting",
+    "Surface wall"
+   ],
+   [
+    "Operating temp",
+    "0 to +40 °C"
+   ]
+  ],
+  "qa": [
+   [
+    "How many?",
+    "1 expansion monitor per JO system."
+   ],
+   [
+    "Power?",
+    "Own 18 V supply."
+   ],
+   [
+    "Master needed?",
+    "Yes — JO-1MD / JO-1MDW."
+   ]
+  ],
+  "source": "Aiphone JO-1FD spec sheet (2013).",
+  "onepager": "products/94JO-1FD/onepager.pdf"
+ },
+ {
+  "code": "94PS-2420S",
+  "name": "Aiphone PS-2420S 24 V Power Supply",
+  "brand": "Aiphone",
+  "category": "Power & Energy › Power supplies",
+  "subtitle": "24 VDC 2 A intercom power supply",
+  "tagline": "Aiphone 24 V supply for JP, GT and IX systems.",
+  "image": null,
+  "imageNote": "No product photo in the datasheet",
+  "keywords": [
+   "PS-2420S",
+   "PS-2420",
+   "Aiphone",
+   "power supply",
+   "PSU",
+   "24V"
+  ],
+  "kpis": [
+   {
+    "v": "24 V",
+    "l": "DC"
+   },
+   {
+    "v": "2 A",
+    "l": "output"
+   },
+   {
+    "v": "100–240",
+    "l": "VAC in"
+   },
+   {
+    "v": "400 g",
+    "l": "weight"
+   }
+  ],
+  "bestFor": [
+   "Aiphone JP and IX systems"
+  ],
+  "notFor": [
+   "Non-Aiphone equipment"
+  ],
+  "features": [
+   "Wall mount or free-standing",
+   "1.8 m AC cord (type C plug)"
+  ],
+  "specs": [
+   [
+    "Input",
+    "100–240 VAC · 110–140 VA"
+   ],
+   [
+    "Output",
+    "24 VDC 2 A"
+   ],
+   [
+    "Operating temp",
+    "0 to +40 °C"
+   ]
+  ],
+  "qa": [
+   [
+    "Other brands?",
+    "No — Aiphone only."
+   ],
+   [
+    "Which systems?",
+    "JP, IX and others needing 24 V."
+   ],
+   [
+    "Plug?",
+    "Type C, 1.8 m cord."
+   ]
+  ],
+  "source": "Aiphone PS-2420S spec sheet.",
+  "onepager": "products/94PS-2420S/onepager.pdf"
+ },
+ {
+  "code": "07HX40",
+  "name": "Optex HX-40 High-Mount Outdoor PIR",
+  "brand": "Optex",
+  "category": "Intrusion › Outdoor detectors",
+  "subtitle": "High-mount outdoor PIR · 12 m 85° · IP55",
+  "tagline": "High-mount outdoor PIR that ignores pets below — 2.5–3 m out of reach.",
+  "keywords": [
+   "HX-40",
+   "HX40",
+   "high mount",
+   "outdoor PIR",
+   "Optex",
+   "pet"
+  ],
+  "kpis": [
+   {
+    "v": "12 m",
+    "l": "85° · 94 zones"
+   },
+   {
+    "v": "2.5–3 m",
+    "l": "high mount"
+   },
+   {
+    "v": "IP55",
+    "l": "outdoor"
+   },
+   {
+    "v": "35 mA",
+    "l": "@ 12 V"
+   }
+  ],
+  "bestFor": [
+   "Gardens with pets",
+   "Out-of-reach outdoor mounting",
+   "Sloped ground"
+  ],
+  "notFor": [
+   "Masking-prone sites (HX-40AM)"
+  ],
+  "features": [
+   "<b>2 PIRs</b> with AND logic",
+   "Adjustable range 4/5.5/9 m",
+   "180° adjustable bracket for slopes",
+   "Hood and masking seals included"
+  ],
+  "specs": [
+   [
+    "Power",
+    "9.5–18 VDC · 35 mA"
+   ],
+   [
+    "Alarm output",
+    "Form C 28 VDC 0.2 A"
+   ],
+   [
+    "Operating temp",
+    "−20 to +60 °C"
+   ],
+   [
+    "Weight",
+    "600 g"
+   ]
+  ],
+  "models": [
+   [
+    "HX-40",
+    "Wired — <b>this unit</b>",
+    true
+   ],
+   [
+    "HX-40AM",
+    "Wired + anti-mask"
+   ],
+   [
+    "HX-40DAM",
+    "PIR + microwave"
+   ],
+   [
+    "HX-40RAM",
+    "Battery"
+   ]
+  ],
+  "qa": [
+   [
+    "Pets?",
+    "Mounted high so pets pass underneath."
+   ],
+   [
+    "Slopes?",
+    "Adjustable bracket."
+   ],
+   [
+    "Anti-mask?",
+    "HX-40AM."
+   ]
+  ],
+  "source": "Optex HX-40 series brochure.",
+  "image": "products/07HX40/image.png",
+  "onepager": "products/07HX40/onepager.pdf"
+ },
+ {
+  "code": "07FLX-S-ST",
+  "name": "Optex FlipX FLX-S-ST Indoor PIR",
+  "brand": "Optex",
+  "category": "Intrusion › Detectors",
+  "subtitle": "Indoor PIR with flip lens · 12 m wide or 18 m narrow · Grade 2",
+  "tagline": "One detector, two patterns — flip the lens for wide rooms or long corridors.",
+  "keywords": [
+   "FlipX",
+   "FLX-S-ST",
+   "FLX",
+   "PIR",
+   "indoor",
+   "Optex",
+   "pet"
+  ],
+  "kpis": [
+   {
+    "v": "12 m",
+    "l": "85° wide"
+   },
+   {
+    "v": "18 m",
+    "l": "narrow"
+   },
+   {
+    "v": "12 mA",
+    "l": "@ 12 V"
+   },
+   {
+    "v": "Grade 2",
+    "l": "indoor"
+   }
+  ],
+  "bestFor": [
+   "Homes and light commercial",
+   "Rooms or corridors",
+   "Homes with small pets"
+  ],
+  "notFor": [
+   "Outdoor use"
+  ],
+  "features": [
+   "<b>Flexible lens</b> — wide or narrow",
+   "Human-size element tolerates small pets",
+   "SMDA logic · spherical lens",
+   "Wall or ceiling bracket options"
+  ],
+  "specs": [
+   [
+    "Power",
+    "9.5–16 VDC · 12 mA"
+   ],
+   [
+    "Mount height",
+    "2.0–3.0 m"
+   ],
+   [
+    "Size / weight",
+    "130 × 62 × 56 mm · 120 g"
+   ],
+   [
+    "Operating temp",
+    "−20 to +50 °C"
+   ]
+  ],
+  "models": [
+   [
+    "FLX-S-ST",
+    "PIR — <b>this unit</b>",
+    true
+   ],
+   [
+    "FLX-S-DT",
+    "PIR + microwave"
+   ]
+  ],
+  "qa": [
+   [
+    "Long corridor?",
+    "Flip to the 18 m narrow lens."
+   ],
+   [
+    "Pets?",
+    "Small-pet tolerant."
+   ],
+   [
+    "Dual tech?",
+    "FLX-S-DT."
+   ]
+  ],
+  "source": "Optex FlipX Standard Series datasheet (2022).",
+  "image": "products/07FLX-S-ST/image.png",
+  "onepager": "products/07FLX-S-ST/onepager.pdf"
  }
 ]
